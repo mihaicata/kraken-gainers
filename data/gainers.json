@@ -1,0 +1,57 @@
+[
+  {
+    "timestamp_utc": "2026-07-31T18:34:32.956007+00:00",
+    "gainers": [
+      {
+        "pair": "WMTXUSD",
+        "pct_change_24h": 102.0025,
+        "last_price": 0.04842
+      },
+      {
+        "pair": "YALAUSD",
+        "pct_change_24h": 61.2903,
+        "last_price": 0.00015
+      },
+      {
+        "pair": "EPTUSD",
+        "pct_change_24h": 51.1111,
+        "last_price": 0.00034
+      },
+      {
+        "pair": "COTIUSD",
+        "pct_change_24h": 30.2739,
+        "last_price": 0.0176
+      },
+      {
+        "pair": "KP3RUSD",
+        "pct_change_24h": 28.8777,
+        "last_price": 1.022
+      },
+      {
+        "pair": "ZEUSUSD",
+        "pct_change_24h": 27.234,
+        "last_price": 0.00299
+      },
+      {
+        "pair": "SIDEKICKUSD",
+        "pct_change_24h": 21.7458,
+        "last_price": 7.95e-05
+      },
+      {
+        "pair": "XNYUSD",
+        "pct_change_24h": 21.0604,
+        "last_price": 0.008197
+      },
+      {
+        "pair": "DRVUSD",
+        "pct_change_24h": 20.8466,
+        "last_price": 0.11391
+      },
+      {
+        "pair": "MUSD",
+        "pct_change_24h": 17.2146,
+        "last_price": 1.14167
+      }
+    ]
+  }
+]
