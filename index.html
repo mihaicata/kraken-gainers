@@ -66,7 +66,18 @@
     color: var(--fg);
     width: 8rem;
   }
-  .status { font-size: 0.85rem; color: var(--muted); margin-left: auto; }
+  button.optimize {
+    font: inherit;
+    font-weight: 600;
+    padding: 0.5rem 0.9rem;
+    border: 1px solid var(--accent);
+    border-radius: 6px;
+    background: var(--accent);
+    color: #fff;
+    cursor: pointer;
+  }
+  button.optimize:disabled { opacity: 0.6; cursor: default; }
+  .status { font-size: 0.85rem; color: var(--muted); margin-left: auto; text-align: right; }
 
   .summary {
     display: grid;
@@ -126,6 +137,10 @@
     <div class="field">
       <label for="amount">Invest per position (€)</label>
       <input id="amount" type="number" value="100" min="1" step="10" />
+    </div>
+    <div class="field">
+      <label>&nbsp;</label>
+      <button class="optimize" id="optimize" type="button">Find best take-profit %</button>
     </div>
     <div class="status" id="status">Loading…</div>
   </div>
@@ -188,74 +203,63 @@ function fmtPct(n) {
   return `${n >= 0 ? "+" : ""}${n.toFixed(2)}%`;
 }
 
-async function run() {
-  const statusEl = document.getElementById("status");
-  const tp = parseFloat(document.getElementById("tp").value) || 0;
-  const amount = parseFloat(document.getElementById("amount").value) || 0;
+// Base data, loaded once from the network: entry price + full observed
+// price trail per position. Take-profit % and invest amount are then
+// applied purely in-memory (no refetching) so re-running the simulation
+// for a single input change, or scanning hundreds of take-profit values
+// to optimize, is instant.
+let BASE = null; // { positions: [{timestamp, pair, entryPrice, trail}], eurusd }
 
+async function loadData() {
+  const statusEl = document.getElementById("status");
   statusEl.textContent = "Loading snapshots…";
-  let history;
-  try {
-    history = await fetchJSON("data/gainers.json");
-  } catch (e) {
-    statusEl.textContent = "Could not load data/gainers.json";
-    return;
-  }
+  const history = await fetchJSON("data/gainers.json");
 
   // Flatten: every (timestamp, pair) appearance is its own position, in the
   // order it was recorded — this is what "invested €100 at the time each
   // timestamp was taken" means for a coin that shows up in several runs.
   const positions = [];
-  for (const run of history) {
-    for (const g of run.gainers) {
-      positions.push({ timestamp: run.timestamp_utc, pair: g.pair, entryPrice: g.last_price });
-    }
-  }
-
-  if (!positions.length) {
-    document.getElementById("empty").hidden = false;
-    document.getElementById("table").hidden = true;
-    statusEl.textContent = "No data yet";
-    return;
-  }
-
-  // For each pair, the price observed in every later run is a real, known
-  // price point — use those (plus the live price) to check whether the
-  // take-profit target was ever reached. This is still an approximation:
-  // pairs that drop out of the top-10 gainers list leave no price trail
-  // until the live fetch below, so a target crossed *between* snapshots
-  // and back out again could be missed.
   const pairPriceTrail = {}; // pair -> [{timestamp, price}] in chronological order
   for (const run of history) {
     for (const g of run.gainers) {
+      positions.push({ timestamp: run.timestamp_utc, pair: g.pair, entryPrice: g.last_price });
       (pairPriceTrail[g.pair] ??= []).push({ timestamp: run.timestamp_utc, price: g.last_price });
     }
   }
 
+  if (!positions.length) return { positions: [], eurusd: null };
+
   statusEl.textContent = "Fetching live prices & EUR/USD rate…";
   const uniquePairs = [...new Set(positions.map((p) => p.pair))];
-  let liveTickers = {};
-  let eurusd = null;
-  try {
-    const [tickers, fx] = await Promise.all([
-      fetchTickers(uniquePairs),
-      fetchTickers(["ZEURZUSD"]),
-    ]);
-    liveTickers = tickers;
-    eurusd = parseFloat(Object.values(fx)[0].c[0]);
-  } catch (e) {
-    statusEl.textContent = `Live price fetch failed: ${e.message}`;
-    return;
-  }
+  const [liveTickers, fx] = await Promise.all([
+    fetchTickers(uniquePairs),
+    fetchTickers(["ZEURZUSD"]),
+  ]);
+  const eurusd = parseFloat(Object.values(fx)[0].c[0]);
 
+  // For each pair, the price observed in every later run is a real, known
+  // price point — use those (plus the live price) to check whether a
+  // take-profit target was ever reached. This is still an approximation:
+  // pairs that drop out of the top-10 gainers list leave no price trail
+  // until the live fetch here, so a target crossed *between* snapshots
+  // and back out again could be missed.
   const now = new Date().toISOString();
   for (const p of positions) {
-    const trail = pairPriceTrail[p.pair].filter((t) => t.timestamp > p.timestamp);
+    p.trail = pairPriceTrail[p.pair].filter((t) => t.timestamp > p.timestamp);
     const live = liveTickers[p.pair] ? parseFloat(liveTickers[p.pair].c[0]) : null;
-    if (live !== null) trail.push({ timestamp: now, price: live });
+    if (live !== null) p.trail.push({ timestamp: now, price: live });
+  }
 
+  return { positions, eurusd };
+}
+
+// Pure: apply a take-profit % and invest amount to the base positions.
+// No network access, so this is cheap to call in a loop when optimizing.
+function simulate(basePositions, eurusd, tp, amount) {
+  return basePositions.map((base) => {
+    const p = { ...base };
     p.targetPrice = p.entryPrice * (1 + tp / 100);
-    const hit = trail.find((t) => t.price >= p.targetPrice);
+    const hit = p.trail.find((t) => t.price >= p.targetPrice);
 
     if (hit) {
       p.status = "closed";
@@ -263,7 +267,7 @@ async function run() {
       p.exitTimestamp = hit.timestamp;
     } else {
       p.status = "open";
-      p.exitPrice = trail.length ? trail[trail.length - 1].price : p.entryPrice;
+      p.exitPrice = p.trail.length ? p.trail[p.trail.length - 1].price : p.entryPrice;
     }
 
     const usdInvested = amount * eurusd;
@@ -272,18 +276,82 @@ async function run() {
     p.valueEUR = valueUSD / eurusd;
     p.plEUR = p.valueEUR - amount;
     p.plPct = (p.plEUR / amount) * 100;
+    return p;
+  });
+}
+
+function totalYield(basePositions, eurusd, tp, amount) {
+  const positions = simulate(basePositions, eurusd, tp, amount);
+  const invested = positions.length * amount;
+  const value = positions.reduce((s, p) => s + p.valueEUR, 0);
+  return (value - invested) / invested * 100;
+}
+
+async function run() {
+  const statusEl = document.getElementById("status");
+  const tp = parseFloat(document.getElementById("tp").value) || 0;
+  const amount = parseFloat(document.getElementById("amount").value) || 0;
+
+  try {
+    if (!BASE) BASE = await loadData();
+  } catch (e) {
+    statusEl.textContent = `Could not load data: ${e.message}`;
+    return;
   }
 
+  if (!BASE.positions.length) {
+    document.getElementById("empty").hidden = false;
+    document.getElementById("table").hidden = true;
+    statusEl.textContent = "No data yet";
+    return;
+  }
+
+  const positions = simulate(BASE.positions, BASE.eurusd, tp, amount);
   positions.sort((a, b) => (a.timestamp < b.timestamp ? 1 : -1));
   renderSummary(positions, amount);
   renderTable(positions);
-  statusEl.textContent = `${positions.length} position${positions.length === 1 ? "" : "s"} · EUR/USD ${eurusd.toFixed(4)} · updated ${new Date().toLocaleTimeString()}`;
+  statusEl.textContent = `${positions.length} position${positions.length === 1 ? "" : "s"} · EUR/USD ${BASE.eurusd.toFixed(4)} · updated ${new Date().toLocaleTimeString()}`;
 
   document.getElementById("footnote").textContent =
     `Take-profit orders are simulated: a position closes at the target price the first time a later recorded ` +
     `price (from a later snapshot, or the live price fetched just now) reaches it. Coins that drop out of the ` +
     `top-10 gainers list stop being tracked until the live-price check, so a target briefly crossed in between ` +
     `can be missed. EUR/USD conversion uses the current rate for all positions, not the historical rate at entry time.`;
+}
+
+// Brute-force scan of take-profit percentages (0.5% steps up to 300%) to
+// find the one that maximizes total portfolio yield, given the currently
+// observed price trails. Pure in-memory computation, no network calls.
+async function optimize() {
+  const btn = document.getElementById("optimize");
+  const statusEl = document.getElementById("status");
+  const amount = parseFloat(document.getElementById("amount").value) || 0;
+
+  btn.disabled = true;
+  btn.textContent = "Searching…";
+  try {
+    if (!BASE) BASE = await loadData();
+    if (!BASE.positions.length) {
+      statusEl.textContent = "No data yet";
+      return;
+    }
+
+    let best = { tp: 0, yield: -Infinity };
+    for (let tp = 0.5; tp <= 300; tp += 0.5) {
+      const y = totalYield(BASE.positions, BASE.eurusd, tp, amount);
+      if (y > best.yield) best = { tp, yield: y };
+    }
+
+    document.getElementById("tp").value = best.tp;
+    await run();
+    statusEl.textContent =
+      `Best take-profit: ${best.tp}% → ${fmtPct(best.yield)} yield · ` + statusEl.textContent;
+  } catch (e) {
+    statusEl.textContent = `Optimization failed: ${e.message}`;
+  } finally {
+    btn.disabled = false;
+    btn.textContent = "Find best take-profit %";
+  }
 }
 
 function renderSummary(positions, amount) {
@@ -332,6 +400,7 @@ function renderTable(positions) {
 
 document.getElementById("tp").addEventListener("change", run);
 document.getElementById("amount").addEventListener("change", run);
+document.getElementById("optimize").addEventListener("click", optimize);
 run();
 </script>
 </body>
