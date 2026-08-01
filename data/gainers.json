@@ -108,5 +108,60 @@
         "last_price": 0.007886
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-01T03:17:47.813142+00:00",
+    "gainers": [
+      {
+        "pair": "EPTUSD",
+        "pct_change_24h": 51.1111,
+        "last_price": 0.00034
+      },
+      {
+        "pair": "STUSD",
+        "pct_change_24h": 24.4995,
+        "last_price": 0.014737
+      },
+      {
+        "pair": "TAKEUSD",
+        "pct_change_24h": 24.2585,
+        "last_price": 0.03519
+      },
+      {
+        "pair": "KINUSD",
+        "pct_change_24h": 22.0109,
+        "last_price": 4.49e-07
+      },
+      {
+        "pair": "SIDEKICKUSD",
+        "pct_change_24h": 21.7458,
+        "last_price": 7.95e-05
+      },
+      {
+        "pair": "ICNTUSD",
+        "pct_change_24h": 17.6161,
+        "last_price": 0.1342
+      },
+      {
+        "pair": "BABYUSD",
+        "pct_change_24h": 14.2241,
+        "last_price": 0.01325
+      },
+      {
+        "pair": "DUCKUSD",
+        "pct_change_24h": 13.2075,
+        "last_price": 6e-05
+      },
+      {
+        "pair": "POLISUSD",
+        "pct_change_24h": 12.0137,
+        "last_price": 0.00979
+      },
+      {
+        "pair": "KOBANUSD",
+        "pct_change_24h": 8.5561,
+        "last_price": 4.06e-05
+      }
+    ]
   }
 ]
