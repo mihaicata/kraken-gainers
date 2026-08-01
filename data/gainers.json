@@ -383,5 +383,60 @@
         "last_price": 1.517
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-01T20:57:22.284320+00:00",
+    "gainers": [
+      {
+        "pair": "EPTUSD",
+        "pct_change_24h": 51.1111,
+        "last_price": 0.00034
+      },
+      {
+        "pair": "BLESSUSD",
+        "pct_change_24h": 32.9799,
+        "last_price": 0.010911
+      },
+      {
+        "pair": "UAIUSD",
+        "pct_change_24h": 32.5624,
+        "last_price": 0.49809
+      },
+      {
+        "pair": "AKEUSD",
+        "pct_change_24h": 27.0226,
+        "last_price": 0.00553825
+      },
+      {
+        "pair": "TRUUSD",
+        "pct_change_24h": 21.9178,
+        "last_price": 0.00089
+      },
+      {
+        "pair": "STUSD",
+        "pct_change_24h": 20.1233,
+        "last_price": 0.014219
+      },
+      {
+        "pair": "BALUSD",
+        "pct_change_24h": 20.0194,
+        "last_price": 0.1235
+      },
+      {
+        "pair": "ESUSD",
+        "pct_change_24h": 18.1818,
+        "last_price": 0.0013
+      },
+      {
+        "pair": "APRUSD",
+        "pct_change_24h": 17.5993,
+        "last_price": 0.23013
+      },
+      {
+        "pair": "KP3RUSD",
+        "pct_change_24h": 16.6253,
+        "last_price": 0.94
+      }
+    ]
   }
 ]
