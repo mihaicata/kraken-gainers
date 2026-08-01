@@ -1,0 +1,338 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Kraken Gainers — Portfolio Simulator</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #ffffff;
+    --fg: #1a1a1a;
+    --muted: #6b7280;
+    --border: #e5e7eb;
+    --card: #f9fafb;
+    --green: #067647;
+    --green-bg: #ecfdf3;
+    --red: #b42318;
+    --red-bg: #fef3f2;
+    --accent: #5b21b6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #121212;
+      --fg: #e8e8e8;
+      --muted: #9aa0a6;
+      --border: #2a2a2a;
+      --card: #1a1a1a;
+      --green: #4ade80;
+      --green-bg: #0f2a1c;
+      --red: #f87171;
+      --red-bg: #2a1414;
+      --accent: #a78bfa;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 2rem 1.25rem 4rem;
+    background: var(--bg);
+    color: var(--fg);
+    font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  main { max-width: 980px; margin: 0 auto; }
+  h1 { font-size: 1.4rem; margin: 0 0 0.25rem; }
+  .subtitle { color: var(--muted); margin: 0 0 1.5rem; font-size: 0.9rem; }
+
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: end;
+    gap: 1rem;
+    padding: 1rem;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    margin-bottom: 1.5rem;
+  }
+  .field { display: flex; flex-direction: column; gap: 0.3rem; }
+  .field label { font-size: 0.8rem; color: var(--muted); }
+  .field input {
+    font: inherit;
+    padding: 0.45rem 0.6rem;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--bg);
+    color: var(--fg);
+    width: 8rem;
+  }
+  .status { font-size: 0.85rem; color: var(--muted); margin-left: auto; }
+
+  .summary {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+  }
+  .stat {
+    padding: 0.9rem 1rem;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: var(--card);
+  }
+  .stat .label { font-size: 0.75rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.02em; }
+  .stat .value { font-size: 1.3rem; font-weight: 600; margin-top: 0.2rem; }
+  .pos { color: var(--green); }
+  .neg { color: var(--red); }
+
+  .table-wrap {
+    overflow-x: auto;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+  }
+  table { border-collapse: collapse; width: 100%; min-width: 760px; font-size: 0.85rem; }
+  th, td { padding: 0.55rem 0.75rem; text-align: right; white-space: nowrap; border-bottom: 1px solid var(--border); }
+  th:first-child, td:first-child, th:nth-child(2), td:nth-child(2) { text-align: left; }
+  thead th { position: sticky; top: 0; background: var(--card); font-size: 0.72rem; text-transform: uppercase; color: var(--muted); letter-spacing: 0.02em; }
+  tbody tr:last-child td { border-bottom: none; }
+  .pair { font-weight: 600; }
+  .badge {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    font-size: 0.72rem;
+    font-weight: 600;
+  }
+  .badge.closed { background: var(--green-bg); color: var(--green); }
+  .badge.open { background: var(--card); color: var(--muted); border: 1px solid var(--border); }
+
+  .note { font-size: 0.78rem; color: var(--muted); margin-top: 1rem; line-height: 1.6; }
+  .empty { padding: 2rem; text-align: center; color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Kraken Gainers — Portfolio Simulator</h1>
+  <p class="subtitle">
+    Simulates investing €100 in every crypto the moment it appeared in the
+    <a href="data/gainers.json">gainers snapshots</a>, with a take-profit order on each position.
+  </p>
+
+  <div class="controls">
+    <div class="field">
+      <label for="tp">Take-profit (%)</label>
+      <input id="tp" type="number" value="20" min="0.1" step="0.5" />
+    </div>
+    <div class="field">
+      <label for="amount">Invest per position (€)</label>
+      <input id="amount" type="number" value="100" min="1" step="10" />
+    </div>
+    <div class="status" id="status">Loading…</div>
+  </div>
+
+  <div class="summary" id="summary"></div>
+  <div class="table-wrap">
+    <table id="table" hidden>
+      <thead>
+        <tr>
+          <th>Timestamp (UTC)</th>
+          <th>Pair</th>
+          <th>Entry price</th>
+          <th>Target (+TP%)</th>
+          <th>Status</th>
+          <th>Exit / last price</th>
+          <th>Value (€)</th>
+          <th>P/L (€)</th>
+          <th>P/L (%)</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+    <div class="empty" id="empty" hidden>No data yet — the first cron run hasn't landed.</div>
+  </div>
+
+  <p class="note" id="footnote"></p>
+</main>
+
+<script>
+const KRAKEN_API = "https://api.kraken.com/0/public";
+
+async function fetchJSON(url) {
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`${url} -> ${res.status}`);
+  return res.json();
+}
+
+// Kraken batches tickers into comma-separated Ticker requests, chunked to
+// keep URLs short (same limit the cron script uses).
+async function fetchTickers(pairs) {
+  const out = {};
+  const chunkSize = 50;
+  for (let i = 0; i < pairs.length; i += chunkSize) {
+    const chunk = pairs.slice(i, i + chunkSize);
+    const data = await fetchJSON(`${KRAKEN_API}/Ticker?pair=${chunk.join(",")}`);
+    if (data.error && data.error.length) throw new Error(data.error.join(", "));
+    Object.assign(out, data.result);
+  }
+  return out;
+}
+
+function fmtEUR(n) {
+  return n.toLocaleString("en-IE", { style: "currency", currency: "EUR", maximumFractionDigits: 2 });
+}
+function fmtPrice(n) {
+  if (n === null || n === undefined) return "—";
+  return n < 1 ? n.toPrecision(4) : n.toLocaleString("en-US", { maximumFractionDigits: 4 });
+}
+function fmtPct(n) {
+  return `${n >= 0 ? "+" : ""}${n.toFixed(2)}%`;
+}
+
+async function run() {
+  const statusEl = document.getElementById("status");
+  const tp = parseFloat(document.getElementById("tp").value) || 0;
+  const amount = parseFloat(document.getElementById("amount").value) || 0;
+
+  statusEl.textContent = "Loading snapshots…";
+  let history;
+  try {
+    history = await fetchJSON("data/gainers.json");
+  } catch (e) {
+    statusEl.textContent = "Could not load data/gainers.json";
+    return;
+  }
+
+  // Flatten: every (timestamp, pair) appearance is its own position, in the
+  // order it was recorded — this is what "invested €100 at the time each
+  // timestamp was taken" means for a coin that shows up in several runs.
+  const positions = [];
+  for (const run of history) {
+    for (const g of run.gainers) {
+      positions.push({ timestamp: run.timestamp_utc, pair: g.pair, entryPrice: g.last_price });
+    }
+  }
+
+  if (!positions.length) {
+    document.getElementById("empty").hidden = false;
+    document.getElementById("table").hidden = true;
+    statusEl.textContent = "No data yet";
+    return;
+  }
+
+  // For each pair, the price observed in every later run is a real, known
+  // price point — use those (plus the live price) to check whether the
+  // take-profit target was ever reached. This is still an approximation:
+  // pairs that drop out of the top-10 gainers list leave no price trail
+  // until the live fetch below, so a target crossed *between* snapshots
+  // and back out again could be missed.
+  const pairPriceTrail = {}; // pair -> [{timestamp, price}] in chronological order
+  for (const run of history) {
+    for (const g of run.gainers) {
+      (pairPriceTrail[g.pair] ??= []).push({ timestamp: run.timestamp_utc, price: g.last_price });
+    }
+  }
+
+  statusEl.textContent = "Fetching live prices & EUR/USD rate…";
+  const uniquePairs = [...new Set(positions.map((p) => p.pair))];
+  let liveTickers = {};
+  let eurusd = null;
+  try {
+    const [tickers, fx] = await Promise.all([
+      fetchTickers(uniquePairs),
+      fetchTickers(["ZEURZUSD"]),
+    ]);
+    liveTickers = tickers;
+    eurusd = parseFloat(Object.values(fx)[0].c[0]);
+  } catch (e) {
+    statusEl.textContent = `Live price fetch failed: ${e.message}`;
+    return;
+  }
+
+  const now = new Date().toISOString();
+  for (const p of positions) {
+    const trail = pairPriceTrail[p.pair].filter((t) => t.timestamp > p.timestamp);
+    const live = liveTickers[p.pair] ? parseFloat(liveTickers[p.pair].c[0]) : null;
+    if (live !== null) trail.push({ timestamp: now, price: live });
+
+    p.targetPrice = p.entryPrice * (1 + tp / 100);
+    const hit = trail.find((t) => t.price >= p.targetPrice);
+
+    if (hit) {
+      p.status = "closed";
+      p.exitPrice = p.targetPrice; // a real TP limit order fills at the target, not the peak
+      p.exitTimestamp = hit.timestamp;
+    } else {
+      p.status = "open";
+      p.exitPrice = trail.length ? trail[trail.length - 1].price : p.entryPrice;
+    }
+
+    const usdInvested = amount * eurusd;
+    const coins = usdInvested / p.entryPrice;
+    const valueUSD = coins * p.exitPrice;
+    p.valueEUR = valueUSD / eurusd;
+    p.plEUR = p.valueEUR - amount;
+    p.plPct = (p.plEUR / amount) * 100;
+  }
+
+  positions.sort((a, b) => (a.timestamp < b.timestamp ? 1 : -1));
+  renderSummary(positions, amount);
+  renderTable(positions);
+  statusEl.textContent = `${positions.length} position${positions.length === 1 ? "" : "s"} · EUR/USD ${eurusd.toFixed(4)} · updated ${new Date().toLocaleTimeString()}`;
+
+  document.getElementById("footnote").textContent =
+    `Take-profit orders are simulated: a position closes at the target price the first time a later recorded ` +
+    `price (from a later snapshot, or the live price fetched just now) reaches it. Coins that drop out of the ` +
+    `top-10 gainers list stop being tracked until the live-price check, so a target briefly crossed in between ` +
+    `can be missed. EUR/USD conversion uses the current rate for all positions, not the historical rate at entry time.`;
+}
+
+function renderSummary(positions, amount) {
+  const invested = positions.length * amount;
+  const value = positions.reduce((s, p) => s + p.valueEUR, 0);
+  const pl = value - invested;
+  const plPct = (pl / invested) * 100;
+  const closed = positions.filter((p) => p.status === "closed").length;
+
+  const stat = (label, value, cls = "") => `
+    <div class="stat">
+      <div class="label">${label}</div>
+      <div class="value ${cls}">${value}</div>
+    </div>`;
+
+  document.getElementById("summary").innerHTML = [
+    stat("Positions", positions.length),
+    stat("Invested", fmtEUR(invested)),
+    stat("Current value", fmtEUR(value)),
+    stat("P/L", `${fmtEUR(pl)} (${fmtPct(plPct)})`, pl >= 0 ? "pos" : "neg"),
+    stat("Take-profit hit", `${closed} / ${positions.length}`),
+  ].join("");
+}
+
+function renderTable(positions) {
+  const tbody = document.getElementById("tbody");
+  tbody.innerHTML = positions
+    .map(
+      (p) => `
+    <tr>
+      <td>${p.timestamp.replace("T", " ").slice(0, 16)}</td>
+      <td class="pair">${p.pair}</td>
+      <td>$${fmtPrice(p.entryPrice)}</td>
+      <td>$${fmtPrice(p.targetPrice)}</td>
+      <td><span class="badge ${p.status}">${p.status === "closed" ? "Closed · TP hit" : "Open"}</span></td>
+      <td>$${fmtPrice(p.exitPrice)}</td>
+      <td>${fmtEUR(p.valueEUR)}</td>
+      <td class="${p.plEUR >= 0 ? "pos" : "neg"}">${fmtEUR(p.plEUR)}</td>
+      <td class="${p.plPct >= 0 ? "pos" : "neg"}">${fmtPct(p.plPct)}</td>
+    </tr>`
+    )
+    .join("");
+  document.getElementById("table").hidden = false;
+  document.getElementById("empty").hidden = true;
+}
+
+document.getElementById("tp").addEventListener("change", run);
+document.getElementById("amount").addEventListener("change", run);
+run();
+</script>
+</body>
+</html>
