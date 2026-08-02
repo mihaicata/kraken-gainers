@@ -603,5 +603,60 @@
         "last_price": 0.002465
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-02T13:34:59.279558+00:00",
+    "gainers": [
+      {
+        "pair": "EPTUSD",
+        "pct_change_24h": 51.1111,
+        "last_price": 0.00034
+      },
+      {
+        "pair": "BLESSUSD",
+        "pct_change_24h": 33.9642,
+        "last_price": 0.015359
+      },
+      {
+        "pair": "TRUUSD",
+        "pct_change_24h": 27.3684,
+        "last_price": 0.00121
+      },
+      {
+        "pair": "CAMPUSD",
+        "pct_change_24h": 27.1242,
+        "last_price": 0.000389
+      },
+      {
+        "pair": "MANTRAUSD",
+        "pct_change_24h": 21.3813,
+        "last_price": 0.006415
+      },
+      {
+        "pair": "UUSD",
+        "pct_change_24h": 20.3822,
+        "last_price": 0.000378
+      },
+      {
+        "pair": "TAKEUSD",
+        "pct_change_24h": 17.8047,
+        "last_price": 0.03209
+      },
+      {
+        "pair": "KEYUSD",
+        "pct_change_24h": 17.4194,
+        "last_price": 3.64e-05
+      },
+      {
+        "pair": "KP3RUSD",
+        "pct_change_24h": 16.6253,
+        "last_price": 0.94
+      },
+      {
+        "pair": "ICNTUSD",
+        "pct_change_24h": 15.8924,
+        "last_price": 0.1422
+      }
+    ]
   }
 ]
