@@ -713,5 +713,60 @@
         "last_price": 0.00111
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-02T20:59:04.802763+00:00",
+    "gainers": [
+      {
+        "pair": "BLESSUSD",
+        "pct_change_24h": 51.5133,
+        "last_price": 0.017371
+      },
+      {
+        "pair": "EPTUSD",
+        "pct_change_24h": 51.1111,
+        "last_price": 0.00034
+      },
+      {
+        "pair": "FORTHUSD",
+        "pct_change_24h": 50.2618,
+        "last_price": 0.287
+      },
+      {
+        "pair": "TAKEUSD",
+        "pct_change_24h": 34.7651,
+        "last_price": 0.03671
+      },
+      {
+        "pair": "TRUUSD",
+        "pct_change_24h": 31.5789,
+        "last_price": 0.00125
+      },
+      {
+        "pair": "KEYUSD",
+        "pct_change_24h": 24.1935,
+        "last_price": 3.85e-05
+      },
+      {
+        "pair": "FHEUSD",
+        "pct_change_24h": 22.1168,
+        "last_price": 0.02446
+      },
+      {
+        "pair": "BABYSHARKUSD",
+        "pct_change_24h": 19.957,
+        "last_price": 0.005584
+      },
+      {
+        "pair": "ANONUSD",
+        "pct_change_24h": 17.8571,
+        "last_price": 0.33
+      },
+      {
+        "pair": "PEPECOINUSD",
+        "pct_change_24h": 16.0336,
+        "last_price": 0.08156
+      }
+    ]
   }
 ]
