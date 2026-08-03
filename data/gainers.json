@@ -878,5 +878,60 @@
         "last_price": 6.2e-05
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-03T11:28:25.191965+00:00",
+    "gainers": [
+      {
+        "pair": "AI3USD",
+        "pct_change_24h": 114.8936,
+        "last_price": 0.00303
+      },
+      {
+        "pair": "EPTUSD",
+        "pct_change_24h": 51.1111,
+        "last_price": 0.00034
+      },
+      {
+        "pair": "ALLOUSD",
+        "pct_change_24h": 22.1338,
+        "last_price": 0.3068
+      },
+      {
+        "pair": "BADGERUSD",
+        "pct_change_24h": 14.1038,
+        "last_price": 0.3584
+      },
+      {
+        "pair": "TRUUSD",
+        "pct_change_24h": 13.9785,
+        "last_price": 0.00106
+      },
+      {
+        "pair": "HPOS10IUSD",
+        "pct_change_24h": 12.2271,
+        "last_price": 0.01028
+      },
+      {
+        "pair": "PERPUSD",
+        "pct_change_24h": 11.5183,
+        "last_price": 0.0213
+      },
+      {
+        "pair": "BICOUSD",
+        "pct_change_24h": 11.1596,
+        "last_price": 0.01783
+      },
+      {
+        "pair": "LMWRUSD",
+        "pct_change_24h": 10.6857,
+        "last_price": 0.01243
+      },
+      {
+        "pair": "RBCUSD",
+        "pct_change_24h": 9.9186,
+        "last_price": 0.003646
+      }
+    ]
   }
 ]
