@@ -988,5 +988,60 @@
         "last_price": 4.19e-07
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-03T17:53:47.322868+00:00",
+    "gainers": [
+      {
+        "pair": "AI3USD",
+        "pct_change_24h": 692.1986,
+        "last_price": 0.01117
+      },
+      {
+        "pair": "EPTUSD",
+        "pct_change_24h": 51.1111,
+        "last_price": 0.00034
+      },
+      {
+        "pair": "ZRCUSD",
+        "pct_change_24h": 29.4471,
+        "last_price": 0.001077
+      },
+      {
+        "pair": "DRIFTUSD",
+        "pct_change_24h": 18.8034,
+        "last_price": 0.0139
+      },
+      {
+        "pair": "KEYUSD",
+        "pct_change_24h": 16.8254,
+        "last_price": 3.68e-05
+      },
+      {
+        "pair": "ROBOUSD",
+        "pct_change_24h": 14.2732,
+        "last_price": 0.01305
+      },
+      {
+        "pair": "AKTUSD",
+        "pct_change_24h": 12.5107,
+        "last_price": 0.5261
+      },
+      {
+        "pair": "BICOUSD",
+        "pct_change_24h": 12.2195,
+        "last_price": 0.018
+      },
+      {
+        "pair": "LMWRUSD",
+        "pct_change_24h": 11.1309,
+        "last_price": 0.01248
+      },
+      {
+        "pair": "MNGOUSD",
+        "pct_change_24h": 10.9516,
+        "last_price": 0.02705
+      }
+    ]
   }
 ]
