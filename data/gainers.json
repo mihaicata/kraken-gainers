@@ -1373,5 +1373,60 @@
         "last_price": 0.357
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-04T21:14:38.494852+00:00",
+    "gainers": [
+      {
+        "pair": "XTERUSD",
+        "pct_change_24h": 40.0922,
+        "last_price": 0.01216
+      },
+      {
+        "pair": "LITUSD",
+        "pct_change_24h": 39.7701,
+        "last_price": 0.1216
+      },
+      {
+        "pair": "TAKEUSD",
+        "pct_change_24h": 26.4365,
+        "last_price": 0.04467
+      },
+      {
+        "pair": "HFTUSD",
+        "pct_change_24h": 24.6531,
+        "last_price": 0.01168
+      },
+      {
+        "pair": "BICOUSD",
+        "pct_change_24h": 24.5395,
+        "last_price": 0.02096
+      },
+      {
+        "pair": "DUCKUSD",
+        "pct_change_24h": 20.8955,
+        "last_price": 8.1e-05
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 20.8696,
+        "last_price": 0.417
+      },
+      {
+        "pair": "BDXNUSD",
+        "pct_change_24h": 19.5122,
+        "last_price": 0.00049
+      },
+      {
+        "pair": "COTIUSD",
+        "pct_change_24h": 18.9059,
+        "last_price": 0.01478
+      },
+      {
+        "pair": "PUMPUSD",
+        "pct_change_24h": 17.2058,
+        "last_price": 0.0025
+      }
+    ]
   }
 ]
