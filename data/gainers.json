@@ -1318,5 +1318,60 @@
         "last_price": 0.00074
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-04T17:51:28.724470+00:00",
+    "gainers": [
+      {
+        "pair": "DUCKUSD",
+        "pct_change_24h": 29.8507,
+        "last_price": 8.7e-05
+      },
+      {
+        "pair": "SLAYUSD",
+        "pct_change_24h": 26.327,
+        "last_price": 0.00119
+      },
+      {
+        "pair": "BICOUSD",
+        "pct_change_24h": 25.9655,
+        "last_price": 0.0212
+      },
+      {
+        "pair": "LITUSD",
+        "pct_change_24h": 25.5172,
+        "last_price": 0.1092
+      },
+      {
+        "pair": "TAKEUSD",
+        "pct_change_24h": 22.8135,
+        "last_price": 0.04339
+      },
+      {
+        "pair": "QUIDUSD",
+        "pct_change_24h": 17.5653,
+        "last_price": 0.11753
+      },
+      {
+        "pair": "UXLINKUSD",
+        "pct_change_24h": 14.7059,
+        "last_price": 0.00078
+      },
+      {
+        "pair": "ZEREBROUSD",
+        "pct_change_24h": 13.8736,
+        "last_price": 0.04145
+      },
+      {
+        "pair": "COTIUSD",
+        "pct_change_24h": 13.6766,
+        "last_price": 0.01413
+      },
+      {
+        "pair": "BADGERUSD",
+        "pct_change_24h": 13.6581,
+        "last_price": 0.357
+      }
+    ]
   }
 ]
