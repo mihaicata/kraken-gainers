@@ -1208,5 +1208,60 @@
         "last_price": 0.01366
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-04T10:42:36.914224+00:00",
+    "gainers": [
+      {
+        "pair": "AMIUSD",
+        "pct_change_24h": 57.2089,
+        "last_price": 0.002039
+      },
+      {
+        "pair": "DUCKUSD",
+        "pct_change_24h": 34.3284,
+        "last_price": 9e-05
+      },
+      {
+        "pair": "YALAUSD",
+        "pct_change_24h": 13.75,
+        "last_price": 9.1e-05
+      },
+      {
+        "pair": "AIOUSD",
+        "pct_change_24h": 13.3767,
+        "last_price": 0.04009
+      },
+      {
+        "pair": "ZEREBROUSD",
+        "pct_change_24h": 9.8352,
+        "last_price": 0.03998
+      },
+      {
+        "pair": "CHECKUSD",
+        "pct_change_24h": 9.2966,
+        "last_price": 0.020139
+      },
+      {
+        "pair": "CLOUDUSD",
+        "pct_change_24h": 9.0,
+        "last_price": 0.0218
+      },
+      {
+        "pair": "RBCUSD",
+        "pct_change_24h": 8.3204,
+        "last_price": 0.003489
+      },
+      {
+        "pair": "COTIUSD",
+        "pct_change_24h": 7.4014,
+        "last_price": 0.01335
+      },
+      {
+        "pair": "ORDERUSD",
+        "pct_change_24h": 7.2684,
+        "last_price": 0.03173
+      }
+    ]
   }
 ]
