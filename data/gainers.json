@@ -1263,5 +1263,60 @@
         "last_price": 0.03173
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-04T14:23:19.956611+00:00",
+    "gainers": [
+      {
+        "pair": "SLAYUSD",
+        "pct_change_24h": 33.4395,
+        "last_price": 0.001257
+      },
+      {
+        "pair": "DUCKUSD",
+        "pct_change_24h": 32.8358,
+        "last_price": 8.9e-05
+      },
+      {
+        "pair": "QUIDUSD",
+        "pct_change_24h": 30.9693,
+        "last_price": 0.13093
+      },
+      {
+        "pair": "AMIUSD",
+        "pct_change_24h": 24.6723,
+        "last_price": 0.001617
+      },
+      {
+        "pair": "ZEREBROUSD",
+        "pct_change_24h": 15.0275,
+        "last_price": 0.04187
+      },
+      {
+        "pair": "ROLLUSD",
+        "pct_change_24h": 12.3648,
+        "last_price": 0.14958
+      },
+      {
+        "pair": "COTIUSD",
+        "pct_change_24h": 12.2285,
+        "last_price": 0.01395
+      },
+      {
+        "pair": "NOSUSD",
+        "pct_change_24h": 10.7667,
+        "last_price": 0.2716
+      },
+      {
+        "pair": "KP3RUSD",
+        "pct_change_24h": 9.0308,
+        "last_price": 0.99
+      },
+      {
+        "pair": "HONEYUSD",
+        "pct_change_24h": 8.8235,
+        "last_price": 0.00074
+      }
+    ]
   }
 ]
