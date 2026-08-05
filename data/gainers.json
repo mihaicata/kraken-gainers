@@ -1428,5 +1428,60 @@
         "last_price": 0.0025
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-05T02:46:13.305971+00:00",
+    "gainers": [
+      {
+        "pair": "LITUSD",
+        "pct_change_24h": 39.6863,
+        "last_price": 0.1781
+      },
+      {
+        "pair": "SKRUSD",
+        "pct_change_24h": 33.2606,
+        "last_price": 0.009163
+      },
+      {
+        "pair": "CLVUSD",
+        "pct_change_24h": 15.508,
+        "last_price": 0.00216
+      },
+      {
+        "pair": "BADGERUSD",
+        "pct_change_24h": 13.467,
+        "last_price": 0.3564
+      },
+      {
+        "pair": "TAKEUSD",
+        "pct_change_24h": 11.7453,
+        "last_price": 0.0509
+      },
+      {
+        "pair": "ANONUSD",
+        "pct_change_24h": 10.9718,
+        "last_price": 0.354
+      },
+      {
+        "pair": "BLESSUSD",
+        "pct_change_24h": 10.623,
+        "last_price": 0.012038
+      },
+      {
+        "pair": "USDUCUSD",
+        "pct_change_24h": 9.5294,
+        "last_price": 0.003724
+      },
+      {
+        "pair": "WENUSD",
+        "pct_change_24h": 6.8842,
+        "last_price": 3.866e-06
+      },
+      {
+        "pair": "SIGNUSD",
+        "pct_change_24h": 6.278,
+        "last_price": 0.00711
+      }
+    ]
   }
 ]
