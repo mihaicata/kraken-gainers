@@ -1483,5 +1483,60 @@
         "last_price": 0.00711
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-05T06:31:27.400970+00:00",
+    "gainers": [
+      {
+        "pair": "BLESSUSD",
+        "pct_change_24h": 46.8112,
+        "last_price": 0.015976
+      },
+      {
+        "pair": "LITUSD",
+        "pct_change_24h": 40.3922,
+        "last_price": 0.179
+      },
+      {
+        "pair": "HFTUSD",
+        "pct_change_24h": 40.0,
+        "last_price": 0.01638
+      },
+      {
+        "pair": "SKRUSD",
+        "pct_change_24h": 39.9215,
+        "last_price": 0.009621
+      },
+      {
+        "pair": "SYNUSD",
+        "pct_change_24h": 34.2857,
+        "last_price": 0.1269
+      },
+      {
+        "pair": "BICOUSD",
+        "pct_change_24h": 29.7862,
+        "last_price": 0.02732
+      },
+      {
+        "pair": "FIDAUSD",
+        "pct_change_24h": 24.926,
+        "last_price": 0.0211
+      },
+      {
+        "pair": "ZEXUSD",
+        "pct_change_24h": 23.2,
+        "last_price": 0.00154
+      },
+      {
+        "pair": "USDUCUSD",
+        "pct_change_24h": 14.4118,
+        "last_price": 0.00389
+      },
+      {
+        "pair": "WMTXUSD",
+        "pct_change_24h": 12.253,
+        "last_price": 0.03124
+      }
+    ]
   }
 ]
