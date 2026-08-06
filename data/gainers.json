@@ -1758,5 +1758,60 @@
         "last_price": 0.00227
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-06T02:49:08.304583+00:00",
+    "gainers": [
+      {
+        "pair": "OBOLUSD",
+        "pct_change_24h": 37.8431,
+        "last_price": 0.004218
+      },
+      {
+        "pair": "GAME2USD",
+        "pct_change_24h": 18.5694,
+        "last_price": 0.0009399
+      },
+      {
+        "pair": "HPOS10IUSD",
+        "pct_change_24h": 18.0058,
+        "last_price": 0.01219
+      },
+      {
+        "pair": "ORDERUSD",
+        "pct_change_24h": 16.6484,
+        "last_price": 0.03188
+      },
+      {
+        "pair": "CAPUSD",
+        "pct_change_24h": 14.6122,
+        "last_price": 0.031947
+      },
+      {
+        "pair": "SHAPEUSD",
+        "pct_change_24h": 13.6986,
+        "last_price": 0.000415
+      },
+      {
+        "pair": "BADGERUSD",
+        "pct_change_24h": 13.2614,
+        "last_price": 0.357
+      },
+      {
+        "pair": "ESPORTSUSD",
+        "pct_change_24h": 10.1064,
+        "last_price": 0.0207
+      },
+      {
+        "pair": "ZEXUSD",
+        "pct_change_24h": 9.6,
+        "last_price": 0.00137
+      },
+      {
+        "pair": "AVAAIUSD",
+        "pct_change_24h": 8.7574,
+        "last_price": 0.00919
+      }
+    ]
   }
 ]
