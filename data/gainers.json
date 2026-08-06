@@ -1868,5 +1868,60 @@
         "last_price": 0.031561
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-06T10:42:41.715693+00:00",
+    "gainers": [
+      {
+        "pair": "TAKEUSD",
+        "pct_change_24h": 81.8108,
+        "last_price": 0.06727
+      },
+      {
+        "pair": "CTSIUSD",
+        "pct_change_24h": 48.0966,
+        "last_price": 0.0319
+      },
+      {
+        "pair": "LITUSD",
+        "pct_change_24h": 46.6592,
+        "last_price": 0.3907
+      },
+      {
+        "pair": "SHAPEUSD",
+        "pct_change_24h": 36.9863,
+        "last_price": 0.0005
+      },
+      {
+        "pair": "COTIUSD",
+        "pct_change_24h": 21.9062,
+        "last_price": 0.01586
+      },
+      {
+        "pair": "HFTUSD",
+        "pct_change_24h": 17.8826,
+        "last_price": 0.02149
+      },
+      {
+        "pair": "CLVUSD",
+        "pct_change_24h": 17.2973,
+        "last_price": 0.00217
+      },
+      {
+        "pair": "ORDERUSD",
+        "pct_change_24h": 16.6484,
+        "last_price": 0.03188
+      },
+      {
+        "pair": "ZBTUSD",
+        "pct_change_24h": 16.3355,
+        "last_price": 0.14813
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 15.4891,
+        "last_price": 0.425
+      }
+    ]
   }
 ]
