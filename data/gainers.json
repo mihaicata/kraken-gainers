@@ -2253,5 +2253,60 @@
         "last_price": 0.2265
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-07T20:44:28.512874+00:00",
+    "gainers": [
+      {
+        "pair": "GWEIUSD",
+        "pct_change_24h": 42.896,
+        "last_price": 0.030504
+      },
+      {
+        "pair": "BICOUSD",
+        "pct_change_24h": 41.0459,
+        "last_price": 0.05529
+      },
+      {
+        "pair": "HPOS10IUSD",
+        "pct_change_24h": 34.4749,
+        "last_price": 0.01767
+      },
+      {
+        "pair": "SHAPEUSD",
+        "pct_change_24h": 34.1404,
+        "last_price": 0.000554
+      },
+      {
+        "pair": "PUPSUSD",
+        "pct_change_24h": 24.4875,
+        "last_price": 0.002186
+      },
+      {
+        "pair": "C98USD",
+        "pct_change_24h": 23.5337,
+        "last_price": 0.017018
+      },
+      {
+        "pair": "KEYUSD",
+        "pct_change_24h": 21.0084,
+        "last_price": 1.44e-05
+      },
+      {
+        "pair": "CAPUSD",
+        "pct_change_24h": 18.3699,
+        "last_price": 0.036265
+      },
+      {
+        "pair": "CYBERUSD",
+        "pct_change_24h": 17.5,
+        "last_price": 0.376
+      },
+      {
+        "pair": "BADGERUSD",
+        "pct_change_24h": 17.1465,
+        "last_price": 0.3703
+      }
+    ]
   }
 ]
