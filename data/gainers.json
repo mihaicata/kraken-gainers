@@ -1978,5 +1978,60 @@
         "last_price": 0.0151
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-07T00:53:46.971909+00:00",
+    "gainers": [
+      {
+        "pair": "KP3RUSD",
+        "pct_change_24h": 35.1648,
+        "last_price": 0.984
+      },
+      {
+        "pair": "REPPOUSD",
+        "pct_change_24h": 18.46,
+        "last_price": 0.0168
+      },
+      {
+        "pair": "TOKENUSD",
+        "pct_change_24h": 16.686,
+        "last_price": 0.002014
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 15.4891,
+        "last_price": 0.425
+      },
+      {
+        "pair": "BADGERUSD",
+        "pct_change_24h": 13.2614,
+        "last_price": 0.357
+      },
+      {
+        "pair": "RBCUSD",
+        "pct_change_24h": 10.6278,
+        "last_price": 0.004018
+      },
+      {
+        "pair": "C98USD",
+        "pct_change_24h": 8.8103,
+        "last_price": 0.013783
+      },
+      {
+        "pair": "SHAPEUSD",
+        "pct_change_24h": 8.4932,
+        "last_price": 0.000396
+      },
+      {
+        "pair": "BLUAIUSD",
+        "pct_change_24h": 8.311,
+        "last_price": 0.013345
+      },
+      {
+        "pair": "SWARMSUSD",
+        "pct_change_24h": 6.5407,
+        "last_price": 0.00733
+      }
+    ]
   }
 ]
