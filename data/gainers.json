@@ -2033,5 +2033,60 @@
         "last_price": 0.00733
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-07T05:42:41.526591+00:00",
+    "gainers": [
+      {
+        "pair": "KP3RUSD",
+        "pct_change_24h": 35.1648,
+        "last_price": 0.984
+      },
+      {
+        "pair": "PUPSUSD",
+        "pct_change_24h": 18.451,
+        "last_price": 0.00208
+      },
+      {
+        "pair": "GWEIUSD",
+        "pct_change_24h": 15.9273,
+        "last_price": 0.024747
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 15.4891,
+        "last_price": 0.425
+      },
+      {
+        "pair": "BADGERUSD",
+        "pct_change_24h": 13.2614,
+        "last_price": 0.357
+      },
+      {
+        "pair": "CYBERUSD",
+        "pct_change_24h": 12.5,
+        "last_price": 0.36
+      },
+      {
+        "pair": "HOUSEUSD",
+        "pct_change_24h": 10.9948,
+        "last_price": 0.000848
+      },
+      {
+        "pair": "STUSD",
+        "pct_change_24h": 10.2798,
+        "last_price": 0.016671
+      },
+      {
+        "pair": "C98USD",
+        "pct_change_24h": 10.2279,
+        "last_price": 0.015185
+      },
+      {
+        "pair": "KMNOUSD",
+        "pct_change_24h": 9.8865,
+        "last_price": 0.02034
+      }
+    ]
   }
 ]
