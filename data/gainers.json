@@ -2418,5 +2418,60 @@
         "last_price": 0.00199
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-08T08:45:45.853285+00:00",
+    "gainers": [
+      {
+        "pair": "BLUAIUSD",
+        "pct_change_24h": 59.0865,
+        "last_price": 0.019714
+      },
+      {
+        "pair": "ARCUSD",
+        "pct_change_24h": 26.8324,
+        "last_price": 0.06835
+      },
+      {
+        "pair": "GHIBLIUSD",
+        "pct_change_24h": 16.3793,
+        "last_price": 0.000135
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 15.4891,
+        "last_price": 0.425
+      },
+      {
+        "pair": "PIEVERSEUSD",
+        "pct_change_24h": 14.8178,
+        "last_price": 0.8601
+      },
+      {
+        "pair": "AI3USD",
+        "pct_change_24h": 14.433,
+        "last_price": 0.00111
+      },
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 12.1891,
+        "last_price": 0.000451
+      },
+      {
+        "pair": "KP3RUSD",
+        "pct_change_24h": 11.4387,
+        "last_price": 0.945
+      },
+      {
+        "pair": "REUSD",
+        "pct_change_24h": 10.6753,
+        "last_price": 0.43201
+      },
+      {
+        "pair": "SYNUSD",
+        "pct_change_24h": 10.316,
+        "last_price": 0.1187
+      }
+    ]
   }
 ]
