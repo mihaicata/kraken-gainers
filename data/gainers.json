@@ -2308,5 +2308,60 @@
         "last_price": 0.3703
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-08T01:50:22.727652+00:00",
+    "gainers": [
+      {
+        "pair": "BLESSUSD",
+        "pct_change_24h": 23.6329,
+        "last_price": 0.020303
+      },
+      {
+        "pair": "CYBERUSD",
+        "pct_change_24h": 16.5625,
+        "last_price": 0.373
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 15.4891,
+        "last_price": 0.425
+      },
+      {
+        "pair": "HOUSEUSD",
+        "pct_change_24h": 13.7435,
+        "last_price": 0.000869
+      },
+      {
+        "pair": "SAMOUSD",
+        "pct_change_24h": 11.1111,
+        "last_price": 0.00027
+      },
+      {
+        "pair": "AI3USD",
+        "pct_change_24h": 9.2784,
+        "last_price": 0.00106
+      },
+      {
+        "pair": "TREMPUSD",
+        "pct_change_24h": 9.0615,
+        "last_price": 0.00337
+      },
+      {
+        "pair": "SIGMAUSD",
+        "pct_change_24h": 8.938,
+        "last_price": 0.001036
+      },
+      {
+        "pair": "XMNUSD",
+        "pct_change_24h": 8.75,
+        "last_price": 0.00087
+      },
+      {
+        "pair": "CLVUSD",
+        "pct_change_24h": 8.1522,
+        "last_price": 0.00199
+      }
+    ]
   }
 ]
