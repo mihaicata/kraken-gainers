@@ -2528,5 +2528,60 @@
         "last_price": 0.01835
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-08T16:37:15.475703+00:00",
+    "gainers": [
+      {
+        "pair": "BLUAIUSD",
+        "pct_change_24h": 45.376,
+        "last_price": 0.018015
+      },
+      {
+        "pair": "CATUSD",
+        "pct_change_24h": 39.074,
+        "last_price": 2.2167e-06
+      },
+      {
+        "pair": "SBRUSD",
+        "pct_change_24h": 16.6667,
+        "last_price": 0.000357
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 15.4891,
+        "last_price": 0.425
+      },
+      {
+        "pair": "SHAPEUSD",
+        "pct_change_24h": 15.3082,
+        "last_price": 0.00058
+      },
+      {
+        "pair": "REUSD",
+        "pct_change_24h": 13.0604,
+        "last_price": 0.44132
+      },
+      {
+        "pair": "COOKIEUSD",
+        "pct_change_24h": 12.8631,
+        "last_price": 0.01088
+      },
+      {
+        "pair": "MERLUSD",
+        "pct_change_24h": 12.263,
+        "last_price": 0.01895
+      },
+      {
+        "pair": "MUBARAKUSD",
+        "pct_change_24h": 10.828,
+        "last_price": 0.01566
+      },
+      {
+        "pair": "ARCUSD",
+        "pct_change_24h": 9.7977,
+        "last_price": 0.05917
+      }
+    ]
   }
 ]
