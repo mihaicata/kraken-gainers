@@ -2363,5 +2363,60 @@
         "last_price": 0.00199
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-08T05:00:23.807928+00:00",
+    "gainers": [
+      {
+        "pair": "KEYUSD",
+        "pct_change_24h": 28.8288,
+        "last_price": 1.43e-05
+      },
+      {
+        "pair": "ZEXUSD",
+        "pct_change_24h": 18.797,
+        "last_price": 0.00158
+      },
+      {
+        "pair": "GHIBLIUSD",
+        "pct_change_24h": 15.5172,
+        "last_price": 0.000134
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 15.4891,
+        "last_price": 0.425
+      },
+      {
+        "pair": "ARCUSD",
+        "pct_change_24h": 14.2884,
+        "last_price": 0.06159
+      },
+      {
+        "pair": "BICOUSD",
+        "pct_change_24h": 11.0701,
+        "last_price": 0.0602
+      },
+      {
+        "pair": "PIEVERSEUSD",
+        "pct_change_24h": 9.5047,
+        "last_price": 0.8203
+      },
+      {
+        "pair": "CAPUSD",
+        "pct_change_24h": 9.343,
+        "last_price": 0.039428
+      },
+      {
+        "pair": "REUSD",
+        "pct_change_24h": 9.1279,
+        "last_price": 0.42597
+      },
+      {
+        "pair": "CLVUSD",
+        "pct_change_24h": 8.1522,
+        "last_price": 0.00199
+      }
+    ]
   }
 ]
