@@ -2693,5 +2693,60 @@
         "last_price": 0.0201
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-09T05:09:05.925123+00:00",
+    "gainers": [
+      {
+        "pair": "KEYUSD",
+        "pct_change_24h": 41.2844,
+        "last_price": 1.54e-05
+      },
+      {
+        "pair": "MNGOUSD",
+        "pct_change_24h": 41.2794,
+        "last_price": 0.02827
+      },
+      {
+        "pair": "SAGAUSD",
+        "pct_change_24h": 32.929,
+        "last_price": 0.02192
+      },
+      {
+        "pair": "BODENUSD",
+        "pct_change_24h": 22.2649,
+        "last_price": 0.001274
+      },
+      {
+        "pair": "BLUAIUSD",
+        "pct_change_24h": 22.1804,
+        "last_price": 0.024645
+      },
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 15.7895,
+        "last_price": 0.00044
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 15.4891,
+        "last_price": 0.425
+      },
+      {
+        "pair": "BICOUSD",
+        "pct_change_24h": 15.4605,
+        "last_price": 0.07259
+      },
+      {
+        "pair": "BMTUSD",
+        "pct_change_24h": 13.1381,
+        "last_price": 0.01507
+      },
+      {
+        "pair": "ZEREBROUSD",
+        "pct_change_24h": 11.7647,
+        "last_price": 0.03952
+      }
+    ]
   }
 ]
