@@ -2638,5 +2638,60 @@
         "last_price": 0.01793
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-09T01:57:33.073338+00:00",
+    "gainers": [
+      {
+        "pair": "MNGOUSD",
+        "pct_change_24h": 41.2794,
+        "last_price": 0.02827
+      },
+      {
+        "pair": "AVAAIUSD",
+        "pct_change_24h": 30.8901,
+        "last_price": 0.01
+      },
+      {
+        "pair": "BODENUSD",
+        "pct_change_24h": 20.0576,
+        "last_price": 0.001251
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 15.4891,
+        "last_price": 0.425
+      },
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 15.0,
+        "last_price": 0.000437
+      },
+      {
+        "pair": "OMGUSD",
+        "pct_change_24h": 10.5498,
+        "last_price": 0.044797
+      },
+      {
+        "pair": "BICOUSD",
+        "pct_change_24h": 10.2275,
+        "last_price": 0.0693
+      },
+      {
+        "pair": "RAILSUSD",
+        "pct_change_24h": 10.0171,
+        "last_price": 0.04492
+      },
+      {
+        "pair": "TAKEUSD",
+        "pct_change_24h": 9.8578,
+        "last_price": 0.06876
+      },
+      {
+        "pair": "ESPORTSUSD",
+        "pct_change_24h": 9.8361,
+        "last_price": 0.0201
+      }
+    ]
   }
 ]
