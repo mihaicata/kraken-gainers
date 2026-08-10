@@ -3023,5 +3023,60 @@
         "last_price": 0.002142
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-10T05:36:22.158032+00:00",
+    "gainers": [
+      {
+        "pair": "SIDEKICKUSD",
+        "pct_change_24h": 659.2405,
+        "last_price": 0.0002999
+      },
+      {
+        "pair": "KEYUSD",
+        "pct_change_24h": 41.1111,
+        "last_price": 1.27e-05
+      },
+      {
+        "pair": "JAILSTOOLUSD",
+        "pct_change_24h": 29.0043,
+        "last_price": 0.001192
+      },
+      {
+        "pair": "CAPUSD",
+        "pct_change_24h": 26.5914,
+        "last_price": 0.049815
+      },
+      {
+        "pair": "AMIUSD",
+        "pct_change_24h": 22.992,
+        "last_price": 0.001225
+      },
+      {
+        "pair": "NEXUSD",
+        "pct_change_24h": 16.8414,
+        "last_price": 1.672e-06
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 15.4891,
+        "last_price": 0.425
+      },
+      {
+        "pair": "KINUSD",
+        "pct_change_24h": 10.75,
+        "last_price": 4.43e-07
+      },
+      {
+        "pair": "UXLINKUSD",
+        "pct_change_24h": 10.6061,
+        "last_price": 0.00073
+      },
+      {
+        "pair": "BMTUSD",
+        "pct_change_24h": 10.1423,
+        "last_price": 0.03638
+      }
+    ]
   }
 ]
