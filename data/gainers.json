@@ -3133,5 +3133,60 @@
         "last_price": 0.02386
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-10T13:15:44.609327+00:00",
+    "gainers": [
+      {
+        "pair": "SIDEKICKUSD",
+        "pct_change_24h": 659.2405,
+        "last_price": 0.0002999
+      },
+      {
+        "pair": "ACAUSD",
+        "pct_change_24h": 114.7059,
+        "last_price": 0.00073
+      },
+      {
+        "pair": "WENUSD",
+        "pct_change_24h": 81.6901,
+        "last_price": 3.999e-06
+      },
+      {
+        "pair": "TRUUSD",
+        "pct_change_24h": 41.25,
+        "last_price": 0.00113
+      },
+      {
+        "pair": "AMIUSD",
+        "pct_change_24h": 26.1044,
+        "last_price": 0.001256
+      },
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 22.9965,
+        "last_price": 0.000353
+      },
+      {
+        "pair": "PACTUSD",
+        "pct_change_24h": 20.9259,
+        "last_price": 0.0001306
+      },
+      {
+        "pair": "AIOZUSD",
+        "pct_change_24h": 19.7872,
+        "last_price": 0.0563
+      },
+      {
+        "pair": "JAILSTOOLUSD",
+        "pct_change_24h": 18.8312,
+        "last_price": 0.001098
+      },
+      {
+        "pair": "GWEIUSD",
+        "pct_change_24h": 18.5046,
+        "last_price": 0.025597
+      }
+    ]
   }
 ]
