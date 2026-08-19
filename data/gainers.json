@@ -5883,5 +5883,60 @@
         "last_price": 0.1202
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-19T20:31:58.353917+00:00",
+    "gainers": [
+      {
+        "pair": "SIDEKICKUSD",
+        "pct_change_24h": 659.2405,
+        "last_price": 0.0002999
+      },
+      {
+        "pair": "PEPUSD",
+        "pct_change_24h": 119.6653,
+        "last_price": 0.00021
+      },
+      {
+        "pair": "XMNUSD",
+        "pct_change_24h": 101.8868,
+        "last_price": 0.00107
+      },
+      {
+        "pair": "WENUSD",
+        "pct_change_24h": 81.6901,
+        "last_price": 3.999e-06
+      },
+      {
+        "pair": "REUSD",
+        "pct_change_24h": 32.2316,
+        "last_price": 0.53009
+      },
+      {
+        "pair": "TREEUSD",
+        "pct_change_24h": 27.7439,
+        "last_price": 0.0419
+      },
+      {
+        "pair": "AI3USD",
+        "pct_change_24h": 27.1739,
+        "last_price": 0.00117
+      },
+      {
+        "pair": "LOCKINUSD",
+        "pct_change_24h": 25.894,
+        "last_price": 0.001021
+      },
+      {
+        "pair": "PEPECOINUSD",
+        "pct_change_24h": 22.1341,
+        "last_price": 0.08928
+      },
+      {
+        "pair": "OCEANUSD",
+        "pct_change_24h": 18.6813,
+        "last_price": 0.1188
+      }
+    ]
   }
 ]
