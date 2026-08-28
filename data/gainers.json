@@ -8413,5 +8413,60 @@
         "last_price": 0.004766
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-08-28T21:54:21.815835+00:00",
+    "gainers": [
+      {
+        "pair": "SIDEKICKUSD",
+        "pct_change_24h": 659.2405,
+        "last_price": 0.0002999
+      },
+      {
+        "pair": "GHSTUSD",
+        "pct_change_24h": 137.1179,
+        "last_price": 0.1086
+      },
+      {
+        "pair": "WENUSD",
+        "pct_change_24h": 81.6901,
+        "last_price": 3.999e-06
+      },
+      {
+        "pair": "AKEUSD",
+        "pct_change_24h": 42.0039,
+        "last_price": 0.00969918
+      },
+      {
+        "pair": "HONEYUSD",
+        "pct_change_24h": 30.1887,
+        "last_price": 0.00138
+      },
+      {
+        "pair": "AI3USD",
+        "pct_change_24h": 27.1739,
+        "last_price": 0.00117
+      },
+      {
+        "pair": "DUCKUSD",
+        "pct_change_24h": 26.3158,
+        "last_price": 2.4e-05
+      },
+      {
+        "pair": "LOCKINUSD",
+        "pct_change_24h": 25.894,
+        "last_price": 0.001021
+      },
+      {
+        "pair": "ZIGUSD",
+        "pct_change_24h": 20.6176,
+        "last_price": 0.05078
+      },
+      {
+        "pair": "MNGOUSD",
+        "pct_change_24h": 14.8048,
+        "last_price": 0.02559
+      }
+    ]
   }
 ]
