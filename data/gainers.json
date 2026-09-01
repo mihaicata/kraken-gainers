@@ -9238,5 +9238,60 @@
         "last_price": 0.77
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-01T22:28:02.982241+00:00",
+    "gainers": [
+      {
+        "pair": "SCAUSD",
+        "pct_change_24h": 329.2754,
+        "last_price": 0.01481
+      },
+      {
+        "pair": "SCUSD",
+        "pct_change_24h": 51.3378,
+        "last_price": 0.000905
+      },
+      {
+        "pair": "XMLNZUSD",
+        "pct_change_24h": 50.6154,
+        "last_price": 1.8723
+      },
+      {
+        "pair": "UAIUSD",
+        "pct_change_24h": 41.0372,
+        "last_price": 0.52975
+      },
+      {
+        "pair": "RAILSUSD",
+        "pct_change_24h": 37.2165,
+        "last_price": 0.049
+      },
+      {
+        "pair": "USELESSUSD",
+        "pct_change_24h": 20.4202,
+        "last_price": 0.10833
+      },
+      {
+        "pair": "CHIPUSD",
+        "pct_change_24h": 13.8134,
+        "last_price": 0.04441
+      },
+      {
+        "pair": "MIMUSD",
+        "pct_change_24h": 13.1579,
+        "last_price": 0.0004902
+      },
+      {
+        "pair": "ADIUSD",
+        "pct_change_24h": 11.9654,
+        "last_price": 7.9295
+      },
+      {
+        "pair": "FFUSD",
+        "pct_change_24h": 11.538,
+        "last_price": 0.09435
+      }
+    ]
   }
 ]
