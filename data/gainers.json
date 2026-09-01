@@ -9128,5 +9128,60 @@
         "last_price": 0.001139
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-01T13:15:40.799654+00:00",
+    "gainers": [
+      {
+        "pair": "XMLNZUSD",
+        "pct_change_24h": 57.9921,
+        "last_price": 1.964
+      },
+      {
+        "pair": "SCUSD",
+        "pct_change_24h": 48.8294,
+        "last_price": 0.00089
+      },
+      {
+        "pair": "USELESSUSD",
+        "pct_change_24h": 12.639,
+        "last_price": 0.10133
+      },
+      {
+        "pair": "MIMUSD",
+        "pct_change_24h": 12.4654,
+        "last_price": 0.0004872
+      },
+      {
+        "pair": "PONDUSD",
+        "pct_change_24h": 12.4008,
+        "last_price": 0.001133
+      },
+      {
+        "pair": "NOCKUSD",
+        "pct_change_24h": 11.6348,
+        "last_price": 0.01871
+      },
+      {
+        "pair": "UAIUSD",
+        "pct_change_24h": 10.6121,
+        "last_price": 0.41547
+      },
+      {
+        "pair": "VELOUSD",
+        "pct_change_24h": 10.2071,
+        "last_price": 0.005269
+      },
+      {
+        "pair": "ODOSUSD",
+        "pct_change_24h": 9.6022,
+        "last_price": 0.000799
+      },
+      {
+        "pair": "UNIUSD",
+        "pct_change_24h": 9.4462,
+        "last_price": 5.7329
+      }
+    ]
   }
 ]
