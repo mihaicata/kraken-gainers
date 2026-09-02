@@ -9458,5 +9458,60 @@
         "last_price": 0.13529
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-02T22:27:05.212035+00:00",
+    "gainers": [
+      {
+        "pair": "AKEUSD",
+        "pct_change_24h": 86.4965,
+        "last_price": 0.01630019
+      },
+      {
+        "pair": "ESUSD",
+        "pct_change_24h": 45.4545,
+        "last_price": 0.0016
+      },
+      {
+        "pair": "KEEPUSD",
+        "pct_change_24h": 40.7285,
+        "last_price": 0.0255
+      },
+      {
+        "pair": "TUSD",
+        "pct_change_24h": 40.0,
+        "last_price": 0.00518
+      },
+      {
+        "pair": "MUBARAKUSD",
+        "pct_change_24h": 29.3408,
+        "last_price": 0.02786
+      },
+      {
+        "pair": "BMBUSD",
+        "pct_change_24h": 28.4404,
+        "last_price": 0.0028
+      },
+      {
+        "pair": "EGLDUSD",
+        "pct_change_24h": 27.182,
+        "last_price": 5.1
+      },
+      {
+        "pair": "CLOUDUSD",
+        "pct_change_24h": 24.2537,
+        "last_price": 0.0333
+      },
+      {
+        "pair": "FWOGUSD",
+        "pct_change_24h": 14.2857,
+        "last_price": 0.00536
+      },
+      {
+        "pair": "VANRYUSD",
+        "pct_change_24h": 13.2075,
+        "last_price": 0.0006
+      }
+    ]
   }
 ]
