@@ -9293,5 +9293,60 @@
         "last_price": 0.09435
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-02T03:38:54.427065+00:00",
+    "gainers": [
+      {
+        "pair": "SCAUSD",
+        "pct_change_24h": 329.2754,
+        "last_price": 0.01481
+      },
+      {
+        "pair": "ODOSUSD",
+        "pct_change_24h": 10.2881,
+        "last_price": 0.000804
+      },
+      {
+        "pair": "SKRUSD",
+        "pct_change_24h": 9.7985,
+        "last_price": 0.024798
+      },
+      {
+        "pair": "TXUSD",
+        "pct_change_24h": 6.422,
+        "last_price": 0.00232
+      },
+      {
+        "pair": "CRVUSD",
+        "pct_change_24h": 6.1294,
+        "last_price": 0.39322
+      },
+      {
+        "pair": "PUPSUSD",
+        "pct_change_24h": 6.0847,
+        "last_price": 0.00401
+      },
+      {
+        "pair": "USUSD",
+        "pct_change_24h": 5.8567,
+        "last_price": 0.01699
+      },
+      {
+        "pair": "BOSUSD",
+        "pct_change_24h": 5.5556,
+        "last_price": 3.8e-05
+      },
+      {
+        "pair": "JUNOUSD",
+        "pct_change_24h": 5.0043,
+        "last_price": 0.01217
+      },
+      {
+        "pair": "ZORAUSD",
+        "pct_change_24h": 4.9396,
+        "last_price": 0.008073
+      }
+    ]
   }
 ]
