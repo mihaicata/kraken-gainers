@@ -9623,5 +9623,60 @@
         "last_price": 0.01738
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-03T16:03:35.961949+00:00",
+    "gainers": [
+      {
+        "pair": "EDGEXUSD",
+        "pct_change_24h": 48.8513,
+        "last_price": 0.66669
+      },
+      {
+        "pair": "USELESSUSD",
+        "pct_change_24h": 46.8454,
+        "last_price": 0.18131
+      },
+      {
+        "pair": "FORTHUSD",
+        "pct_change_24h": 34.6154,
+        "last_price": 0.28
+      },
+      {
+        "pair": "CHIPUSD",
+        "pct_change_24h": 28.2904,
+        "last_price": 0.05478
+      },
+      {
+        "pair": "GHSTUSD",
+        "pct_change_24h": 27.7504,
+        "last_price": 0.0778
+      },
+      {
+        "pair": "REPPOUSD",
+        "pct_change_24h": 23.5823,
+        "last_price": 0.014841
+      },
+      {
+        "pair": "APRUSD",
+        "pct_change_24h": 23.2341,
+        "last_price": 0.24791
+      },
+      {
+        "pair": "DGAIUSD",
+        "pct_change_24h": 21.9613,
+        "last_price": 0.80442
+      },
+      {
+        "pair": "BILLYUSD",
+        "pct_change_24h": 21.0076,
+        "last_price": 0.00269
+      },
+      {
+        "pair": "BNKRUSD",
+        "pct_change_24h": 18.482,
+        "last_price": 0.0002763
+      }
+    ]
   }
 ]
