@@ -9568,5 +9568,60 @@
         "last_price": 79998.8
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-03T08:43:26.826339+00:00",
+    "gainers": [
+      {
+        "pair": "CHIPUSD",
+        "pct_change_24h": 22.74,
+        "last_price": 0.05241
+      },
+      {
+        "pair": "RBCUSD",
+        "pct_change_24h": 20.7586,
+        "last_price": 0.001751
+      },
+      {
+        "pair": "EDGEXUSD",
+        "pct_change_24h": 19.9915,
+        "last_price": 0.53743
+      },
+      {
+        "pair": "MFUSD",
+        "pct_change_24h": 18.9349,
+        "last_price": 0.00804
+      },
+      {
+        "pair": "USELESSUSD",
+        "pct_change_24h": 18.0125,
+        "last_price": 0.14571
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 15.2254,
+        "last_price": 0.6236
+      },
+      {
+        "pair": "ANKRUSD",
+        "pct_change_24h": 14.4638,
+        "last_price": 0.00459
+      },
+      {
+        "pair": "BNKRUSD",
+        "pct_change_24h": 14.2367,
+        "last_price": 0.0002664
+      },
+      {
+        "pair": "XMNUSD",
+        "pct_change_24h": 12.9032,
+        "last_price": 0.0007
+      },
+      {
+        "pair": "PUFFERUSD",
+        "pct_change_24h": 12.6888,
+        "last_price": 0.01738
+      }
+    ]
   }
 ]
