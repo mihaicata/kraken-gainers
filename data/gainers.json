@@ -9513,5 +9513,60 @@
         "last_price": 0.0006
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-03T03:39:04.998930+00:00",
+    "gainers": [
+      {
+        "pair": "SWELLUSD",
+        "pct_change_24h": 23.1707,
+        "last_price": 0.000909
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 21.286,
+        "last_price": 0.6564
+      },
+      {
+        "pair": "BNKRUSD",
+        "pct_change_24h": 18.482,
+        "last_price": 0.0002763
+      },
+      {
+        "pair": "PUFFERUSD",
+        "pct_change_24h": 16.5013,
+        "last_price": 0.017968
+      },
+      {
+        "pair": "ANKRUSD",
+        "pct_change_24h": 16.4589,
+        "last_price": 0.00467
+      },
+      {
+        "pair": "BMBUSD",
+        "pct_change_24h": 13.9209,
+        "last_price": 0.002766
+      },
+      {
+        "pair": "TMXUSD",
+        "pct_change_24h": 9.7189,
+        "last_price": 0.11944
+      },
+      {
+        "pair": "SUPUSD",
+        "pct_change_24h": 7.1111,
+        "last_price": 0.000723
+      },
+      {
+        "pair": "REPPOUSD",
+        "pct_change_24h": 7.0614,
+        "last_price": 0.012857
+      },
+      {
+        "pair": "TBTCUSD",
+        "pct_change_24h": 7.0467,
+        "last_price": 79998.8
+      }
+    ]
   }
 ]
