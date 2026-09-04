@@ -9733,5 +9733,60 @@
         "last_price": 0.002768
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-04T03:38:47.259117+00:00",
+    "gainers": [
+      {
+        "pair": "IDOSUSD",
+        "pct_change_24h": 69.222,
+        "last_price": 0.01479
+      },
+      {
+        "pair": "TRIAUSD",
+        "pct_change_24h": 19.7403,
+        "last_price": 0.00461
+      },
+      {
+        "pair": "REPPOUSD",
+        "pct_change_24h": 18.5937,
+        "last_price": 0.018975
+      },
+      {
+        "pair": "RNBWUSD",
+        "pct_change_24h": 16.5064,
+        "last_price": 0.01454
+      },
+      {
+        "pair": "LSETHUSD",
+        "pct_change_24h": 14.176,
+        "last_price": 2929.3
+      },
+      {
+        "pair": "BABYSHARKUSD",
+        "pct_change_24h": 11.2802,
+        "last_price": 0.006215
+      },
+      {
+        "pair": "PWTUSD",
+        "pct_change_24h": 9.9347,
+        "last_price": 0.58228
+      },
+      {
+        "pair": "SIGMAUSD",
+        "pct_change_24h": 9.3511,
+        "last_price": 0.001719
+      },
+      {
+        "pair": "TMXUSD",
+        "pct_change_24h": 7.8144,
+        "last_price": 0.11824
+      },
+      {
+        "pair": "DASHUSD",
+        "pct_change_24h": 7.6117,
+        "last_price": 51.051
+      }
+    ]
   }
 ]
