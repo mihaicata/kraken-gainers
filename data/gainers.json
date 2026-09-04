@@ -9898,5 +9898,60 @@
         "last_price": 0.003219
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-04T18:57:47.026063+00:00",
+    "gainers": [
+      {
+        "pair": "BDXNUSD",
+        "pct_change_24h": 275.6757,
+        "last_price": 0.00139
+      },
+      {
+        "pair": "IDOSUSD",
+        "pct_change_24h": 59.1533,
+        "last_price": 0.01391
+      },
+      {
+        "pair": "FLOCKUSD",
+        "pct_change_24h": 41.023,
+        "last_price": 0.05514
+      },
+      {
+        "pair": "UAIUSD",
+        "pct_change_24h": 39.1772,
+        "last_price": 0.49934
+      },
+      {
+        "pair": "TRIAUSD",
+        "pct_change_24h": 27.2727,
+        "last_price": 0.0049
+      },
+      {
+        "pair": "QUSD",
+        "pct_change_24h": 25.5742,
+        "last_price": 0.026952
+      },
+      {
+        "pair": "GAIAUSD",
+        "pct_change_24h": 22.4579,
+        "last_price": 0.003348
+      },
+      {
+        "pair": "SODAUSD",
+        "pct_change_24h": 22.3684,
+        "last_price": 0.01116
+      },
+      {
+        "pair": "MIMUSD",
+        "pct_change_24h": 19.0265,
+        "last_price": 0.00067
+      },
+      {
+        "pair": "QUAIUSD",
+        "pct_change_24h": 18.9904,
+        "last_price": 0.0099
+      }
+    ]
   }
 ]
