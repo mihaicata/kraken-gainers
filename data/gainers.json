@@ -9788,5 +9788,60 @@
         "last_price": 51.051
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-04T08:38:26.339209+00:00",
+    "gainers": [
+      {
+        "pair": "IDOSUSD",
+        "pct_change_24h": 60.2975,
+        "last_price": 0.01401
+      },
+      {
+        "pair": "TRIAUSD",
+        "pct_change_24h": 33.7662,
+        "last_price": 0.00515
+      },
+      {
+        "pair": "IDEXUSD",
+        "pct_change_24h": 28.4091,
+        "last_price": 0.00113
+      },
+      {
+        "pair": "XCNUSD",
+        "pct_change_24h": 25.1397,
+        "last_price": 0.00448
+      },
+      {
+        "pair": "QUSD",
+        "pct_change_24h": 22.1777,
+        "last_price": 0.026223
+      },
+      {
+        "pair": "USELESSUSD",
+        "pct_change_24h": 20.6553,
+        "last_price": 0.25153
+      },
+      {
+        "pair": "DEGENUSD",
+        "pct_change_24h": 18.7856,
+        "last_price": 0.001252
+      },
+      {
+        "pair": "REPPOUSD",
+        "pct_change_24h": 16.9937,
+        "last_price": 0.018719
+      },
+      {
+        "pair": "RNBWUSD",
+        "pct_change_24h": 16.5064,
+        "last_price": 0.01454
+      },
+      {
+        "pair": "GAIAUSD",
+        "pct_change_24h": 16.3497,
+        "last_price": 0.003181
+      }
+    ]
   }
 ]
