@@ -10228,5 +10228,60 @@
         "last_price": 0.0352
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-05T21:58:06.259954+00:00",
+    "gainers": [
+      {
+        "pair": "MIRUSD",
+        "pct_change_24h": 96.5909,
+        "last_price": 0.00173
+      },
+      {
+        "pair": "AKEUSD",
+        "pct_change_24h": 44.6128,
+        "last_price": 0.01916307
+      },
+      {
+        "pair": "SUSHIUSD",
+        "pct_change_24h": 36.4687,
+        "last_price": 0.2597
+      },
+      {
+        "pair": "ARBUSD",
+        "pct_change_24h": 30.0455,
+        "last_price": 0.1714
+      },
+      {
+        "pair": "SODAUSD",
+        "pct_change_24h": 29.2808,
+        "last_price": 0.0151
+      },
+      {
+        "pair": "ZIGUSD",
+        "pct_change_24h": 23.4262,
+        "last_price": 0.05137
+      },
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 23.2877,
+        "last_price": 0.00018
+      },
+      {
+        "pair": "UAIUSD",
+        "pct_change_24h": 23.2096,
+        "last_price": 0.5927
+      },
+      {
+        "pair": "CATUSD",
+        "pct_change_24h": 22.4786,
+        "last_price": 2.4895e-06
+      },
+      {
+        "pair": "RNBWUSD",
+        "pct_change_24h": 21.6495,
+        "last_price": 0.01888
+      }
+    ]
   }
 ]
