@@ -10118,5 +10118,60 @@
         "last_price": 0.6265
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-05T14:50:34.829374+00:00",
+    "gainers": [
+      {
+        "pair": "SODAUSD",
+        "pct_change_24h": 69.3493,
+        "last_price": 0.01978
+      },
+      {
+        "pair": "AKEUSD",
+        "pct_change_24h": 45.3389,
+        "last_price": 0.01925929
+      },
+      {
+        "pair": "CATUSD",
+        "pct_change_24h": 29.1056,
+        "last_price": 2.6242e-06
+      },
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 23.2877,
+        "last_price": 0.00018
+      },
+      {
+        "pair": "DRVUSD",
+        "pct_change_24h": 18.5818,
+        "last_price": 0.17894
+      },
+      {
+        "pair": "EDUUSD",
+        "pct_change_24h": 18.3929,
+        "last_price": 0.0663
+      },
+      {
+        "pair": "VELVETUSD",
+        "pct_change_24h": 15.5792,
+        "last_price": 0.0868
+      },
+      {
+        "pair": "CQTUSD",
+        "pct_change_24h": 15.3846,
+        "last_price": 0.00015
+      },
+      {
+        "pair": "NMRUSD",
+        "pct_change_24h": 14.927,
+        "last_price": 10.24
+      },
+      {
+        "pair": "SBRUSD",
+        "pct_change_24h": 14.1176,
+        "last_price": 9.7e-05
+      }
+    ]
   }
 ]
