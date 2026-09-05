@@ -10063,5 +10063,60 @@
         "last_price": 16.963
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-05T08:11:17.878946+00:00",
+    "gainers": [
+      {
+        "pair": "SODAUSD",
+        "pct_change_24h": 40.5822,
+        "last_price": 0.01642
+      },
+      {
+        "pair": "AKEUSD",
+        "pct_change_24h": 33.4042,
+        "last_price": 0.01767779
+      },
+      {
+        "pair": "DRVUSD",
+        "pct_change_24h": 23.0749,
+        "last_price": 0.18572
+      },
+      {
+        "pair": "CQTUSD",
+        "pct_change_24h": 15.3846,
+        "last_price": 0.00015
+      },
+      {
+        "pair": "SBRUSD",
+        "pct_change_24h": 14.1176,
+        "last_price": 9.7e-05
+      },
+      {
+        "pair": "UNITASUSD",
+        "pct_change_24h": 13.0085,
+        "last_price": 0.497
+      },
+      {
+        "pair": "WELLUSD",
+        "pct_change_24h": 12.0603,
+        "last_price": 0.00223
+      },
+      {
+        "pair": "STRKUSD",
+        "pct_change_24h": 11.6359,
+        "last_price": 0.02907
+      },
+      {
+        "pair": "VFYUSD",
+        "pct_change_24h": 10.5006,
+        "last_price": 0.00905
+      },
+      {
+        "pair": "HNTUSD",
+        "pct_change_24h": 9.4514,
+        "last_price": 0.6265
+      }
+    ]
   }
 ]
