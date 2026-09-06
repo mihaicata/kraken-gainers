@@ -10448,5 +10448,60 @@
         "last_price": 0.02509
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-06T18:07:23.341202+00:00",
+    "gainers": [
+      {
+        "pair": "MIRUSD",
+        "pct_change_24h": 85.6115,
+        "last_price": 0.00258
+      },
+      {
+        "pair": "RAYUSD",
+        "pct_change_24h": 50.055,
+        "last_price": 1.364
+      },
+      {
+        "pair": "JAILSTOOLUSD",
+        "pct_change_24h": 36.7659,
+        "last_price": 0.0017
+      },
+      {
+        "pair": "NOCKUSD",
+        "pct_change_24h": 36.4936,
+        "last_price": 0.02865
+      },
+      {
+        "pair": "POLISUSD",
+        "pct_change_24h": 30.787,
+        "last_price": 0.0113
+      },
+      {
+        "pair": "ACAUSD",
+        "pct_change_24h": 28.5714,
+        "last_price": 0.00027
+      },
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 23.2877,
+        "last_price": 0.00018
+      },
+      {
+        "pair": "WARUSD",
+        "pct_change_24h": 23.0769,
+        "last_price": 0.00048
+      },
+      {
+        "pair": "CAMPUSD",
+        "pct_change_24h": 22.1333,
+        "last_price": 0.000458
+      },
+      {
+        "pair": "UAIUSD",
+        "pct_change_24h": 21.5802,
+        "last_price": 0.60553
+      }
+    ]
   }
 ]
