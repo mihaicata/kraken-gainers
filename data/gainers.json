@@ -10503,5 +10503,60 @@
         "last_price": 0.60553
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-06T22:00:09.528838+00:00",
+    "gainers": [
+      {
+        "pair": "RNBWUSD",
+        "pct_change_24h": 49.381,
+        "last_price": 0.03258
+      },
+      {
+        "pair": "NOCKUSD",
+        "pct_change_24h": 45.3549,
+        "last_price": 0.03051
+      },
+      {
+        "pair": "RAYUSD",
+        "pct_change_24h": 38.5039,
+        "last_price": 1.259
+      },
+      {
+        "pair": "YOMUSD",
+        "pct_change_24h": 34.4937,
+        "last_price": 0.017
+      },
+      {
+        "pair": "ACAUSD",
+        "pct_change_24h": 33.3333,
+        "last_price": 0.00028
+      },
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 23.2877,
+        "last_price": 0.00018
+      },
+      {
+        "pair": "SAMOUSD",
+        "pct_change_24h": 22.1184,
+        "last_price": 0.000392
+      },
+      {
+        "pair": "XZECZUSD",
+        "pct_change_24h": 21.4737,
+        "last_price": 1246.43
+      },
+      {
+        "pair": "JUPUSD",
+        "pct_change_24h": 21.311,
+        "last_price": 0.26669
+      },
+      {
+        "pair": "WARUSD",
+        "pct_change_24h": 20.5128,
+        "last_price": 0.00047
+      }
+    ]
   }
 ]
