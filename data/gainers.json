@@ -10283,5 +10283,60 @@
         "last_price": 0.01888
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-06T03:40:58.475110+00:00",
+    "gainers": [
+      {
+        "pair": "UAIUSD",
+        "pct_change_24h": 29.7299,
+        "last_price": 0.64612
+      },
+      {
+        "pair": "RAYUSD",
+        "pct_change_24h": 23.6524,
+        "last_price": 1.124
+      },
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 23.2877,
+        "last_price": 0.00018
+      },
+      {
+        "pair": "MFUSD",
+        "pct_change_24h": 11.4907,
+        "last_price": 0.00718
+      },
+      {
+        "pair": "UNITASUSD",
+        "pct_change_24h": 11.4168,
+        "last_price": 0.49
+      },
+      {
+        "pair": "TMXUSD",
+        "pct_change_24h": 10.0966,
+        "last_price": 0.09912
+      },
+      {
+        "pair": "POLISUSD",
+        "pct_change_24h": 10.0694,
+        "last_price": 0.00951
+      },
+      {
+        "pair": "FFUSD",
+        "pct_change_24h": 10.0296,
+        "last_price": 0.11892
+      },
+      {
+        "pair": "FLOCKUSD",
+        "pct_change_24h": 9.9642,
+        "last_price": 0.07063
+      },
+      {
+        "pair": "ARBUSD",
+        "pct_change_24h": 9.3063,
+        "last_price": 0.1938
+      }
+    ]
   }
 ]
