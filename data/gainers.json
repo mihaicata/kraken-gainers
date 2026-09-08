@@ -10833,5 +10833,60 @@
         "last_price": 3225.9
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-08T08:43:07.099579+00:00",
+    "gainers": [
+      {
+        "pair": "STUSD",
+        "pct_change_24h": 38.6229,
+        "last_price": 0.014999
+      },
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 23.2877,
+        "last_price": 0.00018
+      },
+      {
+        "pair": "IDOSUSD",
+        "pct_change_24h": 15.5894,
+        "last_price": 0.01216
+      },
+      {
+        "pair": "AKEUSD",
+        "pct_change_24h": 14.6038,
+        "last_price": 0.01880019
+      },
+      {
+        "pair": "HNTUSD",
+        "pct_change_24h": 12.3654,
+        "last_price": 0.6052
+      },
+      {
+        "pair": "PWTUSD",
+        "pct_change_24h": 11.6422,
+        "last_price": 0.57623
+      },
+      {
+        "pair": "XTERUSD",
+        "pct_change_24h": 11.6414,
+        "last_price": 0.00959
+      },
+      {
+        "pair": "CQTUSD",
+        "pct_change_24h": 11.1111,
+        "last_price": 0.0001
+      },
+      {
+        "pair": "SAFEUSD",
+        "pct_change_24h": 9.0072,
+        "last_price": 0.1065
+      },
+      {
+        "pair": "CAKEUSD",
+        "pct_change_24h": 7.9101,
+        "last_price": 2.401
+      }
+    ]
   }
 ]
