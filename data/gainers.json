@@ -10778,5 +10778,60 @@
         "last_price": 0.01686163
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-08T03:45:21.579036+00:00",
+    "gainers": [
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 23.2877,
+        "last_price": 0.00018
+      },
+      {
+        "pair": "BODENUSD",
+        "pct_change_24h": 17.2363,
+        "last_price": 0.002367
+      },
+      {
+        "pair": "CFGUSD",
+        "pct_change_24h": 9.8818,
+        "last_price": 0.1301
+      },
+      {
+        "pair": "XTERUSD",
+        "pct_change_24h": 9.7788,
+        "last_price": 0.00943
+      },
+      {
+        "pair": "BNCUSD",
+        "pct_change_24h": 9.1743,
+        "last_price": 0.0119
+      },
+      {
+        "pair": "AKEUSD",
+        "pct_change_24h": 8.0286,
+        "last_price": 0.01772157
+      },
+      {
+        "pair": "WARUSD",
+        "pct_change_24h": 7.6923,
+        "last_price": 0.00042
+      },
+      {
+        "pair": "AEROUSD",
+        "pct_change_24h": 7.2122,
+        "last_price": 0.663
+      },
+      {
+        "pair": "SAFEUSD",
+        "pct_change_24h": 6.9601,
+        "last_price": 0.1045
+      },
+      {
+        "pair": "LSETHUSD",
+        "pct_change_24h": 6.4337,
+        "last_price": 3225.9
+      }
+    ]
   }
 ]
