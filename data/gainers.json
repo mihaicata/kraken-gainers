@@ -11108,5 +11108,60 @@
         "last_price": 0.372
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-09T16:12:17.224557+00:00",
+    "gainers": [
+      {
+        "pair": "VANRYUSD",
+        "pct_change_24h": 122.4138,
+        "last_price": 0.00129
+      },
+      {
+        "pair": "OXTUSD",
+        "pct_change_24h": 58.3227,
+        "last_price": 0.01246
+      },
+      {
+        "pair": "SCUSD",
+        "pct_change_24h": 37.7807,
+        "last_price": 0.001043
+      },
+      {
+        "pair": "LRCUSD",
+        "pct_change_24h": 30.232,
+        "last_price": 0.011058
+      },
+      {
+        "pair": "UNITASUSD",
+        "pct_change_24h": 22.4607,
+        "last_price": 0.44332
+      },
+      {
+        "pair": "WARDUSD",
+        "pct_change_24h": 19.8529,
+        "last_price": 0.00326
+      },
+      {
+        "pair": "KATUSD",
+        "pct_change_24h": 19.7917,
+        "last_price": 0.00575
+      },
+      {
+        "pair": "PHAUSD",
+        "pct_change_24h": 16.1624,
+        "last_price": 0.03033
+      },
+      {
+        "pair": "BOSUSD",
+        "pct_change_24h": 15.0,
+        "last_price": 2.3e-05
+      },
+      {
+        "pair": "CQTUSD",
+        "pct_change_24h": 14.2857,
+        "last_price": 8e-05
+      }
+    ]
   }
 ]
