@@ -11053,5 +11053,60 @@
         "last_price": 0.4703
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-09T08:49:21.032887+00:00",
+    "gainers": [
+      {
+        "pair": "OXTUSD",
+        "pct_change_24h": 80.6861,
+        "last_price": 0.01422
+      },
+      {
+        "pair": "WARDUSD",
+        "pct_change_24h": 29.7794,
+        "last_price": 0.00353
+      },
+      {
+        "pair": "CQTUSD",
+        "pct_change_24h": 28.5714,
+        "last_price": 9e-05
+      },
+      {
+        "pair": "IDEXUSD",
+        "pct_change_24h": 25.2874,
+        "last_price": 0.00109
+      },
+      {
+        "pair": "MULTIUSD",
+        "pct_change_24h": 16.0256,
+        "last_price": 0.0362
+      },
+      {
+        "pair": "RIZEUSD",
+        "pct_change_24h": 14.8705,
+        "last_price": 0.002217
+      },
+      {
+        "pair": "BODENUSD",
+        "pct_change_24h": 14.1794,
+        "last_price": 0.002609
+      },
+      {
+        "pair": "KATUSD",
+        "pct_change_24h": 13.125,
+        "last_price": 0.00543
+      },
+      {
+        "pair": "RUJIUSD",
+        "pct_change_24h": 12.5,
+        "last_price": 0.225
+      },
+      {
+        "pair": "GRASSUSD",
+        "pct_change_24h": 11.8124,
+        "last_price": 0.372
+      }
+    ]
   }
 ]
