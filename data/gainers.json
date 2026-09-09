@@ -10998,5 +10998,60 @@
         "last_price": 0.2306
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-09T03:49:54.745012+00:00",
+    "gainers": [
+      {
+        "pair": "KATUSD",
+        "pct_change_24h": 29.7917,
+        "last_price": 0.00623
+      },
+      {
+        "pair": "CQTUSD",
+        "pct_change_24h": 28.5714,
+        "last_price": 9e-05
+      },
+      {
+        "pair": "MULTIUSD",
+        "pct_change_24h": 16.6667,
+        "last_price": 0.0364
+      },
+      {
+        "pair": "ZEXUSD",
+        "pct_change_24h": 14.6341,
+        "last_price": 0.00094
+      },
+      {
+        "pair": "STUSD",
+        "pct_change_24h": 13.8909,
+        "last_price": 0.012323
+      },
+      {
+        "pair": "VULTUSD",
+        "pct_change_24h": 13.6691,
+        "last_price": 0.0474
+      },
+      {
+        "pair": "UPUSD",
+        "pct_change_24h": 12.7168,
+        "last_price": 0.06045
+      },
+      {
+        "pair": "RUJIUSD",
+        "pct_change_24h": 12.5,
+        "last_price": 0.225
+      },
+      {
+        "pair": "FORESTUSD",
+        "pct_change_24h": 11.7438,
+        "last_price": 0.0314
+      },
+      {
+        "pair": "PROSUSD",
+        "pct_change_24h": 7.252,
+        "last_price": 0.4703
+      }
+    ]
   }
 ]
