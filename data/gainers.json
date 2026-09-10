@@ -11383,5 +11383,60 @@
         "last_price": 0.00423
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-10T22:20:43.426834+00:00",
+    "gainers": [
+      {
+        "pair": "SYNDUSD",
+        "pct_change_24h": 143.75,
+        "last_price": 0.01521
+      },
+      {
+        "pair": "GAIBUSD",
+        "pct_change_24h": 115.4195,
+        "last_price": 0.038
+      },
+      {
+        "pair": "SUPUSD",
+        "pct_change_24h": 43.3708,
+        "last_price": 0.000638
+      },
+      {
+        "pair": "VULTUSD",
+        "pct_change_24h": 40.9524,
+        "last_price": 0.0444
+      },
+      {
+        "pair": "VTHOUSD",
+        "pct_change_24h": 38.5747,
+        "last_price": 0.0006028
+      },
+      {
+        "pair": "SAGAUSD",
+        "pct_change_24h": 33.6435,
+        "last_price": 0.01867
+      },
+      {
+        "pair": "UPUSD",
+        "pct_change_24h": 31.1033,
+        "last_price": 0.07486
+      },
+      {
+        "pair": "NESUSD",
+        "pct_change_24h": 28.1377,
+        "last_price": 0.14855
+      },
+      {
+        "pair": "RBCUSD",
+        "pct_change_24h": 18.6667,
+        "last_price": 0.00178
+      },
+      {
+        "pair": "TACUSD",
+        "pct_change_24h": 17.037,
+        "last_price": 0.001896
+      }
+    ]
   }
 ]
