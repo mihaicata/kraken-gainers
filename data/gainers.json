@@ -11273,5 +11273,60 @@
         "last_price": 0.0224
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-10T08:47:31.254777+00:00",
+    "gainers": [
+      {
+        "pair": "ACAUSD",
+        "pct_change_24h": 183.3333,
+        "last_price": 0.00068
+      },
+      {
+        "pair": "UPUSD",
+        "pct_change_24h": 55.8669,
+        "last_price": 0.089
+      },
+      {
+        "pair": "VULTUSD",
+        "pct_change_24h": 54.6032,
+        "last_price": 0.0487
+      },
+      {
+        "pair": "VTHOUSD",
+        "pct_change_24h": 46.092,
+        "last_price": 0.0006355
+      },
+      {
+        "pair": "JUNOUSD",
+        "pct_change_24h": 21.8201,
+        "last_price": 0.01178
+      },
+      {
+        "pair": "NESUSD",
+        "pct_change_24h": 21.1679,
+        "last_price": 0.14047
+      },
+      {
+        "pair": "GHSTUSD",
+        "pct_change_24h": 20.7012,
+        "last_price": 0.0723
+      },
+      {
+        "pair": "B3USD",
+        "pct_change_24h": 15.7549,
+        "last_price": 0.000529
+      },
+      {
+        "pair": "DUALUSD",
+        "pct_change_24h": 15.5299,
+        "last_price": 0.002998
+      },
+      {
+        "pair": "REZUSD",
+        "pct_change_24h": 13.49,
+        "last_price": 0.003525
+      }
+    ]
   }
 ]
