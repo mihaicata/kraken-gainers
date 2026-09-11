@@ -11438,5 +11438,60 @@
         "last_price": 0.001896
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-11T03:45:37.346475+00:00",
+    "gainers": [
+      {
+        "pair": "VULTUSD",
+        "pct_change_24h": 40.9524,
+        "last_price": 0.0444
+      },
+      {
+        "pair": "RAILSUSD",
+        "pct_change_24h": 23.2873,
+        "last_price": 0.04193
+      },
+      {
+        "pair": "JUNOUSD",
+        "pct_change_24h": 20.9928,
+        "last_price": 0.0117
+      },
+      {
+        "pair": "NOCKUSD",
+        "pct_change_24h": 20.067,
+        "last_price": 0.03943
+      },
+      {
+        "pair": "SCUSD",
+        "pct_change_24h": 18.3439,
+        "last_price": 0.000929
+      },
+      {
+        "pair": "CYBERUSD",
+        "pct_change_24h": 14.1414,
+        "last_price": 0.339
+      },
+      {
+        "pair": "RAYUSD",
+        "pct_change_24h": 11.3182,
+        "last_price": 1.613
+      },
+      {
+        "pair": "XTERUSD",
+        "pct_change_24h": 10.5464,
+        "last_price": 0.0087
+      },
+      {
+        "pair": "BLURUSD",
+        "pct_change_24h": 9.3614,
+        "last_price": 0.01764
+      },
+      {
+        "pair": "GFIUSD",
+        "pct_change_24h": 8.9494,
+        "last_price": 0.028
+      }
+    ]
   }
 ]
