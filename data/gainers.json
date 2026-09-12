@@ -11878,5 +11878,60 @@
         "last_price": 0.003819
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-12T22:01:00.767218+00:00",
+    "gainers": [
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 489.5522,
+        "last_price": 0.000395
+      },
+      {
+        "pair": "VANRYUSD",
+        "pct_change_24h": 76.9231,
+        "last_price": 0.00069
+      },
+      {
+        "pair": "LSKUSD",
+        "pct_change_24h": 67.9073,
+        "last_price": 0.239048
+      },
+      {
+        "pair": "GRIFFAINUSD",
+        "pct_change_24h": 38.759,
+        "last_price": 0.01543
+      },
+      {
+        "pair": "NOCKUSD",
+        "pct_change_24h": 32.2146,
+        "last_price": 0.04806
+      },
+      {
+        "pair": "FLOCKUSD",
+        "pct_change_24h": 29.168,
+        "last_price": 0.07825
+      },
+      {
+        "pair": "SYNDUSD",
+        "pct_change_24h": 29.0686,
+        "last_price": 0.01261
+      },
+      {
+        "pair": "ALCHUSD",
+        "pct_change_24h": 26.1326,
+        "last_price": 0.04204
+      },
+      {
+        "pair": "REZUSD",
+        "pct_change_24h": 26.0991,
+        "last_price": 0.004073
+      },
+      {
+        "pair": "PUFFERUSD",
+        "pct_change_24h": 21.4877,
+        "last_price": 0.022163
+      }
+    ]
   }
 ]
