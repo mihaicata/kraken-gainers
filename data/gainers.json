@@ -11933,5 +11933,60 @@
         "last_price": 0.022163
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-13T03:57:11.367180+00:00",
+    "gainers": [
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 489.5522,
+        "last_price": 0.000395
+      },
+      {
+        "pair": "LSKUSD",
+        "pct_change_24h": 264.3346,
+        "last_price": 1.200876
+      },
+      {
+        "pair": "VANRYUSD",
+        "pct_change_24h": 76.9231,
+        "last_price": 0.00069
+      },
+      {
+        "pair": "POWRUSD",
+        "pct_change_24h": 40.7407,
+        "last_price": 0.0798
+      },
+      {
+        "pair": "CHILLHOUSEUSD",
+        "pct_change_24h": 26.2357,
+        "last_price": 0.00332
+      },
+      {
+        "pair": "UNITASUSD",
+        "pct_change_24h": 20.5853,
+        "last_price": 0.40999
+      },
+      {
+        "pair": "IDOSUSD",
+        "pct_change_24h": 20.1613,
+        "last_price": 0.01043
+      },
+      {
+        "pair": "AVAUSD",
+        "pct_change_24h": 15.2695,
+        "last_price": 0.1925
+      },
+      {
+        "pair": "VTHOUSD",
+        "pct_change_24h": 14.0051,
+        "last_price": 0.0007603
+      },
+      {
+        "pair": "CVCUSD",
+        "pct_change_24h": 12.1278,
+        "last_price": 0.02561
+      }
+    ]
   }
 ]
