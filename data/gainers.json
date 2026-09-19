@@ -13308,5 +13308,60 @@
         "last_price": 0.01187
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-19T15:37:18.290317+00:00",
+    "gainers": [
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 489.5522,
+        "last_price": 0.000395
+      },
+      {
+        "pair": "VANRYUSD",
+        "pct_change_24h": 76.9231,
+        "last_price": 0.00069
+      },
+      {
+        "pair": "ZAMAUSD",
+        "pct_change_24h": 38.1253,
+        "last_price": 0.08311
+      },
+      {
+        "pair": "AKEUSD",
+        "pct_change_24h": 35.3046,
+        "last_price": 0.06247694
+      },
+      {
+        "pair": "DRVUSD",
+        "pct_change_24h": 30.64,
+        "last_price": 0.38578
+      },
+      {
+        "pair": "B2USD",
+        "pct_change_24h": 29.1149,
+        "last_price": 0.5295
+      },
+      {
+        "pair": "ARUSD",
+        "pct_change_24h": 27.9726,
+        "last_price": 4.671
+      },
+      {
+        "pair": "XTZUSD",
+        "pct_change_24h": 24.2406,
+        "last_price": 0.36728
+      },
+      {
+        "pair": "EDGEUSD",
+        "pct_change_24h": 19.8135,
+        "last_price": 0.08224
+      },
+      {
+        "pair": "DUCKUSD",
+        "pct_change_24h": 18.75,
+        "last_price": 1.9e-05
+      }
+    ]
   }
 ]
