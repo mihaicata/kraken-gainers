@@ -13803,5 +13803,60 @@
         "last_price": 8.954
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-21T20:18:30.331156+00:00",
+    "gainers": [
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 489.5522,
+        "last_price": 0.000395
+      },
+      {
+        "pair": "ZRCUSD",
+        "pct_change_24h": 118.764,
+        "last_price": 0.001947
+      },
+      {
+        "pair": "VANRYUSD",
+        "pct_change_24h": 76.9231,
+        "last_price": 0.00069
+      },
+      {
+        "pair": "ZETAUSD",
+        "pct_change_24h": 53.8847,
+        "last_price": 0.0614
+      },
+      {
+        "pair": "AIOZUSD",
+        "pct_change_24h": 37.6923,
+        "last_price": 0.1253
+      },
+      {
+        "pair": "SODAUSD",
+        "pct_change_24h": 36.6318,
+        "last_price": 0.01436
+      },
+      {
+        "pair": "PHAUSD",
+        "pct_change_24h": 36.2253,
+        "last_price": 0.05103
+      },
+      {
+        "pair": "SN51USD",
+        "pct_change_24h": 35.526,
+        "last_price": 30.08
+      },
+      {
+        "pair": "MUBARAKUSD",
+        "pct_change_24h": 29.9074,
+        "last_price": 0.04348
+      },
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 28.3132,
+        "last_price": 0.8375
+      }
+    ]
   }
 ]
