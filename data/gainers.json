@@ -13968,5 +13968,60 @@
         "last_price": 318.85
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-22T19:37:28.094804+00:00",
+    "gainers": [
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 489.5522,
+        "last_price": 0.000395
+      },
+      {
+        "pair": "MUBARAKUSD",
+        "pct_change_24h": 89.5485,
+        "last_price": 0.08397
+      },
+      {
+        "pair": "VANRYUSD",
+        "pct_change_24h": 76.9231,
+        "last_price": 0.00069
+      },
+      {
+        "pair": "UNITASUSD",
+        "pct_change_24h": 68.0804,
+        "last_price": 0.30594
+      },
+      {
+        "pair": "ALCXUSD",
+        "pct_change_24h": 52.3364,
+        "last_price": 3.26
+      },
+      {
+        "pair": "DRIFTUSD",
+        "pct_change_24h": 45.7143,
+        "last_price": 0.0255
+      },
+      {
+        "pair": "PEPUSD",
+        "pct_change_24h": 37.6915,
+        "last_price": 0.0001348
+      },
+      {
+        "pair": "CHRUSD",
+        "pct_change_24h": 32.4654,
+        "last_price": 0.02391
+      },
+      {
+        "pair": "PUPSUSD",
+        "pct_change_24h": 30.928,
+        "last_price": 0.006405
+      },
+      {
+        "pair": "SUPUSD",
+        "pct_change_24h": 28.4452,
+        "last_price": 0.000727
+      }
+    ]
   }
 ]
