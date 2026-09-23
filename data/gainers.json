@@ -14243,5 +14243,60 @@
         "last_price": 0.00658
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-23T22:48:55.604500+00:00",
+    "gainers": [
+      {
+        "pair": "BKSUSD",
+        "pct_change_24h": 489.5522,
+        "last_price": 0.000395
+      },
+      {
+        "pair": "VANRYUSD",
+        "pct_change_24h": 76.9231,
+        "last_price": 0.00069
+      },
+      {
+        "pair": "GNOTUSD",
+        "pct_change_24h": 63.4146,
+        "last_price": 0.09983
+      },
+      {
+        "pair": "GFIUSD",
+        "pct_change_24h": 56.8627,
+        "last_price": 0.048
+      },
+      {
+        "pair": "TAKEUSD",
+        "pct_change_24h": 54.7255,
+        "last_price": 0.09299
+      },
+      {
+        "pair": "NILUSD",
+        "pct_change_24h": 42.1053,
+        "last_price": 0.1161
+      },
+      {
+        "pair": "ALEOUSD",
+        "pct_change_24h": 38.6434,
+        "last_price": 0.02228
+      },
+      {
+        "pair": "CPOOLUSD",
+        "pct_change_24h": 26.7523,
+        "last_price": 0.03653
+      },
+      {
+        "pair": "FWOGUSD",
+        "pct_change_24h": 26.3538,
+        "last_price": 0.007
+      },
+      {
+        "pair": "HONEYUSD",
+        "pct_change_24h": 23.0769,
+        "last_price": 0.00144
+      }
+    ]
   }
 ]
