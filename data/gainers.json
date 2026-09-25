@@ -14518,5 +14518,60 @@
         "last_price": 0.6874
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-25T04:07:14.696043+00:00",
+    "gainers": [
+      {
+        "pair": "QIUSD",
+        "pct_change_24h": 97.6821,
+        "last_price": 0.002985
+      },
+      {
+        "pair": "NODEUSD",
+        "pct_change_24h": 37.9859,
+        "last_price": 0.00781
+      },
+      {
+        "pair": "B3USD",
+        "pct_change_24h": 26.4498,
+        "last_price": 0.000894
+      },
+      {
+        "pair": "EDGEUSD",
+        "pct_change_24h": 20.6932,
+        "last_price": 0.10481
+      },
+      {
+        "pair": "AMIUSD",
+        "pct_change_24h": 14.4429,
+        "last_price": 0.000832
+      },
+      {
+        "pair": "SONICUSD",
+        "pct_change_24h": 12.0875,
+        "last_price": 0.02921
+      },
+      {
+        "pair": "AKEUSD",
+        "pct_change_24h": 9.6064,
+        "last_price": 0.03899221
+      },
+      {
+        "pair": "ESUSD",
+        "pct_change_24h": 8.3333,
+        "last_price": 0.0013
+      },
+      {
+        "pair": "CLOUDUSD",
+        "pct_change_24h": 8.0087,
+        "last_price": 0.0499
+      },
+      {
+        "pair": "TMXUSD",
+        "pct_change_24h": 7.8531,
+        "last_price": 0.01703
+      }
+    ]
   }
 ]
