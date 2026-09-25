@@ -14628,5 +14628,60 @@
         "last_price": 0.09749
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-25T19:54:41.627756+00:00",
+    "gainers": [
+      {
+        "pair": "QIUSD",
+        "pct_change_24h": 123.245,
+        "last_price": 0.003371
+      },
+      {
+        "pair": "PHAUSD",
+        "pct_change_24h": 63.7877,
+        "last_price": 0.08363
+      },
+      {
+        "pair": "NODEUSD",
+        "pct_change_24h": 32.9806,
+        "last_price": 0.00754
+      },
+      {
+        "pair": "BNKRUSD",
+        "pct_change_24h": 27.0803,
+        "last_price": 0.0005162
+      },
+      {
+        "pair": "RAREUSD",
+        "pct_change_24h": 26.9878,
+        "last_price": 0.01661
+      },
+      {
+        "pair": "BOSUSD",
+        "pct_change_24h": 26.087,
+        "last_price": 2.9e-05
+      },
+      {
+        "pair": "GRASSUSD",
+        "pct_change_24h": 25.2374,
+        "last_price": 0.5538
+      },
+      {
+        "pair": "LOFIUSD",
+        "pct_change_24h": 23.1383,
+        "last_price": 0.00463
+      },
+      {
+        "pair": "MUBARAKUSD",
+        "pct_change_24h": 22.3521,
+        "last_price": 0.05441
+      },
+      {
+        "pair": "AEROUSD",
+        "pct_change_24h": 18.7365,
+        "last_price": 0.827
+      }
+    ]
   }
 ]
