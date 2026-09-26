@@ -14848,5 +14848,60 @@
         "last_price": 0.01178
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-26T19:06:14.814417+00:00",
+    "gainers": [
+      {
+        "pair": "EDGEUSD",
+        "pct_change_24h": 43.6851,
+        "last_price": 0.14107
+      },
+      {
+        "pair": "RAREUSD",
+        "pct_change_24h": 42.2013,
+        "last_price": 0.02261
+      },
+      {
+        "pair": "CLOUDUSD",
+        "pct_change_24h": 26.2327,
+        "last_price": 0.064
+      },
+      {
+        "pair": "QNTUSD",
+        "pct_change_24h": 24.455,
+        "last_price": 122.75
+      },
+      {
+        "pair": "USUSD",
+        "pct_change_24h": 22.8302,
+        "last_price": 0.02604
+      },
+      {
+        "pair": "KMNOUSD",
+        "pct_change_24h": 20.1536,
+        "last_price": 0.05008
+      },
+      {
+        "pair": "2ZUSD",
+        "pct_change_24h": 18.7107,
+        "last_price": 0.06979
+      },
+      {
+        "pair": "KASUSD",
+        "pct_change_24h": 17.9986,
+        "last_price": 0.04976
+      },
+      {
+        "pair": "SGBUSD",
+        "pct_change_24h": 17.9954,
+        "last_price": 0.001036
+      },
+      {
+        "pair": "PONDUSD",
+        "pct_change_24h": 17.7392,
+        "last_price": 0.002104
+      }
+    ]
   }
 ]
