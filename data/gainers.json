@@ -15068,5 +15068,60 @@
         "last_price": 0.0784
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-27T19:38:10.497576+00:00",
+    "gainers": [
+      {
+        "pair": "SOONUSD",
+        "pct_change_24h": 42.1882,
+        "last_price": 0.3249
+      },
+      {
+        "pair": "LOFIUSD",
+        "pct_change_24h": 32.2222,
+        "last_price": 0.00714
+      },
+      {
+        "pair": "QNTUSD",
+        "pct_change_24h": 24.9951,
+        "last_price": 189.48
+      },
+      {
+        "pair": "RNBWUSD",
+        "pct_change_24h": 24.5964,
+        "last_price": 0.02624
+      },
+      {
+        "pair": "INXUSD",
+        "pct_change_24h": 24.5216,
+        "last_price": 0.007353
+      },
+      {
+        "pair": "AUDIOUSD",
+        "pct_change_24h": 24.3478,
+        "last_price": 0.01859
+      },
+      {
+        "pair": "DOLOUSD",
+        "pct_change_24h": 22.4547,
+        "last_price": 0.04799
+      },
+      {
+        "pair": "ARXUSD",
+        "pct_change_24h": 21.836,
+        "last_price": 0.27446
+      },
+      {
+        "pair": "CLOUDUSD",
+        "pct_change_24h": 21.0606,
+        "last_price": 0.0799
+      },
+      {
+        "pair": "TREADUSD",
+        "pct_change_24h": 20.8656,
+        "last_price": 1.0919
+      }
+    ]
   }
 ]
