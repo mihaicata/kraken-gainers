@@ -15123,5 +15123,60 @@
         "last_price": 1.0919
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-27T22:52:38.359149+00:00",
+    "gainers": [
+      {
+        "pair": "QNTUSD",
+        "pct_change_24h": 96.2794,
+        "last_price": 297.54
+      },
+      {
+        "pair": "CAMPUSD",
+        "pct_change_24h": 63.8604,
+        "last_price": 0.000798
+      },
+      {
+        "pair": "TRUUSD",
+        "pct_change_24h": 62.3529,
+        "last_price": 0.00138
+      },
+      {
+        "pair": "SOONUSD",
+        "pct_change_24h": 43.6761,
+        "last_price": 0.3283
+      },
+      {
+        "pair": "CLOUDUSD",
+        "pct_change_24h": 35.303,
+        "last_price": 0.0893
+      },
+      {
+        "pair": "ALKIMIUSD",
+        "pct_change_24h": 32.6923,
+        "last_price": 0.00069
+      },
+      {
+        "pair": "INXUSD",
+        "pct_change_24h": 30.5334,
+        "last_price": 0.007708
+      },
+      {
+        "pair": "GRTUSD",
+        "pct_change_24h": 26.4589,
+        "last_price": 0.03489
+      },
+      {
+        "pair": "TREADUSD",
+        "pct_change_24h": 23.6551,
+        "last_price": 1.1171
+      },
+      {
+        "pair": "CHEXUSD",
+        "pct_change_24h": 22.0183,
+        "last_price": 0.0133
+      }
+    ]
   }
 ]
