@@ -15178,5 +15178,60 @@
         "last_price": 0.0133
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-28T04:28:32.183209+00:00",
+    "gainers": [
+      {
+        "pair": "TREADUSD",
+        "pct_change_24h": 19.4217,
+        "last_price": 1.2968
+      },
+      {
+        "pair": "DOLOUSD",
+        "pct_change_24h": 14.2327,
+        "last_price": 0.03692
+      },
+      {
+        "pair": "CHEXUSD",
+        "pct_change_24h": 12.3188,
+        "last_price": 0.0155
+      },
+      {
+        "pair": "QIUSD",
+        "pct_change_24h": 11.4951,
+        "last_price": 0.003162
+      },
+      {
+        "pair": "CTCUSD",
+        "pct_change_24h": 8.8852,
+        "last_price": 0.1299
+      },
+      {
+        "pair": "GAME2USD",
+        "pct_change_24h": 7.9827,
+        "last_price": 0.0011755
+      },
+      {
+        "pair": "LCXUSD",
+        "pct_change_24h": 7.2644,
+        "last_price": 0.03529
+      },
+      {
+        "pair": "OOBUSD",
+        "pct_change_24h": 6.2857,
+        "last_price": 0.0093
+      },
+      {
+        "pair": "WARUSD",
+        "pct_change_24h": 5.0,
+        "last_price": 0.00042
+      },
+      {
+        "pair": "EWTUSD",
+        "pct_change_24h": 4.7478,
+        "last_price": 0.353
+      }
+    ]
   }
 ]
