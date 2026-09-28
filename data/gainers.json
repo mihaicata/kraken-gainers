@@ -15233,5 +15233,60 @@
         "last_price": 0.353
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-28T16:35:06.285061+00:00",
+    "gainers": [
+      {
+        "pair": "CHEXUSD",
+        "pct_change_24h": 63.0435,
+        "last_price": 0.0225
+      },
+      {
+        "pair": "HBARUSD",
+        "pct_change_24h": 33.0446,
+        "last_price": 0.12747
+      },
+      {
+        "pair": "GIBUSD",
+        "pct_change_24h": 23.3677,
+        "last_price": 0.002872
+      },
+      {
+        "pair": "DOVUUSD",
+        "pct_change_24h": 22.1498,
+        "last_price": 0.0015
+      },
+      {
+        "pair": "PACKUSD",
+        "pct_change_24h": 20.3212,
+        "last_price": 0.007792
+      },
+      {
+        "pair": "SAUCEUSD",
+        "pct_change_24h": 17.1371,
+        "last_price": 0.01743
+      },
+      {
+        "pair": "MUBARAKUSD",
+        "pct_change_24h": 16.2663,
+        "last_price": 0.06147
+      },
+      {
+        "pair": "BONZOUSD",
+        "pct_change_24h": 15.414,
+        "last_price": 0.00906
+      },
+      {
+        "pair": "DOLOUSD",
+        "pct_change_24h": 14.2327,
+        "last_price": 0.03692
+      },
+      {
+        "pair": "ALGOUSD",
+        "pct_change_24h": 13.6907,
+        "last_price": 0.13594
+      }
+    ]
   }
 ]
