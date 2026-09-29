@@ -15453,5 +15453,60 @@
         "last_price": 0.027596
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-29T23:32:30.055154+00:00",
+    "gainers": [
+      {
+        "pair": "ESPORTSUSD",
+        "pct_change_24h": 35.567,
+        "last_price": 0.01315
+      },
+      {
+        "pair": "SOONUSD",
+        "pct_change_24h": 35.3982,
+        "last_price": 0.4131
+      },
+      {
+        "pair": "MOVRUSD",
+        "pct_change_24h": 26.9482,
+        "last_price": 1.2234
+      },
+      {
+        "pair": "GRASSUSD",
+        "pct_change_24h": 26.8468,
+        "last_price": 0.7607
+      },
+      {
+        "pair": "ATLASUSD",
+        "pct_change_24h": 26.6452,
+        "last_price": 0.0001963
+      },
+      {
+        "pair": "ZBCNUSD",
+        "pct_change_24h": 25.2801,
+        "last_price": 0.002572
+      },
+      {
+        "pair": "PONDUSD",
+        "pct_change_24h": 25.1538,
+        "last_price": 0.001831
+      },
+      {
+        "pair": "PUMPUSD",
+        "pct_change_24h": 19.7769,
+        "last_price": 0.005905
+      },
+      {
+        "pair": "PHAUSD",
+        "pct_change_24h": 18.9113,
+        "last_price": 0.07187
+      },
+      {
+        "pair": "QNTUSD",
+        "pct_change_24h": 15.9681,
+        "last_price": 267.26
+      }
+    ]
   }
 ]
