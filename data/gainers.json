@@ -15398,5 +15398,60 @@
         "last_price": 1.388e-07
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-29T17:52:12.102977+00:00",
+    "gainers": [
+      {
+        "pair": "SOONUSD",
+        "pct_change_24h": 31.1701,
+        "last_price": 0.4002
+      },
+      {
+        "pair": "PONDUSD",
+        "pct_change_24h": 26.3841,
+        "last_price": 0.001849
+      },
+      {
+        "pair": "ESPORTSUSD",
+        "pct_change_24h": 25.7732,
+        "last_price": 0.0122
+      },
+      {
+        "pair": "INITUSD",
+        "pct_change_24h": 21.9621,
+        "last_price": 0.1094
+      },
+      {
+        "pair": "OMGUSD",
+        "pct_change_24h": 18.511,
+        "last_price": 0.057543
+      },
+      {
+        "pair": "ZBCNUSD",
+        "pct_change_24h": 15.4895,
+        "last_price": 0.002371
+      },
+      {
+        "pair": "0GUSD",
+        "pct_change_24h": 14.1379,
+        "last_price": 0.331
+      },
+      {
+        "pair": "PUMPUSD",
+        "pct_change_24h": 13.7525,
+        "last_price": 0.005608
+      },
+      {
+        "pair": "OBOLUSD",
+        "pct_change_24h": 13.3533,
+        "last_price": 0.003404
+      },
+      {
+        "pair": "PUFFERUSD",
+        "pct_change_24h": 11.409,
+        "last_price": 0.027596
+      }
+    ]
   }
 ]
