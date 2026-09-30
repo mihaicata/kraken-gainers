@@ -15508,5 +15508,60 @@
         "last_price": 267.26
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-09-30T14:44:30.023669+00:00",
+    "gainers": [
+      {
+        "pair": "USUSD",
+        "pct_change_24h": 63.0242,
+        "last_price": 0.0276
+      },
+      {
+        "pair": "SOONUSD",
+        "pct_change_24h": 31.0411,
+        "last_price": 0.545
+      },
+      {
+        "pair": "ALEOUSD",
+        "pct_change_24h": 29.7068,
+        "last_price": 0.03362
+      },
+      {
+        "pair": "MOVRUSD",
+        "pct_change_24h": 28.5986,
+        "last_price": 1.6215
+      },
+      {
+        "pair": "TRUUSD",
+        "pct_change_24h": 24.4681,
+        "last_price": 0.00117
+      },
+      {
+        "pair": "CAMPUSD",
+        "pct_change_24h": 22.7545,
+        "last_price": 0.00041
+      },
+      {
+        "pair": "NILUSD",
+        "pct_change_24h": 19.4373,
+        "last_price": 0.0934
+      },
+      {
+        "pair": "COQUSD",
+        "pct_change_24h": 18.8367,
+        "last_price": 1.798e-07
+      },
+      {
+        "pair": "KNTQUSD",
+        "pct_change_24h": 18.0023,
+        "last_price": 0.33515
+      },
+      {
+        "pair": "NIGHTUSD",
+        "pct_change_24h": 15.4083,
+        "last_price": 0.03745
+      }
+    ]
   }
 ]
