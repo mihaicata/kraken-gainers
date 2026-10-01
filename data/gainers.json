@@ -15618,5 +15618,60 @@
         "last_price": 0.03749
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-01T04:56:46.403416+00:00",
+    "gainers": [
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 20.99,
+        "last_price": 1.2514
+      },
+      {
+        "pair": "AMIUSD",
+        "pct_change_24h": 19.7059,
+        "last_price": 0.000814
+      },
+      {
+        "pair": "TRACUSD",
+        "pct_change_24h": 17.068,
+        "last_price": 0.4959
+      },
+      {
+        "pair": "PLUMEUSD",
+        "pct_change_24h": 11.3006,
+        "last_price": 0.02088
+      },
+      {
+        "pair": "EWTUSD",
+        "pct_change_24h": 10.3858,
+        "last_price": 0.372
+      },
+      {
+        "pair": "SAFEUSD",
+        "pct_change_24h": 8.4359,
+        "last_price": 0.1234
+      },
+      {
+        "pair": "TBTCUSD",
+        "pct_change_24h": 7.1939,
+        "last_price": 87049.9
+      },
+      {
+        "pair": "BADGERUSD",
+        "pct_change_24h": 6.4776,
+        "last_price": 0.3304
+      },
+      {
+        "pair": "DRIFTUSD",
+        "pct_change_24h": 6.3251,
+        "last_price": 0.02034
+      },
+      {
+        "pair": "DRVUSD",
+        "pct_change_24h": 5.9665,
+        "last_price": 0.41328
+      }
+    ]
   }
 ]
