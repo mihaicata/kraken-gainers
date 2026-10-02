@@ -15838,5 +15838,60 @@
         "last_price": 0.0648
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-02T14:33:56.949565+00:00",
+    "gainers": [
+      {
+        "pair": "AMIUSD",
+        "pct_change_24h": 101.4903,
+        "last_price": 0.001352
+      },
+      {
+        "pair": "SANDUSD",
+        "pct_change_24h": 43.5841,
+        "last_price": 0.0649
+      },
+      {
+        "pair": "LCXUSD",
+        "pct_change_24h": 28.5267,
+        "last_price": 0.05749
+      },
+      {
+        "pair": "NIGHTUSD",
+        "pct_change_24h": 25.5065,
+        "last_price": 0.04832
+      },
+      {
+        "pair": "USDUCUSD",
+        "pct_change_24h": 18.3779,
+        "last_price": 0.003897
+      },
+      {
+        "pair": "GALAUSD",
+        "pct_change_24h": 15.7662,
+        "last_price": 0.002614
+      },
+      {
+        "pair": "BATUSD",
+        "pct_change_24h": 15.4276,
+        "last_price": 0.10325
+      },
+      {
+        "pair": "APEUSD",
+        "pct_change_24h": 14.7276,
+        "last_price": 0.1706
+      },
+      {
+        "pair": "MANAUSD",
+        "pct_change_24h": 13.7504,
+        "last_price": 0.10109
+      },
+      {
+        "pair": "VVVUSD",
+        "pct_change_24h": 13.7232,
+        "last_price": 29.833
+      }
+    ]
   }
 ]
