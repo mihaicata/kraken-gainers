@@ -15783,5 +15783,60 @@
         "last_price": 0.05123
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-02T04:47:09.695003+00:00",
+    "gainers": [
+      {
+        "pair": "USDUCUSD",
+        "pct_change_24h": 17.1932,
+        "last_price": 0.003858
+      },
+      {
+        "pair": "ROLLUSD",
+        "pct_change_24h": 13.6681,
+        "last_price": 0.09755
+      },
+      {
+        "pair": "CVXUSD",
+        "pct_change_24h": 13.5536,
+        "last_price": 2.371
+      },
+      {
+        "pair": "NOBODYUSD",
+        "pct_change_24h": 11.8299,
+        "last_price": 0.000605
+      },
+      {
+        "pair": "SN44USD",
+        "pct_change_24h": 11.4867,
+        "last_price": 11.346
+      },
+      {
+        "pair": "TRACUSD",
+        "pct_change_24h": 10.1839,
+        "last_price": 0.4793
+      },
+      {
+        "pair": "ADXUSD",
+        "pct_change_24h": 9.9844,
+        "last_price": 0.07072
+      },
+      {
+        "pair": "ORDERUSD",
+        "pct_change_24h": 9.9256,
+        "last_price": 0.0443
+      },
+      {
+        "pair": "LOFIUSD",
+        "pct_change_24h": 9.1021,
+        "last_price": 0.00887
+      },
+      {
+        "pair": "VELVETUSD",
+        "pct_change_24h": 8.7248,
+        "last_price": 0.0648
+      }
+    ]
   }
 ]
