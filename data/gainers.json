@@ -15948,5 +15948,60 @@
         "last_price": 0.056995
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-03T04:29:45.104141+00:00",
+    "gainers": [
+      {
+        "pair": "DMCUSD",
+        "pct_change_24h": 19.7917,
+        "last_price": 0.000345
+      },
+      {
+        "pair": "ELXUSD",
+        "pct_change_24h": 19.2718,
+        "last_price": 0.001343
+      },
+      {
+        "pair": "SANDUSD",
+        "pct_change_24h": 18.2344,
+        "last_price": 0.0817
+      },
+      {
+        "pair": "TRACUSD",
+        "pct_change_24h": 11.5851,
+        "last_price": 0.4787
+      },
+      {
+        "pair": "TREADUSD",
+        "pct_change_24h": 11.5815,
+        "last_price": 0.9384
+      },
+      {
+        "pair": "UPUSD",
+        "pct_change_24h": 10.2176,
+        "last_price": 0.07346
+      },
+      {
+        "pair": "ENJUSD",
+        "pct_change_24h": 9.0585,
+        "last_price": 0.03672
+      },
+      {
+        "pair": "CTUSD",
+        "pct_change_24h": 6.9883,
+        "last_price": 0.5389
+      },
+      {
+        "pair": "MANAUSD",
+        "pct_change_24h": 6.9075,
+        "last_price": 0.10741
+      },
+      {
+        "pair": "FOLDUSD",
+        "pct_change_24h": 6.841,
+        "last_price": 0.06825
+      }
+    ]
   }
 ]
