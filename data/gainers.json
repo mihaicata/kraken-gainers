@@ -16003,5 +16003,60 @@
         "last_price": 0.06825
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-03T13:09:20.358723+00:00",
+    "gainers": [
+      {
+        "pair": "GLMRUSD",
+        "pct_change_24h": 50.2897,
+        "last_price": 0.01297
+      },
+      {
+        "pair": "ELXUSD",
+        "pct_change_24h": 25.0444,
+        "last_price": 0.001408
+      },
+      {
+        "pair": "QIUSD",
+        "pct_change_24h": 22.9565,
+        "last_price": 0.003219
+      },
+      {
+        "pair": "ZROUSD",
+        "pct_change_24h": 18.0253,
+        "last_price": 2.056
+      },
+      {
+        "pair": "STGUSD",
+        "pct_change_24h": 17.5497,
+        "last_price": 0.1775
+      },
+      {
+        "pair": "DMCUSD",
+        "pct_change_24h": 14.9306,
+        "last_price": 0.000331
+      },
+      {
+        "pair": "FOLDUSD",
+        "pct_change_24h": 12.0382,
+        "last_price": 0.07157
+      },
+      {
+        "pair": "DEBITUSD",
+        "pct_change_24h": 11.082,
+        "last_price": 2.546
+      },
+      {
+        "pair": "FISUSD",
+        "pct_change_24h": 9.7503,
+        "last_price": 0.001846
+      },
+      {
+        "pair": "WLDUSD",
+        "pct_change_24h": 9.5153,
+        "last_price": 0.61
+      }
+    ]
   }
 ]
