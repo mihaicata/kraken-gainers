@@ -16058,5 +16058,60 @@
         "last_price": 0.61
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-03T19:05:37.048648+00:00",
+    "gainers": [
+      {
+        "pair": "AINUSD",
+        "pct_change_24h": 105.2786,
+        "last_price": 0.049
+      },
+      {
+        "pair": "GLMRUSD",
+        "pct_change_24h": 56.5469,
+        "last_price": 0.01351
+      },
+      {
+        "pair": "TREADUSD",
+        "pct_change_24h": 29.4055,
+        "last_price": 1.0883
+      },
+      {
+        "pair": "QIUSD",
+        "pct_change_24h": 21.6578,
+        "last_price": 0.003185
+      },
+      {
+        "pair": "FUNUSD",
+        "pct_change_24h": 20.8191,
+        "last_price": 0.02124
+      },
+      {
+        "pair": "PUMPUSD",
+        "pct_change_24h": 18.9751,
+        "last_price": 0.006408
+      },
+      {
+        "pair": "STRKUSD",
+        "pct_change_24h": 18.6263,
+        "last_price": 0.05095
+      },
+      {
+        "pair": "DEBITUSD",
+        "pct_change_24h": 18.3682,
+        "last_price": 2.713
+      },
+      {
+        "pair": "ZROUSD",
+        "pct_change_24h": 18.0827,
+        "last_price": 2.057
+      },
+      {
+        "pair": "STGUSD",
+        "pct_change_24h": 17.7483,
+        "last_price": 0.1778
+      }
+    ]
   }
 ]
