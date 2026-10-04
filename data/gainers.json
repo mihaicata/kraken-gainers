@@ -16168,5 +16168,60 @@
         "last_price": 0.1766
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-04T05:00:24.994930+00:00",
+    "gainers": [
+      {
+        "pair": "EDGEUSD",
+        "pct_change_24h": 25.9011,
+        "last_price": 0.12959
+      },
+      {
+        "pair": "HONEYUSD",
+        "pct_change_24h": 18.4597,
+        "last_price": 0.002015
+      },
+      {
+        "pair": "TMXUSD",
+        "pct_change_24h": 15.8992,
+        "last_price": 0.01334
+      },
+      {
+        "pair": "AINUSD",
+        "pct_change_24h": 15.6615,
+        "last_price": 0.04852
+      },
+      {
+        "pair": "AXSUSD",
+        "pct_change_24h": 14.6912,
+        "last_price": 1.374
+      },
+      {
+        "pair": "PROSUSD",
+        "pct_change_24h": 10.3616,
+        "last_price": 0.7935
+      },
+      {
+        "pair": "ESPUSD",
+        "pct_change_24h": 9.0658,
+        "last_price": 0.11056
+      },
+      {
+        "pair": "UPUSD",
+        "pct_change_24h": 8.9722,
+        "last_price": 0.07263
+      },
+      {
+        "pair": "GLMRUSD",
+        "pct_change_24h": 8.3466,
+        "last_price": 0.01363
+      },
+      {
+        "pair": "DAGUSD",
+        "pct_change_24h": 7.8468,
+        "last_price": 0.007999
+      }
+    ]
   }
 ]
