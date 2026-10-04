@@ -16333,5 +16333,60 @@
         "last_price": 0.04782
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-04T22:53:10.231827+00:00",
+    "gainers": [
+      {
+        "pair": "GTCUSD",
+        "pct_change_24h": 58.8287,
+        "last_price": 0.1817
+      },
+      {
+        "pair": "LOFIUSD",
+        "pct_change_24h": 53.7347,
+        "last_price": 0.01379
+      },
+      {
+        "pair": "HONEYUSD",
+        "pct_change_24h": 53.6743,
+        "last_price": 0.002614
+      },
+      {
+        "pair": "TMXUSD",
+        "pct_change_24h": 33.7098,
+        "last_price": 0.01539
+      },
+      {
+        "pair": "RARIUSD",
+        "pct_change_24h": 28.5264,
+        "last_price": 0.1631
+      },
+      {
+        "pair": "AINUSD",
+        "pct_change_24h": 27.795,
+        "last_price": 0.05361
+      },
+      {
+        "pair": "CHEXUSD",
+        "pct_change_24h": 26.4495,
+        "last_price": 0.01941
+      },
+      {
+        "pair": "EDGEUSD",
+        "pct_change_24h": 23.6569,
+        "last_price": 0.12728
+      },
+      {
+        "pair": "NOSUSD",
+        "pct_change_24h": 21.0476,
+        "last_price": 0.7649
+      },
+      {
+        "pair": "BEAMUSD",
+        "pct_change_24h": 20.1222,
+        "last_price": 0.002555
+      }
+    ]
   }
 ]
