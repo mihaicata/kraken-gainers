@@ -16443,5 +16443,60 @@
         "last_price": 0.000285
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-05T16:56:18.827913+00:00",
+    "gainers": [
+      {
+        "pair": "ELIZAOSUSD",
+        "pct_change_24h": 116.25,
+        "last_price": 0.000346
+      },
+      {
+        "pair": "RLCUSD",
+        "pct_change_24h": 53.3041,
+        "last_price": 0.5591
+      },
+      {
+        "pair": "NOCKUSD",
+        "pct_change_24h": 28.3834,
+        "last_price": 0.02438
+      },
+      {
+        "pair": "UXLINKUSD",
+        "pct_change_24h": 27.5362,
+        "last_price": 0.00088
+      },
+      {
+        "pair": "ZEUSUSD",
+        "pct_change_24h": 22.9437,
+        "last_price": 0.00284
+      },
+      {
+        "pair": "NILUSD",
+        "pct_change_24h": 20.7014,
+        "last_price": 0.1067
+      },
+      {
+        "pair": "PNTUSD",
+        "pct_change_24h": 20.1033,
+        "last_price": 0.07211
+      },
+      {
+        "pair": "RADUSD",
+        "pct_change_24h": 19.0875,
+        "last_price": 0.3132
+      },
+      {
+        "pair": "MOVRUSD",
+        "pct_change_24h": 16.7955,
+        "last_price": 1.9798
+      },
+      {
+        "pair": "MUBARAKUSD",
+        "pct_change_24h": 16.0592,
+        "last_price": 0.0761
+      }
+    ]
   }
 ]
