@@ -16553,5 +16553,60 @@
         "last_price": 0.1981
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-06T11:05:56.098892+00:00",
+    "gainers": [
+      {
+        "pair": "RLCUSD",
+        "pct_change_24h": 40.5695,
+        "last_price": 1.0218
+      },
+      {
+        "pair": "ZEUSUSD",
+        "pct_change_24h": 38.0,
+        "last_price": 0.00483
+      },
+      {
+        "pair": "USUSD",
+        "pct_change_24h": 33.7638,
+        "last_price": 0.0145
+      },
+      {
+        "pair": "ELIZAOSUSD",
+        "pct_change_24h": 30.1205,
+        "last_price": 0.00054
+      },
+      {
+        "pair": "RADUSD",
+        "pct_change_24h": 18.2324,
+        "last_price": 0.404
+      },
+      {
+        "pair": "PACTUSD",
+        "pct_change_24h": 17.7529,
+        "last_price": 0.0001897
+      },
+      {
+        "pair": "API3USD",
+        "pct_change_24h": 16.7294,
+        "last_price": 0.3719
+      },
+      {
+        "pair": "DMCUSD",
+        "pct_change_24h": 16.3077,
+        "last_price": 0.000378
+      },
+      {
+        "pair": "LCXUSD",
+        "pct_change_24h": 12.7039,
+        "last_price": 0.08153
+      },
+      {
+        "pair": "CTCUSD",
+        "pct_change_24h": 9.9656,
+        "last_price": 0.128
+      }
+    ]
   }
 ]
