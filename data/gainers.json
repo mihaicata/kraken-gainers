@@ -16498,5 +16498,60 @@
         "last_price": 0.0761
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-06T01:12:18.003951+00:00",
+    "gainers": [
+      {
+        "pair": "EDUUSD",
+        "pct_change_24h": 18.9922,
+        "last_price": 0.06234
+      },
+      {
+        "pair": "TRUUSD",
+        "pct_change_24h": 13.8298,
+        "last_price": 0.00107
+      },
+      {
+        "pair": "DMCUSD",
+        "pct_change_24h": 13.5714,
+        "last_price": 0.000318
+      },
+      {
+        "pair": "RAILSUSD",
+        "pct_change_24h": 11.4445,
+        "last_price": 0.03788
+      },
+      {
+        "pair": "VTHOUSD",
+        "pct_change_24h": 10.1192,
+        "last_price": 0.0007389
+      },
+      {
+        "pair": "BOSUSD",
+        "pct_change_24h": 7.4074,
+        "last_price": 2.9e-05
+      },
+      {
+        "pair": "BILLYUSD",
+        "pct_change_24h": 6.5904,
+        "last_price": 0.001957
+      },
+      {
+        "pair": "LCAPUSD",
+        "pct_change_24h": 6.5251,
+        "last_price": 7.526
+      },
+      {
+        "pair": "SWEATUSD",
+        "pct_change_24h": 5.4688,
+        "last_price": 0.00027
+      },
+      {
+        "pair": "GTCUSD",
+        "pct_change_24h": 5.4284,
+        "last_price": 0.1981
+      }
+    ]
   }
 ]
