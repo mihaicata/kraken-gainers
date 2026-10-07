@@ -16828,5 +16828,60 @@
         "last_price": 0.00524
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-07T21:05:40.776708+00:00",
+    "gainers": [
+      {
+        "pair": "ZEUSUSD",
+        "pct_change_24h": 108.0992,
+        "last_price": 0.01259
+      },
+      {
+        "pair": "BDXNUSD",
+        "pct_change_24h": 65.0,
+        "last_price": 0.00033
+      },
+      {
+        "pair": "ELIZAOSUSD",
+        "pct_change_24h": 45.9829,
+        "last_price": 0.000854
+      },
+      {
+        "pair": "METUSD",
+        "pct_change_24h": 37.1027,
+        "last_price": 0.4486
+      },
+      {
+        "pair": "SUPUSD",
+        "pct_change_24h": 25.7194,
+        "last_price": 0.000699
+      },
+      {
+        "pair": "YOMUSD",
+        "pct_change_24h": 22.0955,
+        "last_price": 0.01713
+      },
+      {
+        "pair": "GTCUSD",
+        "pct_change_24h": 20.2034,
+        "last_price": 0.1773
+      },
+      {
+        "pair": "HONEYUSD",
+        "pct_change_24h": 19.4078,
+        "last_price": 0.002984
+      },
+      {
+        "pair": "LAPTOPUSD",
+        "pct_change_24h": 17.6075,
+        "last_price": 0.0875
+      },
+      {
+        "pair": "SANDUSD",
+        "pct_change_24h": 17.2673,
+        "last_price": 0.0781
+      }
+    ]
   }
 ]
