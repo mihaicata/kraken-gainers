@@ -17048,5 +17048,60 @@
         "last_price": 0.43129
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-09T05:17:29.422742+00:00",
+    "gainers": [
+      {
+        "pair": "STRKUSD",
+        "pct_change_24h": 22.5342,
+        "last_price": 0.06808
+      },
+      {
+        "pair": "ALKIMIUSD",
+        "pct_change_24h": 12.5,
+        "last_price": 0.00063
+      },
+      {
+        "pair": "LOFIUSD",
+        "pct_change_24h": 12.2492,
+        "last_price": 0.01063
+      },
+      {
+        "pair": "APUUSD",
+        "pct_change_24h": 10.9906,
+        "last_price": 1.535e-05
+      },
+      {
+        "pair": "BERTUSD",
+        "pct_change_24h": 10.4361,
+        "last_price": 0.015397
+      },
+      {
+        "pair": "WARUSD",
+        "pct_change_24h": 10.2564,
+        "last_price": 0.00043
+      },
+      {
+        "pair": "WUSD",
+        "pct_change_24h": 10.1316,
+        "last_price": 0.01674
+      },
+      {
+        "pair": "SUSD",
+        "pct_change_24h": 8.8083,
+        "last_price": 0.042
+      },
+      {
+        "pair": "USUSD",
+        "pct_change_24h": 8.5928,
+        "last_price": 0.01744
+      },
+      {
+        "pair": "HONEYUSD",
+        "pct_change_24h": 8.4599,
+        "last_price": 0.0035
+      }
+    ]
   }
 ]
