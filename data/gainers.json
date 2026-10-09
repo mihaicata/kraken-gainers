@@ -17158,5 +17158,60 @@
         "last_price": 0.045
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-09T20:39:49.095707+00:00",
+    "gainers": [
+      {
+        "pair": "USUSD",
+        "pct_change_24h": 105.1059,
+        "last_price": 0.03294
+      },
+      {
+        "pair": "BATUSD",
+        "pct_change_24h": 30.4407,
+        "last_price": 0.13378
+      },
+      {
+        "pair": "STRKUSD",
+        "pct_change_24h": 24.532,
+        "last_price": 0.06919
+      },
+      {
+        "pair": "MFUSD",
+        "pct_change_24h": 23.8693,
+        "last_price": 0.00493
+      },
+      {
+        "pair": "RADUSD",
+        "pct_change_24h": 22.8363,
+        "last_price": 0.3534
+      },
+      {
+        "pair": "ZKUSD",
+        "pct_change_24h": 22.4168,
+        "last_price": 0.01398
+      },
+      {
+        "pair": "RLCUSD",
+        "pct_change_24h": 21.3418,
+        "last_price": 1.0689
+      },
+      {
+        "pair": "GMTUSD",
+        "pct_change_24h": 21.2198,
+        "last_price": 0.00954
+      },
+      {
+        "pair": "CHEXUSD",
+        "pct_change_24h": 20.6867,
+        "last_price": 0.01406
+      },
+      {
+        "pair": "XDPUSD",
+        "pct_change_24h": 19.8455,
+        "last_price": 0.022809
+      }
+    ]
   }
 ]
