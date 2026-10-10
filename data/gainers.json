@@ -17268,5 +17268,60 @@
         "last_price": 0.02786
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-10T14:19:46.077354+00:00",
+    "gainers": [
+      {
+        "pair": "OMGUSD",
+        "pct_change_24h": 31.7293,
+        "last_price": 0.061482
+      },
+      {
+        "pair": "POLSUSD",
+        "pct_change_24h": 28.3531,
+        "last_price": 0.0756
+      },
+      {
+        "pair": "ALTHEAUSD",
+        "pct_change_24h": 14.4737,
+        "last_price": 0.0087
+      },
+      {
+        "pair": "AEROUSD",
+        "pct_change_24h": 11.906,
+        "last_price": 0.8948
+      },
+      {
+        "pair": "CFXUSD",
+        "pct_change_24h": 11.8233,
+        "last_price": 0.05722
+      },
+      {
+        "pair": "ORCAUSD",
+        "pct_change_24h": 11.304,
+        "last_price": 2.501
+      },
+      {
+        "pair": "REPPOUSD",
+        "pct_change_24h": 11.2559,
+        "last_price": 0.011614
+      },
+      {
+        "pair": "NEARUSD",
+        "pct_change_24h": 10.7188,
+        "last_price": 5.4023
+      },
+      {
+        "pair": "NOCKUSD",
+        "pct_change_24h": 10.6582,
+        "last_price": 0.02606
+      },
+      {
+        "pair": "SNEKUSD",
+        "pct_change_24h": 10.2886,
+        "last_price": 0.000879
+      }
+    ]
   }
 ]
