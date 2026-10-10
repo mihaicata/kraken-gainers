@@ -17213,5 +17213,60 @@
         "last_price": 0.022809
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-10T05:02:19.598348+00:00",
+    "gainers": [
+      {
+        "pair": "MINAUSD",
+        "pct_change_24h": 16.9838,
+        "last_price": 0.09223
+      },
+      {
+        "pair": "BMBUSD",
+        "pct_change_24h": 14.2649,
+        "last_price": 0.000785
+      },
+      {
+        "pair": "REPPOUSD",
+        "pct_change_24h": 13.804,
+        "last_price": 0.01188
+      },
+      {
+        "pair": "ELXUSD",
+        "pct_change_24h": 13.5193,
+        "last_price": 0.000529
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 12.6059,
+        "last_price": 1.2229
+      },
+      {
+        "pair": "ORDERUSD",
+        "pct_change_24h": 11.6011,
+        "last_price": 0.03973
+      },
+      {
+        "pair": "NOBODYUSD",
+        "pct_change_24h": 8.7146,
+        "last_price": 0.000499
+      },
+      {
+        "pair": "FILUSD",
+        "pct_change_24h": 7.9336,
+        "last_price": 1.17
+      },
+      {
+        "pair": "OPUSD",
+        "pct_change_24h": 7.9305,
+        "last_price": 0.1429
+      },
+      {
+        "pair": "STABLEUSD",
+        "pct_change_24h": 7.8591,
+        "last_price": 0.02786
+      }
+    ]
   }
 ]
