@@ -17433,5 +17433,60 @@
         "last_price": 0.00074
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-11T04:51:06.650347+00:00",
+    "gainers": [
+      {
+        "pair": "RVVUSD",
+        "pct_change_24h": 14.3312,
+        "last_price": 3.59e-05
+      },
+      {
+        "pair": "BOSUSD",
+        "pct_change_24h": 11.7647,
+        "last_price": 1.9e-05
+      },
+      {
+        "pair": "ELXUSD",
+        "pct_change_24h": 8.4034,
+        "last_price": 0.000516
+      },
+      {
+        "pair": "BLUEUSD",
+        "pct_change_24h": 7.6741,
+        "last_price": 0.01455
+      },
+      {
+        "pair": "CMETHUSD",
+        "pct_change_24h": 7.6471,
+        "last_price": 2895.6
+      },
+      {
+        "pair": "SWEATUSD",
+        "pct_change_24h": 6.6225,
+        "last_price": 0.000161
+      },
+      {
+        "pair": "FISUSD",
+        "pct_change_24h": 5.6859,
+        "last_price": 0.001487
+      },
+      {
+        "pair": "YBUSD",
+        "pct_change_24h": 5.4923,
+        "last_price": 0.0824
+      },
+      {
+        "pair": "SIGMAUSD",
+        "pct_change_24h": 5.2462,
+        "last_price": 0.001304
+      },
+      {
+        "pair": "DEBITUSD",
+        "pct_change_24h": 4.8352,
+        "last_price": 1.908
+      }
+    ]
   }
 ]
