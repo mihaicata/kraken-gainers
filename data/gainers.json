@@ -18038,5 +18038,60 @@
         "last_price": 0.4388
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-14T20:02:51.360820+00:00",
+    "gainers": [
+      {
+        "pair": "UMXMUSD",
+        "pct_change_24h": 907.9877,
+        "last_price": 0.6562
+      },
+      {
+        "pair": "WALUSD",
+        "pct_change_24h": 60.8031,
+        "last_price": 0.06207
+      },
+      {
+        "pair": "ZEREBROUSD",
+        "pct_change_24h": 49.0654,
+        "last_price": 0.04147
+      },
+      {
+        "pair": "AVAUSD",
+        "pct_change_24h": 38.423,
+        "last_price": 0.3318
+      },
+      {
+        "pair": "APXUSDUSD",
+        "pct_change_24h": 27.8021,
+        "last_price": 1.0
+      },
+      {
+        "pair": "QUSD",
+        "pct_change_24h": 20.5549,
+        "last_price": 0.050879
+      },
+      {
+        "pair": "DENTUSD",
+        "pct_change_24h": 18.1435,
+        "last_price": 5.6e-05
+      },
+      {
+        "pair": "DEEPUSD",
+        "pct_change_24h": 16.8251,
+        "last_price": 0.02458
+      },
+      {
+        "pair": "ARCUSD",
+        "pct_change_24h": 14.8036,
+        "last_price": 0.0342
+      },
+      {
+        "pair": "PONSUSD",
+        "pct_change_24h": 13.7828,
+        "last_price": 0.3426
+      }
+    ]
   }
 ]
