@@ -17928,5 +17928,60 @@
         "last_price": 0.00055
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-14T04:08:51.831264+00:00",
+    "gainers": [
+      {
+        "pair": "ALTHEAUSD",
+        "pct_change_24h": 40.0,
+        "last_price": 0.0119
+      },
+      {
+        "pair": "QUSD",
+        "pct_change_24h": 16.8041,
+        "last_price": 0.049296
+      },
+      {
+        "pair": "PUFFERUSD",
+        "pct_change_24h": 11.8692,
+        "last_price": 0.027842
+      },
+      {
+        "pair": "AVAUSD",
+        "pct_change_24h": 11.3475,
+        "last_price": 0.2669
+      },
+      {
+        "pair": "CTUSD",
+        "pct_change_24h": 9.8889,
+        "last_price": 0.3956
+      },
+      {
+        "pair": "PONSUSD",
+        "pct_change_24h": 9.0668,
+        "last_price": 0.3284
+      },
+      {
+        "pair": "ZEUSUSD",
+        "pct_change_24h": 6.1267,
+        "last_price": 0.01022
+      },
+      {
+        "pair": "CLANKERUSD",
+        "pct_change_24h": 6.0241,
+        "last_price": 12.32
+      },
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 5.9578,
+        "last_price": 0.6278
+      },
+      {
+        "pair": "PYTHUSD",
+        "pct_change_24h": 5.527,
+        "last_price": 0.0821
+      }
+    ]
   }
 ]
