@@ -18148,5 +18148,60 @@
         "last_price": 0.002487
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-15T08:59:47.688850+00:00",
+    "gainers": [
+      {
+        "pair": "PUFFERUSD",
+        "pct_change_24h": 105.8495,
+        "last_price": 0.053807
+      },
+      {
+        "pair": "UXLINKUSD",
+        "pct_change_24h": 40.0,
+        "last_price": 0.0007
+      },
+      {
+        "pair": "BOSUSD",
+        "pct_change_24h": 19.2308,
+        "last_price": 3.1e-05
+      },
+      {
+        "pair": "XMLNZUSD",
+        "pct_change_24h": 16.8754,
+        "last_price": 1.6144
+      },
+      {
+        "pair": "AVLUSD",
+        "pct_change_24h": 13.0697,
+        "last_price": 0.021213
+      },
+      {
+        "pair": "LCXUSD",
+        "pct_change_24h": 12.8375,
+        "last_price": 0.05265
+      },
+      {
+        "pair": "ZKUSD",
+        "pct_change_24h": 12.4763,
+        "last_price": 0.01776
+      },
+      {
+        "pair": "UMXMUSD",
+        "pct_change_24h": 12.0465,
+        "last_price": 0.2409
+      },
+      {
+        "pair": "ARCUSD",
+        "pct_change_24h": 10.7676,
+        "last_price": 0.04084
+      },
+      {
+        "pair": "OMGUSD",
+        "pct_change_24h": 10.2279,
+        "last_price": 0.056645
+      }
+    ]
   }
 ]
