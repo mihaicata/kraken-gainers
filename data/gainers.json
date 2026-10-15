@@ -18093,5 +18093,60 @@
         "last_price": 0.3426
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-15T03:51:21.297188+00:00",
+    "gainers": [
+      {
+        "pair": "UMXMUSD",
+        "pct_change_24h": 31.1163,
+        "last_price": 0.2819
+      },
+      {
+        "pair": "APXUSDUSD",
+        "pct_change_24h": 27.8021,
+        "last_price": 1.0
+      },
+      {
+        "pair": "BDXNUSD",
+        "pct_change_24h": 13.6364,
+        "last_price": 0.00025
+      },
+      {
+        "pair": "SUPUSD",
+        "pct_change_24h": 9.9476,
+        "last_price": 0.00021
+      },
+      {
+        "pair": "RAILSUSD",
+        "pct_change_24h": 7.8484,
+        "last_price": 0.03243
+      },
+      {
+        "pair": "CLANKERUSD",
+        "pct_change_24h": 6.7029,
+        "last_price": 11.78
+      },
+      {
+        "pair": "RSRUSD",
+        "pct_change_24h": 6.1297,
+        "last_price": 0.002095
+      },
+      {
+        "pair": "NOBODYUSD",
+        "pct_change_24h": 4.6875,
+        "last_price": 0.000469
+      },
+      {
+        "pair": "CAPUSD",
+        "pct_change_24h": 4.3274,
+        "last_price": 0.077002
+      },
+      {
+        "pair": "USDUCUSD",
+        "pct_change_24h": 3.8847,
+        "last_price": 0.002487
+      }
+    ]
   }
 ]
