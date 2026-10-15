@@ -18258,5 +18258,60 @@
         "last_price": 0.09467
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-15T22:56:35.155246+00:00",
+    "gainers": [
+      {
+        "pair": "PUFFERUSD",
+        "pct_change_24h": 93.3127,
+        "last_price": 0.05053
+      },
+      {
+        "pair": "SWEATUSD",
+        "pct_change_24h": 72.0,
+        "last_price": 0.000129
+      },
+      {
+        "pair": "SUPUSD",
+        "pct_change_24h": 37.1728,
+        "last_price": 0.000262
+      },
+      {
+        "pair": "LCXUSD",
+        "pct_change_24h": 37.1196,
+        "last_price": 0.06398
+      },
+      {
+        "pair": "PONDUSD",
+        "pct_change_24h": 32.8402,
+        "last_price": 0.001796
+      },
+      {
+        "pair": "MFUSD",
+        "pct_change_24h": 32.5503,
+        "last_price": 0.00395
+      },
+      {
+        "pair": "ICNTUSD",
+        "pct_change_24h": 28.2689,
+        "last_price": 0.1393
+      },
+      {
+        "pair": "BATUSD",
+        "pct_change_24h": 25.7068,
+        "last_price": 0.21609
+      },
+      {
+        "pair": "ALEOUSD",
+        "pct_change_24h": 22.3846,
+        "last_price": 0.04691
+      },
+      {
+        "pair": "AKEUSD",
+        "pct_change_24h": 21.9341,
+        "last_price": 0.03321415
+      }
+    ]
   }
 ]
