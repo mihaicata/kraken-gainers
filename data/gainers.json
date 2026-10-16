@@ -18368,5 +18368,60 @@
         "last_price": 1.0291
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-16T08:51:07.125817+00:00",
+    "gainers": [
+      {
+        "pair": "UXLINKUSD",
+        "pct_change_24h": 48.6486,
+        "last_price": 0.00055
+      },
+      {
+        "pair": "ELXUSD",
+        "pct_change_24h": 30.0469,
+        "last_price": 0.000277
+      },
+      {
+        "pair": "ALIGNUSD",
+        "pct_change_24h": 23.5294,
+        "last_price": 0.00567
+      },
+      {
+        "pair": "TIAUSD",
+        "pct_change_24h": 16.1864,
+        "last_price": 0.6855
+      },
+      {
+        "pair": "B3USD",
+        "pct_change_24h": 13.1068,
+        "last_price": 0.000699
+      },
+      {
+        "pair": "TMXUSD",
+        "pct_change_24h": 13.0208,
+        "last_price": 0.00868
+      },
+      {
+        "pair": "BEAMUSD",
+        "pct_change_24h": 10.1402,
+        "last_price": 0.003063
+      },
+      {
+        "pair": "BLUEUSD",
+        "pct_change_24h": 8.6164,
+        "last_price": 0.010488
+      },
+      {
+        "pair": "INJUSD",
+        "pct_change_24h": 7.9812,
+        "last_price": 9.2
+      },
+      {
+        "pair": "ZROUSD",
+        "pct_change_24h": 7.7144,
+        "last_price": 2.248
+      }
+    ]
   }
 ]
