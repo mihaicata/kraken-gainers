@@ -18313,5 +18313,60 @@
         "last_price": 0.03321415
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-16T03:46:54.912593+00:00",
+    "gainers": [
+      {
+        "pair": "ELXUSD",
+        "pct_change_24h": 23.0047,
+        "last_price": 0.000262
+      },
+      {
+        "pair": "B3USD",
+        "pct_change_24h": 18.932,
+        "last_price": 0.000735
+      },
+      {
+        "pair": "PONDUSD",
+        "pct_change_24h": 18.3711,
+        "last_price": 0.001933
+      },
+      {
+        "pair": "PEPECOINUSD",
+        "pct_change_24h": 8.0572,
+        "last_price": 0.14216
+      },
+      {
+        "pair": "INJUSD",
+        "pct_change_24h": 7.8873,
+        "last_price": 9.192
+      },
+      {
+        "pair": "RAILSUSD",
+        "pct_change_24h": 5.3874,
+        "last_price": 0.03169
+      },
+      {
+        "pair": "ALKIMIUSD",
+        "pct_change_24h": 5.2632,
+        "last_price": 0.0006
+      },
+      {
+        "pair": "UMXMUSD",
+        "pct_change_24h": 5.205,
+        "last_price": 0.0667
+      },
+      {
+        "pair": "PORTALUSD",
+        "pct_change_24h": 5.0,
+        "last_price": 0.01512
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 4.9995,
+        "last_price": 1.0291
+      }
+    ]
   }
 ]
