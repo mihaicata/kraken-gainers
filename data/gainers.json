@@ -18588,5 +18588,60 @@
         "last_price": 0.7353
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-17T08:21:53.239762+00:00",
+    "gainers": [
+      {
+        "pair": "COPMUSD",
+        "pct_change_24h": 191.436,
+        "last_price": 0.000895
+      },
+      {
+        "pair": "DUCKUSD",
+        "pct_change_24h": 49.2537,
+        "last_price": 2e-05
+      },
+      {
+        "pair": "GTCUSD",
+        "pct_change_24h": 27.7233,
+        "last_price": 0.2474
+      },
+      {
+        "pair": "QUSD",
+        "pct_change_24h": 21.4682,
+        "last_price": 0.069758
+      },
+      {
+        "pair": "UXLINKUSD",
+        "pct_change_24h": 16.2162,
+        "last_price": 0.00043
+      },
+      {
+        "pair": "OOBUSD",
+        "pct_change_24h": 14.6643,
+        "last_price": 0.01298
+      },
+      {
+        "pair": "AVAAIUSD",
+        "pct_change_24h": 14.5833,
+        "last_price": 0.0088
+      },
+      {
+        "pair": "ESUSD",
+        "pct_change_24h": 13.9535,
+        "last_price": 0.00098
+      },
+      {
+        "pair": "RSCUSD",
+        "pct_change_24h": 13.271,
+        "last_price": 0.0606
+      },
+      {
+        "pair": "ICNTUSD",
+        "pct_change_24h": 10.7521,
+        "last_price": 0.1988
+      }
+    ]
   }
 ]
