@@ -18918,5 +18918,60 @@
         "last_price": 0.00715
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-18T15:35:10.376786+00:00",
+    "gainers": [
+      {
+        "pair": "ALTHEAUSD",
+        "pct_change_24h": 158.9474,
+        "last_price": 0.0492
+      },
+      {
+        "pair": "FISUSD",
+        "pct_change_24h": 75.9076,
+        "last_price": 0.002665
+      },
+      {
+        "pair": "ELXUSD",
+        "pct_change_24h": 61.2903,
+        "last_price": 0.0003
+      },
+      {
+        "pair": "SWEATUSD",
+        "pct_change_24h": 38.5965,
+        "last_price": 0.000158
+      },
+      {
+        "pair": "UXLINKUSD",
+        "pct_change_24h": 24.0,
+        "last_price": 0.00062
+      },
+      {
+        "pair": "RSCUSD",
+        "pct_change_24h": 13.8333,
+        "last_price": 0.0683
+      },
+      {
+        "pair": "RVVUSD",
+        "pct_change_24h": 13.7681,
+        "last_price": 1.57e-05
+      },
+      {
+        "pair": "ALEOUSD",
+        "pct_change_24h": 13.3398,
+        "last_price": 0.05803
+      },
+      {
+        "pair": "MEZOUSD",
+        "pct_change_24h": 11.5108,
+        "last_price": 0.0031
+      },
+      {
+        "pair": "ZEXUSD",
+        "pct_change_24h": 10.8696,
+        "last_price": 0.00102
+      }
+    ]
   }
 ]
