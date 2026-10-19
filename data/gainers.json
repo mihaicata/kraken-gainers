@@ -19083,5 +19083,60 @@
         "last_price": 0.2643
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-19T03:53:15.741758+00:00",
+    "gainers": [
+      {
+        "pair": "QUSD",
+        "pct_change_24h": 33.6447,
+        "last_price": 0.149388
+      },
+      {
+        "pair": "MFUSD",
+        "pct_change_24h": 12.5541,
+        "last_price": 0.0026
+      },
+      {
+        "pair": "ZEREBROUSD",
+        "pct_change_24h": 12.2572,
+        "last_price": 0.02601
+      },
+      {
+        "pair": "GTCUSD",
+        "pct_change_24h": 10.6601,
+        "last_price": 0.2917
+      },
+      {
+        "pair": "AVAUSD",
+        "pct_change_24h": 10.4839,
+        "last_price": 0.3562
+      },
+      {
+        "pair": "AMIUSD",
+        "pct_change_24h": 9.447,
+        "last_price": 0.00095
+      },
+      {
+        "pair": "SONICUSD",
+        "pct_change_24h": 9.4077,
+        "last_price": 0.02198
+      },
+      {
+        "pair": "LSETHUSD",
+        "pct_change_24h": 8.6487,
+        "last_price": 2847.9
+      },
+      {
+        "pair": "IDEXUSD",
+        "pct_change_24h": 7.5697,
+        "last_price": 0.00027
+      },
+      {
+        "pair": "VVVUSD",
+        "pct_change_24h": 7.4004,
+        "last_price": 24.338
+      }
+    ]
   }
 ]
