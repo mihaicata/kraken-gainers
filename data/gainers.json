@@ -19193,5 +19193,60 @@
         "last_price": 0.00853
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-19T18:30:58.664864+00:00",
+    "gainers": [
+      {
+        "pair": "BMBUSD",
+        "pct_change_24h": 253.0242,
+        "last_price": 0.001751
+      },
+      {
+        "pair": "IDEXUSD",
+        "pct_change_24h": 33.4661,
+        "last_price": 0.000335
+      },
+      {
+        "pair": "SUPUSD",
+        "pct_change_24h": 32.6693,
+        "last_price": 0.000333
+      },
+      {
+        "pair": "GTCUSD",
+        "pct_change_24h": 32.3976,
+        "last_price": 0.349
+      },
+      {
+        "pair": "AVAUSD",
+        "pct_change_24h": 31.4206,
+        "last_price": 0.4237
+      },
+      {
+        "pair": "OBOLUSD",
+        "pct_change_24h": 29.8587,
+        "last_price": 0.002666
+      },
+      {
+        "pair": "BOSUSD",
+        "pct_change_24h": 29.1667,
+        "last_price": 3.1e-05
+      },
+      {
+        "pair": "CTRUSD",
+        "pct_change_24h": 28.7856,
+        "last_price": 0.01718
+      },
+      {
+        "pair": "OSMOUSD",
+        "pct_change_24h": 25.8245,
+        "last_price": 0.05608
+      },
+      {
+        "pair": "PHAUSD",
+        "pct_change_24h": 24.9322,
+        "last_price": 0.05988
+      }
+    ]
   }
 ]
