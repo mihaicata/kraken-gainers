@@ -19358,5 +19358,60 @@
         "last_price": 0.00093
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-20T13:25:09.042242+00:00",
+    "gainers": [
+      {
+        "pair": "ALTHEAUSD",
+        "pct_change_24h": 18.3333,
+        "last_price": 0.0142
+      },
+      {
+        "pair": "BDXNUSD",
+        "pct_change_24h": 16.6667,
+        "last_price": 0.00028
+      },
+      {
+        "pair": "BMTUSD",
+        "pct_change_24h": 14.517,
+        "last_price": 0.02051
+      },
+      {
+        "pair": "ALTUSD",
+        "pct_change_24h": 13.8194,
+        "last_price": 0.01046
+      },
+      {
+        "pair": "ELXUSD",
+        "pct_change_24h": 13.3333,
+        "last_price": 0.000289
+      },
+      {
+        "pair": "KGENUSD",
+        "pct_change_24h": 10.9524,
+        "last_price": 0.0932
+      },
+      {
+        "pair": "PACTUSD",
+        "pct_change_24h": 9.6273,
+        "last_price": 0.0001765
+      },
+      {
+        "pair": "COMPUSD",
+        "pct_change_24h": 9.6234,
+        "last_price": 23.58
+      },
+      {
+        "pair": "ARCUSD",
+        "pct_change_24h": 7.8253,
+        "last_price": 0.0474
+      },
+      {
+        "pair": "PUPSUSD",
+        "pct_change_24h": 7.5231,
+        "last_price": 0.003373
+      }
+    ]
   }
 ]
