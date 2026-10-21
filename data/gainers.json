@@ -19688,5 +19688,60 @@
         "last_price": 0.002459
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-21T23:04:36.380896+00:00",
+    "gainers": [
+      {
+        "pair": "ALTHEAUSD",
+        "pct_change_24h": 34.3478,
+        "last_price": 0.0309
+      },
+      {
+        "pair": "BILLUSD",
+        "pct_change_24h": 31.0954,
+        "last_price": 0.00742
+      },
+      {
+        "pair": "ALTUSD",
+        "pct_change_24h": 28.8102,
+        "last_price": 0.0131
+      },
+      {
+        "pair": "ARCUSD",
+        "pct_change_24h": 21.1923,
+        "last_price": 0.06302
+      },
+      {
+        "pair": "KNTQUSD",
+        "pct_change_24h": 20.2508,
+        "last_price": 0.4219
+      },
+      {
+        "pair": "CHEXUSD",
+        "pct_change_24h": 18.4112,
+        "last_price": 0.01267
+      },
+      {
+        "pair": "DUCKUSD",
+        "pct_change_24h": 16.6667,
+        "last_price": 1.4e-05
+      },
+      {
+        "pair": "RAILSUSD",
+        "pct_change_24h": 15.7025,
+        "last_price": 0.035
+      },
+      {
+        "pair": "LIGHTERUSD",
+        "pct_change_24h": 15.4575,
+        "last_price": 3.899
+      },
+      {
+        "pair": "BMTUSD",
+        "pct_change_24h": 14.9871,
+        "last_price": 0.02225
+      }
+    ]
   }
 ]
