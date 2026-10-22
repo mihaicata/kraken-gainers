@@ -19908,5 +19908,60 @@
         "last_price": 0.000709
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-22T23:03:25.108421+00:00",
+    "gainers": [
+      {
+        "pair": "BTRUSD",
+        "pct_change_24h": 44.5674,
+        "last_price": 0.064
+      },
+      {
+        "pair": "AKEUSD",
+        "pct_change_24h": 30.1351,
+        "last_price": 0.0311548
+      },
+      {
+        "pair": "ALPHAUSD",
+        "pct_change_24h": 22.2482,
+        "last_price": 0.000522
+      },
+      {
+        "pair": "BMTUSD",
+        "pct_change_24h": 19.8539,
+        "last_price": 0.02626
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 19.4952,
+        "last_price": 1.78
+      },
+      {
+        "pair": "GTCUSD",
+        "pct_change_24h": 18.9158,
+        "last_price": 0.3137
+      },
+      {
+        "pair": "SWEATUSD",
+        "pct_change_24h": 17.2727,
+        "last_price": 0.000129
+      },
+      {
+        "pair": "OBOLUSD",
+        "pct_change_24h": 16.7478,
+        "last_price": 0.002398
+      },
+      {
+        "pair": "ZEXUSD",
+        "pct_change_24h": 15.1163,
+        "last_price": 0.00099
+      },
+      {
+        "pair": "WINGSUSD",
+        "pct_change_24h": 13.3562,
+        "last_price": 0.00331
+      }
+    ]
   }
 ]
