@@ -20073,5 +20073,60 @@
         "last_price": 4.847e-06
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-23T16:43:13.004133+00:00",
+    "gainers": [
+      {
+        "pair": "FORESTUSD",
+        "pct_change_24h": 56.238,
+        "last_price": 0.0407
+      },
+      {
+        "pair": "IDOSUSD",
+        "pct_change_24h": 55.7491,
+        "last_price": 0.00894
+      },
+      {
+        "pair": "UPUSD",
+        "pct_change_24h": 30.9926,
+        "last_price": 0.07443
+      },
+      {
+        "pair": "DOSUSD",
+        "pct_change_24h": 23.5127,
+        "last_price": 0.2616
+      },
+      {
+        "pair": "OBOLUSD",
+        "pct_change_24h": 22.1827,
+        "last_price": 0.002407
+      },
+      {
+        "pair": "BMBUSD",
+        "pct_change_24h": 22.1106,
+        "last_price": 0.000243
+      },
+      {
+        "pair": "INUSD",
+        "pct_change_24h": 19.5022,
+        "last_price": 0.03217
+      },
+      {
+        "pair": "FOLDUSD",
+        "pct_change_24h": 19.3221,
+        "last_price": 0.05527
+      },
+      {
+        "pair": "XNYUSD",
+        "pct_change_24h": 18.5904,
+        "last_price": 0.006596
+      },
+      {
+        "pair": "BABYSHARKUSD",
+        "pct_change_24h": 17.8992,
+        "last_price": 0.003906
+      }
+    ]
   }
 ]
