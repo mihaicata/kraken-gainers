@@ -20678,5 +20678,60 @@
         "last_price": 0.000243
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-25T22:22:17.017780+00:00",
+    "gainers": [
+      {
+        "pair": "MXNBUSD",
+        "pct_change_24h": 290.5977,
+        "last_price": 0.05359
+      },
+      {
+        "pair": "MEZOUSD",
+        "pct_change_24h": 60.101,
+        "last_price": 0.00634
+      },
+      {
+        "pair": "APRUSD",
+        "pct_change_24h": 53.059,
+        "last_price": 0.04278
+      },
+      {
+        "pair": "CAPUSD",
+        "pct_change_24h": 35.3219,
+        "last_price": 0.107857
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 28.3598,
+        "last_price": 1.638
+      },
+      {
+        "pair": "SUPUSD",
+        "pct_change_24h": 24.7619,
+        "last_price": 0.000262
+      },
+      {
+        "pair": "OBOLUSD",
+        "pct_change_24h": 22.1827,
+        "last_price": 0.002407
+      },
+      {
+        "pair": "BMBUSD",
+        "pct_change_24h": 22.1106,
+        "last_price": 0.000243
+      },
+      {
+        "pair": "TREADUSD",
+        "pct_change_24h": 21.9358,
+        "last_price": 0.7521
+      },
+      {
+        "pair": "TUSD",
+        "pct_change_24h": 19.8276,
+        "last_price": 0.00556
+      }
+    ]
   }
 ]
