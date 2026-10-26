@@ -20788,5 +20788,60 @@
         "last_price": 0.2755
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-26T09:55:00.523297+00:00",
+    "gainers": [
+      {
+        "pair": "NEXUSD",
+        "pct_change_24h": 34.1894,
+        "last_price": 8.36e-07
+      },
+      {
+        "pair": "ZEXUSD",
+        "pct_change_24h": 24.1379,
+        "last_price": 0.00108
+      },
+      {
+        "pair": "OBOLUSD",
+        "pct_change_24h": 22.1827,
+        "last_price": 0.002407
+      },
+      {
+        "pair": "BMBUSD",
+        "pct_change_24h": 22.1106,
+        "last_price": 0.000243
+      },
+      {
+        "pair": "UUSD",
+        "pct_change_24h": 17.4603,
+        "last_price": 7.4e-05
+      },
+      {
+        "pair": "FORESTUSD",
+        "pct_change_24h": 17.4235,
+        "last_price": 0.04913
+      },
+      {
+        "pair": "KATUSD",
+        "pct_change_24h": 14.5038,
+        "last_price": 0.0045
+      },
+      {
+        "pair": "UMXMUSD",
+        "pct_change_24h": 14.1818,
+        "last_price": 0.0314
+      },
+      {
+        "pair": "PLAYUSD",
+        "pct_change_24h": 14.1643,
+        "last_price": 0.017192
+      },
+      {
+        "pair": "SUPUSD",
+        "pct_change_24h": 13.5458,
+        "last_price": 0.000285
+      }
+    ]
   }
 ]
