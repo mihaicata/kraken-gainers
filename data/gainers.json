@@ -21118,5 +21118,60 @@
         "last_price": 0.825
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-28T04:46:27.369398+00:00",
+    "gainers": [
+      {
+        "pair": "OBOLUSD",
+        "pct_change_24h": 22.1827,
+        "last_price": 0.002407
+      },
+      {
+        "pair": "BMBUSD",
+        "pct_change_24h": 22.1106,
+        "last_price": 0.000243
+      },
+      {
+        "pair": "XANUSD",
+        "pct_change_24h": 20.9372,
+        "last_price": 0.01213
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 19.2857,
+        "last_price": 1.7535
+      },
+      {
+        "pair": "UUSD",
+        "pct_change_24h": 17.4603,
+        "last_price": 7.4e-05
+      },
+      {
+        "pair": "REPPOUSD",
+        "pct_change_24h": 12.281,
+        "last_price": 0.011346
+      },
+      {
+        "pair": "PONSUSD",
+        "pct_change_24h": 11.4865,
+        "last_price": 0.297
+      },
+      {
+        "pair": "DUCKUSD",
+        "pct_change_24h": 11.1111,
+        "last_price": 1e-05
+      },
+      {
+        "pair": "SOLVUSD",
+        "pct_change_24h": 9.3361,
+        "last_price": 0.00527
+      },
+      {
+        "pair": "BLESSUSD",
+        "pct_change_24h": 9.2584,
+        "last_price": 0.009547
+      }
+    ]
   }
 ]
