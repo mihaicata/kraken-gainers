@@ -21393,5 +21393,60 @@
         "last_price": 0.02221
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-29T20:56:18.788459+00:00",
+    "gainers": [
+      {
+        "pair": "PARTIUSD",
+        "pct_change_24h": 50.2185,
+        "last_price": 0.05845
+      },
+      {
+        "pair": "SYNDUSD",
+        "pct_change_24h": 41.0646,
+        "last_price": 0.00742
+      },
+      {
+        "pair": "YOMUSD",
+        "pct_change_24h": 22.6691,
+        "last_price": 0.01342
+      },
+      {
+        "pair": "WARDUSD",
+        "pct_change_24h": 17.0,
+        "last_price": 0.00351
+      },
+      {
+        "pair": "HYPEUSD",
+        "pct_change_24h": 16.4436,
+        "last_price": 93.97
+      },
+      {
+        "pair": "KEEPUSD",
+        "pct_change_24h": 15.449,
+        "last_price": 0.02481
+      },
+      {
+        "pair": "BLESSUSD",
+        "pct_change_24h": 15.3748,
+        "last_price": 0.012712
+      },
+      {
+        "pair": "RARIUSD",
+        "pct_change_24h": 13.4769,
+        "last_price": 0.1423
+      },
+      {
+        "pair": "CAMPUSD",
+        "pct_change_24h": 13.2231,
+        "last_price": 0.000137
+      },
+      {
+        "pair": "ALPHAUSD",
+        "pct_change_24h": 13.1579,
+        "last_price": 0.000473
+      }
+    ]
   }
 ]
