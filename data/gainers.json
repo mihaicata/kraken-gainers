@@ -21338,5 +21338,60 @@
         "last_price": 0.02139
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-29T15:01:44.173501+00:00",
+    "gainers": [
+      {
+        "pair": "ELIZAOSUSD",
+        "pct_change_24h": 18.4397,
+        "last_price": 0.000334
+      },
+      {
+        "pair": "LSKUSD",
+        "pct_change_24h": 17.1609,
+        "last_price": 0.195872
+      },
+      {
+        "pair": "WARDUSD",
+        "pct_change_24h": 16.0,
+        "last_price": 0.00348
+      },
+      {
+        "pair": "SYNDUSD",
+        "pct_change_24h": 13.4981,
+        "last_price": 0.00597
+      },
+      {
+        "pair": "HYPEUSD",
+        "pct_change_24h": 12.4659,
+        "last_price": 90.76
+      },
+      {
+        "pair": "OMGUSD",
+        "pct_change_24h": 11.8021,
+        "last_price": 0.052045
+      },
+      {
+        "pair": "APRUSD",
+        "pct_change_24h": 10.9045,
+        "last_price": 0.05665
+      },
+      {
+        "pair": "BLENDUSD",
+        "pct_change_24h": 10.5634,
+        "last_price": 0.05495
+      },
+      {
+        "pair": "QUIDUSD",
+        "pct_change_24h": 10.0952,
+        "last_price": 0.06478
+      },
+      {
+        "pair": "SONICUSD",
+        "pct_change_24h": 9.4089,
+        "last_price": 0.02221
+      }
+    ]
   }
 ]
