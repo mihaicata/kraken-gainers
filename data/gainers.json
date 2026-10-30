@@ -21448,5 +21448,60 @@
         "last_price": 0.000473
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-30T04:57:36.679055+00:00",
+    "gainers": [
+      {
+        "pair": "QUSD",
+        "pct_change_24h": 14.7383,
+        "last_price": 0.056068
+      },
+      {
+        "pair": "BODENUSD",
+        "pct_change_24h": 12.7596,
+        "last_price": 0.00114
+      },
+      {
+        "pair": "RUNEUSD",
+        "pct_change_24h": 12.4595,
+        "last_price": 0.695
+      },
+      {
+        "pair": "WARDUSD",
+        "pct_change_24h": 10.8108,
+        "last_price": 0.00328
+      },
+      {
+        "pair": "VELODROMEUSD",
+        "pct_change_24h": 10.5631,
+        "last_price": 0.03004
+      },
+      {
+        "pair": "KNTQUSD",
+        "pct_change_24h": 10.4815,
+        "last_price": 0.53072
+      },
+      {
+        "pair": "SUNDOGUSD",
+        "pct_change_24h": 9.322,
+        "last_price": 0.00129
+      },
+      {
+        "pair": "DOVUUSD",
+        "pct_change_24h": 9.2818,
+        "last_price": 0.000989
+      },
+      {
+        "pair": "BEAMUSD",
+        "pct_change_24h": 9.0472,
+        "last_price": 0.003628
+      },
+      {
+        "pair": "LIGHTERUSD",
+        "pct_change_24h": 8.7037,
+        "last_price": 2.935
+      }
+    ]
   }
 ]
