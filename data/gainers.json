@@ -21503,5 +21503,60 @@
         "last_price": 2.935
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-30T14:55:03.916173+00:00",
+    "gainers": [
+      {
+        "pair": "BEAMUSD",
+        "pct_change_24h": 51.067,
+        "last_price": 0.005026
+      },
+      {
+        "pair": "MEZOUSD",
+        "pct_change_24h": 31.3019,
+        "last_price": 0.00474
+      },
+      {
+        "pair": "AINUSD",
+        "pct_change_24h": 18.9095,
+        "last_price": 0.164
+      },
+      {
+        "pair": "GWEIUSD",
+        "pct_change_24h": 17.9015,
+        "last_price": 0.020957
+      },
+      {
+        "pair": "ZRCUSD",
+        "pct_change_24h": 16.5385,
+        "last_price": 0.001212
+      },
+      {
+        "pair": "PEPEUSD",
+        "pct_change_24h": 13.1585,
+        "last_price": 5.134e-06
+      },
+      {
+        "pair": "WOOUSD",
+        "pct_change_24h": 13.1524,
+        "last_price": 0.01084
+      },
+      {
+        "pair": "ZROUSD",
+        "pct_change_24h": 12.2945,
+        "last_price": 1.708
+      },
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 11.7978,
+        "last_price": 1.2916
+      },
+      {
+        "pair": "NILUSD",
+        "pct_change_24h": 11.6992,
+        "last_price": 0.0802
+      }
+    ]
   }
 ]
