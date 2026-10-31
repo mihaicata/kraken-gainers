@@ -21613,5 +21613,60 @@
         "last_price": 0.3409
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-31T04:44:19.930628+00:00",
+    "gainers": [
+      {
+        "pair": "AINUSD",
+        "pct_change_24h": 57.6074,
+        "last_price": 0.28207
+      },
+      {
+        "pair": "MEZOUSD",
+        "pct_change_24h": 25.3142,
+        "last_price": 0.00698
+      },
+      {
+        "pair": "DENTUSD",
+        "pct_change_24h": 18.8791,
+        "last_price": 4.03e-05
+      },
+      {
+        "pair": "HFTUSD",
+        "pct_change_24h": 17.5649,
+        "last_price": 0.00589
+      },
+      {
+        "pair": "YBUSD",
+        "pct_change_24h": 15.9485,
+        "last_price": 0.06485
+      },
+      {
+        "pair": "MIMUSD",
+        "pct_change_24h": 15.6999,
+        "last_price": 0.0005984
+      },
+      {
+        "pair": "LRCUSD",
+        "pct_change_24h": 12.4231,
+        "last_price": 0.008045
+      },
+      {
+        "pair": "ZEXUSD",
+        "pct_change_24h": 12.0482,
+        "last_price": 0.00093
+      },
+      {
+        "pair": "AIOUSD",
+        "pct_change_24h": 10.6013,
+        "last_price": 0.03182
+      },
+      {
+        "pair": "RAILSUSD",
+        "pct_change_24h": 9.4014,
+        "last_price": 0.02979
+      }
+    ]
   }
 ]
