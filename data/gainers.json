@@ -21778,5 +21778,60 @@
         "last_price": 3.93e-05
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-31T23:10:21.531707+00:00",
+    "gainers": [
+      {
+        "pair": "AINUSD",
+        "pct_change_24h": 30.899,
+        "last_price": 0.23427
+      },
+      {
+        "pair": "ESPORTSUSD",
+        "pct_change_24h": 26.6949,
+        "last_price": 0.00897
+      },
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 21.7721,
+        "last_price": 1.3977
+      },
+      {
+        "pair": "LSKUSD",
+        "pct_change_24h": 19.0442,
+        "last_price": 0.243924
+      },
+      {
+        "pair": "VINEUSD",
+        "pct_change_24h": 17.3167,
+        "last_price": 0.00752
+      },
+      {
+        "pair": "YBUSD",
+        "pct_change_24h": 15.9485,
+        "last_price": 0.06485
+      },
+      {
+        "pair": "MIMUSD",
+        "pct_change_24h": 15.6032,
+        "last_price": 0.0005979
+      },
+      {
+        "pair": "ADXUSD",
+        "pct_change_24h": 14.9017,
+        "last_price": 0.06369
+      },
+      {
+        "pair": "KNTQUSD",
+        "pct_change_24h": 14.6306,
+        "last_price": 0.56929
+      },
+      {
+        "pair": "LIGHTERUSD",
+        "pct_change_24h": 14.0845,
+        "last_price": 3.159
+      }
+    ]
   }
 ]
