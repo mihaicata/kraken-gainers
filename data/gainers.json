@@ -21723,5 +21723,60 @@
         "last_price": 0.06298
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-10-31T19:46:32.340185+00:00",
+    "gainers": [
+      {
+        "pair": "ESPORTSUSD",
+        "pct_change_24h": 35.5932,
+        "last_price": 0.0096
+      },
+      {
+        "pair": "AINUSD",
+        "pct_change_24h": 29.9156,
+        "last_price": 0.23251
+      },
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 24.7517,
+        "last_price": 1.4319
+      },
+      {
+        "pair": "LSKUSD",
+        "pct_change_24h": 22.2443,
+        "last_price": 0.250481
+      },
+      {
+        "pair": "MEZOUSD",
+        "pct_change_24h": 19.5691,
+        "last_price": 0.00666
+      },
+      {
+        "pair": "ZEXUSD",
+        "pct_change_24h": 19.2771,
+        "last_price": 0.00099
+      },
+      {
+        "pair": "STXUSD",
+        "pct_change_24h": 16.0932,
+        "last_price": 0.334
+      },
+      {
+        "pair": "GSTUSD",
+        "pct_change_24h": 16.0714,
+        "last_price": 0.00065
+      },
+      {
+        "pair": "YBUSD",
+        "pct_change_24h": 15.9485,
+        "last_price": 0.06485
+      },
+      {
+        "pair": "DENTUSD",
+        "pct_change_24h": 15.9292,
+        "last_price": 3.93e-05
+      }
+    ]
   }
 ]
