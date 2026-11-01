@@ -21888,5 +21888,60 @@
         "last_price": 0.02544
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-01T14:49:56.776901+00:00",
+    "gainers": [
+      {
+        "pair": "ESPORTSUSD",
+        "pct_change_24h": 84.145,
+        "last_price": 0.01626
+      },
+      {
+        "pair": "AINUSD",
+        "pct_change_24h": 17.5702,
+        "last_price": 0.27609
+      },
+      {
+        "pair": "UNFIUSD",
+        "pct_change_24h": 17.0124,
+        "last_price": 0.0282
+      },
+      {
+        "pair": "FLOCKUSD",
+        "pct_change_24h": 16.1707,
+        "last_price": 0.04138
+      },
+      {
+        "pair": "YBUSD",
+        "pct_change_24h": 15.9485,
+        "last_price": 0.06485
+      },
+      {
+        "pair": "GUSD",
+        "pct_change_24h": 12.799,
+        "last_price": 0.003772
+      },
+      {
+        "pair": "YOMUSD",
+        "pct_change_24h": 12.7826,
+        "last_price": 0.01297
+      },
+      {
+        "pair": "APRUSD",
+        "pct_change_24h": 12.1991,
+        "last_price": 0.06199
+      },
+      {
+        "pair": "DNAUSD",
+        "pct_change_24h": 12.088,
+        "last_price": 0.18434
+      },
+      {
+        "pair": "WARUSD",
+        "pct_change_24h": 11.7647,
+        "last_price": 0.00057
+      }
+    ]
   }
 ]
