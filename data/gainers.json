@@ -21833,5 +21833,60 @@
         "last_price": 3.159
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-01T05:06:08.993613+00:00",
+    "gainers": [
+      {
+        "pair": "ESPORTSUSD",
+        "pct_change_24h": 31.3703,
+        "last_price": 0.0116
+      },
+      {
+        "pair": "POWRUSD",
+        "pct_change_24h": 22.1631,
+        "last_price": 0.0689
+      },
+      {
+        "pair": "YBUSD",
+        "pct_change_24h": 15.9485,
+        "last_price": 0.06485
+      },
+      {
+        "pair": "RUJIUSD",
+        "pct_change_24h": 14.7826,
+        "last_price": 0.1716
+      },
+      {
+        "pair": "AINUSD",
+        "pct_change_24h": 13.0264,
+        "last_price": 0.26542
+      },
+      {
+        "pair": "SYNDUSD",
+        "pct_change_24h": 12.7303,
+        "last_price": 0.00673
+      },
+      {
+        "pair": "ROLLUSD",
+        "pct_change_24h": 10.324,
+        "last_price": 0.06572
+      },
+      {
+        "pair": "GUSD",
+        "pct_change_24h": 9.2703,
+        "last_price": 0.003654
+      },
+      {
+        "pair": "UNITASUSD",
+        "pct_change_24h": 8.965,
+        "last_price": 0.12823
+      },
+      {
+        "pair": "DOLOUSD",
+        "pct_change_24h": 8.5324,
+        "last_price": 0.02544
+      }
+    ]
   }
 ]
