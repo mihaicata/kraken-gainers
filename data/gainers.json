@@ -22053,5 +22053,60 @@
         "last_price": 0.00078
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-02T17:59:28.444114+00:00",
+    "gainers": [
+      {
+        "pair": "RVVUSD",
+        "pct_change_24h": 160.1124,
+        "last_price": 4.63e-05
+      },
+      {
+        "pair": "XMNUSD",
+        "pct_change_24h": 61.0951,
+        "last_price": 0.000559
+      },
+      {
+        "pair": "WARUSD",
+        "pct_change_24h": 15.3846,
+        "last_price": 0.0006
+      },
+      {
+        "pair": "JAILSTOOLUSD",
+        "pct_change_24h": 12.5,
+        "last_price": 0.001152
+      },
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 11.9532,
+        "last_price": 1.3693
+      },
+      {
+        "pair": "MFUSD",
+        "pct_change_24h": 10.1626,
+        "last_price": 0.00271
+      },
+      {
+        "pair": "CATUSD",
+        "pct_change_24h": 7.268,
+        "last_price": 1.7873e-06
+      },
+      {
+        "pair": "SRMUSD",
+        "pct_change_24h": 5.6751,
+        "last_price": 0.0054
+      },
+      {
+        "pair": "FORESTUSD",
+        "pct_change_24h": 5.4592,
+        "last_price": 0.03284
+      },
+      {
+        "pair": "BADGERUSD",
+        "pct_change_24h": 5.3767,
+        "last_price": 0.3077
+      }
+    ]
   }
 ]
