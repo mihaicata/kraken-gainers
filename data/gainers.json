@@ -22108,5 +22108,60 @@
         "last_price": 0.3077
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-03T02:04:23.866455+00:00",
+    "gainers": [
+      {
+        "pair": "ODOSUSD",
+        "pct_change_24h": 18.1648,
+        "last_price": 0.000631
+      },
+      {
+        "pair": "UAIUSD",
+        "pct_change_24h": 10.2577,
+        "last_price": 0.12748
+      },
+      {
+        "pair": "CATUSD",
+        "pct_change_24h": 10.1701,
+        "last_price": 1.9239e-06
+      },
+      {
+        "pair": "AKEUSD",
+        "pct_change_24h": 9.6652,
+        "last_price": 0.005632
+      },
+      {
+        "pair": "AUGURUSD",
+        "pct_change_24h": 7.3306,
+        "last_price": 0.7716
+      },
+      {
+        "pair": "ALEOUSD",
+        "pct_change_24h": 5.3531,
+        "last_price": 0.03759
+      },
+      {
+        "pair": "COWUSD",
+        "pct_change_24h": 4.8587,
+        "last_price": 0.1187
+      },
+      {
+        "pair": "MFUSD",
+        "pct_change_24h": 4.8,
+        "last_price": 0.00262
+      },
+      {
+        "pair": "NOCKUSD",
+        "pct_change_24h": 4.2518,
+        "last_price": 0.01275
+      },
+      {
+        "pair": "ROLLUSD",
+        "pct_change_24h": 4.2461,
+        "last_price": 0.06236
+      }
+    ]
   }
 ]
