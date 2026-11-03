@@ -22163,5 +22163,60 @@
         "last_price": 0.06236
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-03T11:43:39.501301+00:00",
+    "gainers": [
+      {
+        "pair": "UAIUSD",
+        "pct_change_24h": 39.2839,
+        "last_price": 0.16104
+      },
+      {
+        "pair": "HONEYUSD",
+        "pct_change_24h": 24.8232,
+        "last_price": 0.001941
+      },
+      {
+        "pair": "ICNTUSD",
+        "pct_change_24h": 19.7492,
+        "last_price": 0.2292
+      },
+      {
+        "pair": "ODOSUSD",
+        "pct_change_24h": 17.0412,
+        "last_price": 0.000625
+      },
+      {
+        "pair": "SWEATUSD",
+        "pct_change_24h": 16.6667,
+        "last_price": 9.1e-05
+      },
+      {
+        "pair": "SWELLUSD",
+        "pct_change_24h": 15.3226,
+        "last_price": 0.000715
+      },
+      {
+        "pair": "ALEOUSD",
+        "pct_change_24h": 13.7892,
+        "last_price": 0.0406
+      },
+      {
+        "pair": "BMTUSD",
+        "pct_change_24h": 12.6534,
+        "last_price": 0.02386
+      },
+      {
+        "pair": "RENUSD",
+        "pct_change_24h": 10.6122,
+        "last_price": 0.00271
+      },
+      {
+        "pair": "PIEVERSEUSD",
+        "pct_change_24h": 9.7,
+        "last_price": 1.1739
+      }
+    ]
   }
 ]
