@@ -22273,5 +22273,60 @@
         "last_price": 1.9063
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-04T00:28:18.550100+00:00",
+    "gainers": [
+      {
+        "pair": "NOCKUSD",
+        "pct_change_24h": 18.2339,
+        "last_price": 0.01446
+      },
+      {
+        "pair": "SWEATUSD",
+        "pct_change_24h": 14.1026,
+        "last_price": 8.9e-05
+      },
+      {
+        "pair": "WARUSD",
+        "pct_change_24h": 10.0,
+        "last_price": 0.00066
+      },
+      {
+        "pair": "RENUSD",
+        "pct_change_24h": 9.3878,
+        "last_price": 0.00268
+      },
+      {
+        "pair": "PIEVERSEUSD",
+        "pct_change_24h": 8.4478,
+        "last_price": 1.1605
+      },
+      {
+        "pair": "EDGEXUSD",
+        "pct_change_24h": 7.823,
+        "last_price": 0.33575
+      },
+      {
+        "pair": "NESUSD",
+        "pct_change_24h": 7.6394,
+        "last_price": 0.1347
+      },
+      {
+        "pair": "MYXUSD",
+        "pct_change_24h": 7.1691,
+        "last_price": 0.0583
+      },
+      {
+        "pair": "SOONUSD",
+        "pct_change_24h": 7.1036,
+        "last_price": 0.2533
+      },
+      {
+        "pair": "FORTHUSD",
+        "pct_change_24h": 6.7901,
+        "last_price": 0.173
+      }
+    ]
   }
 ]
