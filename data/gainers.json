@@ -22328,5 +22328,60 @@
         "last_price": 0.173
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-04T11:55:54.619755+00:00",
+    "gainers": [
+      {
+        "pair": "FORTHUSD",
+        "pct_change_24h": 52.4691,
+        "last_price": 0.247
+      },
+      {
+        "pair": "PTBUSD",
+        "pct_change_24h": 36.1702,
+        "last_price": 0.000128
+      },
+      {
+        "pair": "CAMPUSD",
+        "pct_change_24h": 33.0097,
+        "last_price": 0.000137
+      },
+      {
+        "pair": "SYNDUSD",
+        "pct_change_24h": 20.0942,
+        "last_price": 0.00765
+      },
+      {
+        "pair": "LSKUSD",
+        "pct_change_24h": 15.3989,
+        "last_price": 0.205185
+      },
+      {
+        "pair": "BMTUSD",
+        "pct_change_24h": 14.0824,
+        "last_price": 0.03046
+      },
+      {
+        "pair": "USELESSUSD",
+        "pct_change_24h": 12.3269,
+        "last_price": 0.14279
+      },
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 11.837,
+        "last_price": 1.6383
+      },
+      {
+        "pair": "DGAIUSD",
+        "pct_change_24h": 11.3018,
+        "last_price": 0.73664
+      },
+      {
+        "pair": "WOJAKUSD",
+        "pct_change_24h": 10.8046,
+        "last_price": 4.82e-08
+      }
+    ]
   }
 ]
