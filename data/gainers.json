@@ -22383,5 +22383,60 @@
         "last_price": 4.82e-08
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-04T19:35:59.974962+00:00",
+    "gainers": [
+      {
+        "pair": "CAMPUSD",
+        "pct_change_24h": 51.4563,
+        "last_price": 0.000156
+      },
+      {
+        "pair": "CLANKERUSD",
+        "pct_change_24h": 47.8344,
+        "last_price": 23.21
+      },
+      {
+        "pair": "CAPUSD",
+        "pct_change_24h": 26.4536,
+        "last_price": 0.092712
+      },
+      {
+        "pair": "PTBUSD",
+        "pct_change_24h": 24.4681,
+        "last_price": 0.000117
+      },
+      {
+        "pair": "DGAIUSD",
+        "pct_change_24h": 20.8751,
+        "last_price": 0.8
+      },
+      {
+        "pair": "INITUSD",
+        "pct_change_24h": 16.3855,
+        "last_price": 0.1449
+      },
+      {
+        "pair": "NPCUSD",
+        "pct_change_24h": 16.2293,
+        "last_price": 0.018026
+      },
+      {
+        "pair": "FORTHUSD",
+        "pct_change_24h": 16.0494,
+        "last_price": 0.188
+      },
+      {
+        "pair": "NOSUSD",
+        "pct_change_24h": 14.6541,
+        "last_price": 0.4491
+      },
+      {
+        "pair": "AINUSD",
+        "pct_change_24h": 14.314,
+        "last_price": 0.31705
+      }
+    ]
   }
 ]
