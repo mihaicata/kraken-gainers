@@ -22438,5 +22438,60 @@
         "last_price": 0.31705
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-05T00:47:06.879483+00:00",
+    "gainers": [
+      {
+        "pair": "ZEXUSD",
+        "pct_change_24h": 24.2105,
+        "last_price": 0.00118
+      },
+      {
+        "pair": "SYNDUSD",
+        "pct_change_24h": 16.1695,
+        "last_price": 0.0074
+      },
+      {
+        "pair": "ADXUSD",
+        "pct_change_24h": 12.9069,
+        "last_price": 0.06001
+      },
+      {
+        "pair": "EDGEUSD",
+        "pct_change_24h": 12.6054,
+        "last_price": 0.09085
+      },
+      {
+        "pair": "JAILSTOOLUSD",
+        "pct_change_24h": 11.6583,
+        "last_price": 0.001111
+      },
+      {
+        "pair": "REKTUSD",
+        "pct_change_24h": 9.6284,
+        "last_price": 6.49e-08
+      },
+      {
+        "pair": "BILLYUSD",
+        "pct_change_24h": 9.4729,
+        "last_price": 0.001537
+      },
+      {
+        "pair": "SIGMAUSD",
+        "pct_change_24h": 9.3539,
+        "last_price": 0.001134
+      },
+      {
+        "pair": "PEPECOINUSD",
+        "pct_change_24h": 9.0249,
+        "last_price": 0.13808
+      },
+      {
+        "pair": "POLISUSD",
+        "pct_change_24h": 9.0183,
+        "last_price": 0.00955
+      }
+    ]
   }
 ]
