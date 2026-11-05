@@ -22548,5 +22548,60 @@
         "last_price": 0.00066
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-05T19:50:57.832975+00:00",
+    "gainers": [
+      {
+        "pair": "CCDUSD",
+        "pct_change_24h": 30.1483,
+        "last_price": 0.00316
+      },
+      {
+        "pair": "ALIGNUSD",
+        "pct_change_24h": 30.0,
+        "last_price": 0.00507
+      },
+      {
+        "pair": "UAIUSD",
+        "pct_change_24h": 23.9903,
+        "last_price": 0.09732
+      },
+      {
+        "pair": "EDGEUSD",
+        "pct_change_24h": 13.0268,
+        "last_price": 0.09119
+      },
+      {
+        "pair": "CAPUSD",
+        "pct_change_24h": 12.0605,
+        "last_price": 0.107698
+      },
+      {
+        "pair": "UPUSD",
+        "pct_change_24h": 9.8479,
+        "last_price": 0.06068
+      },
+      {
+        "pair": "ALPHAUSD",
+        "pct_change_24h": 9.4241,
+        "last_price": 0.000418
+      },
+      {
+        "pair": "KEEPUSD",
+        "pct_change_24h": 9.311,
+        "last_price": 0.02348
+      },
+      {
+        "pair": "ALKIMIUSD",
+        "pct_change_24h": 8.6207,
+        "last_price": 0.00063
+      },
+      {
+        "pair": "CMETHUSD",
+        "pct_change_24h": 7.181,
+        "last_price": 2786.6
+      }
+    ]
   }
 ]
