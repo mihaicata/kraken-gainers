@@ -22493,5 +22493,60 @@
         "last_price": 0.00955
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-05T11:58:45.876958+00:00",
+    "gainers": [
+      {
+        "pair": "AIOUSD",
+        "pct_change_24h": 36.1547,
+        "last_price": 0.05035
+      },
+      {
+        "pair": "EDGEUSD",
+        "pct_change_24h": 29.7595,
+        "last_price": 0.10469
+      },
+      {
+        "pair": "UAIUSD",
+        "pct_change_24h": 28.6151,
+        "last_price": 0.10095
+      },
+      {
+        "pair": "PIPEUSD",
+        "pct_change_24h": 23.4401,
+        "last_price": 0.00732
+      },
+      {
+        "pair": "UPUSD",
+        "pct_change_24h": 19.1528,
+        "last_price": 0.06582
+      },
+      {
+        "pair": "HFTUSD",
+        "pct_change_24h": 15.4812,
+        "last_price": 0.00552
+      },
+      {
+        "pair": "QUAIUSD",
+        "pct_change_24h": 14.6919,
+        "last_price": 0.00726
+      },
+      {
+        "pair": "XTZUSD",
+        "pct_change_24h": 14.6079,
+        "last_price": 0.29421
+      },
+      {
+        "pair": "OCEANUSD",
+        "pct_change_24h": 13.9324,
+        "last_price": 0.1382
+      },
+      {
+        "pair": "WARUSD",
+        "pct_change_24h": 11.8644,
+        "last_price": 0.00066
+      }
+    ]
   }
 ]
