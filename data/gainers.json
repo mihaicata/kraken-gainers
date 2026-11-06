@@ -22713,5 +22713,60 @@
         "last_price": 0.44681
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-06T19:03:45.713080+00:00",
+    "gainers": [
+      {
+        "pair": "AKEUSD",
+        "pct_change_24h": 72.8149,
+        "last_price": 0.00383224
+      },
+      {
+        "pair": "ICNTUSD",
+        "pct_change_24h": 34.1054,
+        "last_price": 0.2953
+      },
+      {
+        "pair": "UAIUSD",
+        "pct_change_24h": 28.3977,
+        "last_price": 0.12036
+      },
+      {
+        "pair": "KNTQUSD",
+        "pct_change_24h": 21.3153,
+        "last_price": 0.48036
+      },
+      {
+        "pair": "AIOUSD",
+        "pct_change_24h": 16.938,
+        "last_price": 0.04094
+      },
+      {
+        "pair": "CYBERUSD",
+        "pct_change_24h": 15.8065,
+        "last_price": 0.359
+      },
+      {
+        "pair": "RVVUSD",
+        "pct_change_24h": 15.3846,
+        "last_price": 1.95e-05
+      },
+      {
+        "pair": "JAILSTOOLUSD",
+        "pct_change_24h": 15.2174,
+        "last_price": 0.00106
+      },
+      {
+        "pair": "XTZUSD",
+        "pct_change_24h": 12.239,
+        "last_price": 0.27732
+      },
+      {
+        "pair": "TRIAUSD",
+        "pct_change_24h": 12.0,
+        "last_price": 0.00252
+      }
+    ]
   }
 ]
