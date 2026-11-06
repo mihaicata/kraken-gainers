@@ -22603,5 +22603,60 @@
         "last_price": 2786.6
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-06T00:53:35.846617+00:00",
+    "gainers": [
+      {
+        "pair": "TCSUSD",
+        "pct_change_24h": 8.47,
+        "last_price": 0.10847
+      },
+      {
+        "pair": "CMETHUSD",
+        "pct_change_24h": 7.181,
+        "last_price": 2786.6
+      },
+      {
+        "pair": "AUGURUSD",
+        "pct_change_24h": 6.7323,
+        "last_price": 0.7911
+      },
+      {
+        "pair": "PIPEUSD",
+        "pct_change_24h": 6.5767,
+        "last_price": 0.00632
+      },
+      {
+        "pair": "SUPUSD",
+        "pct_change_24h": 6.25,
+        "last_price": 0.000136
+      },
+      {
+        "pair": "DMCUSD",
+        "pct_change_24h": 5.9701,
+        "last_price": 0.000284
+      },
+      {
+        "pair": "KEEPUSD",
+        "pct_change_24h": 5.4469,
+        "last_price": 0.02265
+      },
+      {
+        "pair": "SCUSD",
+        "pct_change_24h": 5.4299,
+        "last_price": 0.000699
+      },
+      {
+        "pair": "ADXUSD",
+        "pct_change_24h": 5.3199,
+        "last_price": 0.05761
+      },
+      {
+        "pair": "RNBWUSD",
+        "pct_change_24h": 5.2135,
+        "last_price": 0.02119
+      }
+    ]
   }
 ]
