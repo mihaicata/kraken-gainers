@@ -22933,5 +22933,60 @@
         "last_price": 1.901
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-07T19:59:22.500094+00:00",
+    "gainers": [
+      {
+        "pair": "AINUSD",
+        "pct_change_24h": 39.1421,
+        "last_price": 0.14468
+      },
+      {
+        "pair": "AKEUSD",
+        "pct_change_24h": 37.4951,
+        "last_price": 0.00538604
+      },
+      {
+        "pair": "DEBITUSD",
+        "pct_change_24h": 25.9219,
+        "last_price": 1.161
+      },
+      {
+        "pair": "RVVUSD",
+        "pct_change_24h": 22.2826,
+        "last_price": 2.25e-05
+      },
+      {
+        "pair": "FORESTUSD",
+        "pct_change_24h": 17.634,
+        "last_price": 0.03182
+      },
+      {
+        "pair": "NESUSD",
+        "pct_change_24h": 16.5819,
+        "last_price": 0.17197
+      },
+      {
+        "pair": "METUSD",
+        "pct_change_24h": 16.5394,
+        "last_price": 0.3206
+      },
+      {
+        "pair": "DEGENUSD",
+        "pct_change_24h": 15.3293,
+        "last_price": 0.000963
+      },
+      {
+        "pair": "SWARMSUSD",
+        "pct_change_24h": 14.3084,
+        "last_price": 0.00719
+      },
+      {
+        "pair": "CCDUSD",
+        "pct_change_24h": 12.6591,
+        "last_price": 0.003186
+      }
+    ]
   }
 ]
