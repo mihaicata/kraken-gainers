@@ -23043,5 +23043,60 @@
         "last_price": 3.61e-05
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-08T05:11:42.987200+00:00",
+    "gainers": [
+      {
+        "pair": "DEBITUSD",
+        "pct_change_24h": 26.6968,
+        "last_price": 1.4
+      },
+      {
+        "pair": "BMTUSD",
+        "pct_change_24h": 12.5276,
+        "last_price": 0.02551
+      },
+      {
+        "pair": "PIPEUSD",
+        "pct_change_24h": 9.9673,
+        "last_price": 0.00673
+      },
+      {
+        "pair": "PUPSUSD",
+        "pct_change_24h": 9.8109,
+        "last_price": 0.003078
+      },
+      {
+        "pair": "TCSUSD",
+        "pct_change_24h": 8.9591,
+        "last_price": 0.10897
+      },
+      {
+        "pair": "DENTUSD",
+        "pct_change_24h": 8.1461,
+        "last_price": 3.85e-05
+      },
+      {
+        "pair": "BLENDUSD",
+        "pct_change_24h": 6.9894,
+        "last_price": 0.05679
+      },
+      {
+        "pair": "SIGNUSD",
+        "pct_change_24h": 6.8493,
+        "last_price": 0.00936
+      },
+      {
+        "pair": "EDUUSD",
+        "pct_change_24h": 5.8927,
+        "last_price": 0.04798
+      },
+      {
+        "pair": "TRUUSD",
+        "pct_change_24h": 5.3333,
+        "last_price": 0.00079
+      }
+    ]
   }
 ]
