@@ -23153,5 +23153,60 @@
         "last_price": 1.1277
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-08T20:17:05.299277+00:00",
+    "gainers": [
+      {
+        "pair": "FORTHUSD",
+        "pct_change_24h": 57.7982,
+        "last_price": 0.172
+      },
+      {
+        "pair": "TRUUSD",
+        "pct_change_24h": 25.3333,
+        "last_price": 0.00094
+      },
+      {
+        "pair": "ICNTUSD",
+        "pct_change_24h": 16.1967,
+        "last_price": 0.3709
+      },
+      {
+        "pair": "RARIUSD",
+        "pct_change_24h": 15.4611,
+        "last_price": 0.1277
+      },
+      {
+        "pair": "RSRUSD",
+        "pct_change_24h": 14.2857,
+        "last_price": 0.001768
+      },
+      {
+        "pair": "AIOUSD",
+        "pct_change_24h": 14.0258,
+        "last_price": 0.04764
+      },
+      {
+        "pair": "OOBUSD",
+        "pct_change_24h": 11.5789,
+        "last_price": 0.0053
+      },
+      {
+        "pair": "BLENDUSD",
+        "pct_change_24h": 11.2283,
+        "last_price": 0.05904
+      },
+      {
+        "pair": "PIPEUSD",
+        "pct_change_24h": 9.9673,
+        "last_price": 0.00673
+      },
+      {
+        "pair": "MERLUSD",
+        "pct_change_24h": 8.5838,
+        "last_price": 0.03251
+      }
+    ]
   }
 ]
