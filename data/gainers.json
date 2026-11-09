@@ -23208,5 +23208,60 @@
         "last_price": 0.03251
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-09T05:23:38.302240+00:00",
+    "gainers": [
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 21.014,
+        "last_price": 1.666
+      },
+      {
+        "pair": "B2USD",
+        "pct_change_24h": 16.2309,
+        "last_price": 0.449
+      },
+      {
+        "pair": "WARUSD",
+        "pct_change_24h": 15.625,
+        "last_price": 0.00074
+      },
+      {
+        "pair": "BILLYUSD",
+        "pct_change_24h": 12.3213,
+        "last_price": 0.00165
+      },
+      {
+        "pair": "RAILSUSD",
+        "pct_change_24h": 12.2335,
+        "last_price": 0.02211
+      },
+      {
+        "pair": "PIEVERSEUSD",
+        "pct_change_24h": 11.1451,
+        "last_price": 1.5976
+      },
+      {
+        "pair": "PUPSUSD",
+        "pct_change_24h": 10.7595,
+        "last_price": 0.0028
+      },
+      {
+        "pair": "PIPEUSD",
+        "pct_change_24h": 9.9673,
+        "last_price": 0.00673
+      },
+      {
+        "pair": "NEXUSD",
+        "pct_change_24h": 8.981,
+        "last_price": 6.31e-07
+      },
+      {
+        "pair": "FORESTUSD",
+        "pct_change_24h": 7.8938,
+        "last_price": 0.0313
+      }
+    ]
   }
 ]
