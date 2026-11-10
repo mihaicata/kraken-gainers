@@ -23373,5 +23373,60 @@
         "last_price": 0.0004
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-10T12:18:20.378249+00:00",
+    "gainers": [
+      {
+        "pair": "RSCUSD",
+        "pct_change_24h": 26.2467,
+        "last_price": 0.0481
+      },
+      {
+        "pair": "QIUSD",
+        "pct_change_24h": 19.5816,
+        "last_price": 0.002058
+      },
+      {
+        "pair": "CYBERUSD",
+        "pct_change_24h": 19.4553,
+        "last_price": 0.307
+      },
+      {
+        "pair": "RVVUSD",
+        "pct_change_24h": 16.7785,
+        "last_price": 1.74e-05
+      },
+      {
+        "pair": "INITUSD",
+        "pct_change_24h": 13.8462,
+        "last_price": 0.148
+      },
+      {
+        "pair": "ACTUSD",
+        "pct_change_24h": 11.3311,
+        "last_price": 0.01012
+      },
+      {
+        "pair": "ODOSUSD",
+        "pct_change_24h": 10.2273,
+        "last_price": 9.7e-05
+      },
+      {
+        "pair": "FORTHUSD",
+        "pct_change_24h": 8.9109,
+        "last_price": 0.11
+      },
+      {
+        "pair": "BILLYUSD",
+        "pct_change_24h": 8.7474,
+        "last_price": 0.001554
+      },
+      {
+        "pair": "FORESTUSD",
+        "pct_change_24h": 8.2043,
+        "last_price": 0.02796
+      }
+    ]
   }
 ]
