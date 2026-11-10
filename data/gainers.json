@@ -23318,5 +23318,60 @@
         "last_price": 0.02211
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-10T02:35:47.935929+00:00",
+    "gainers": [
+      {
+        "pair": "TMXUSD",
+        "pct_change_24h": 15.4545,
+        "last_price": 0.00635
+      },
+      {
+        "pair": "CPOOLUSD",
+        "pct_change_24h": 7.9334,
+        "last_price": 0.02789
+      },
+      {
+        "pair": "SODAUSD",
+        "pct_change_24h": 6.4198,
+        "last_price": 0.00431
+      },
+      {
+        "pair": "INITUSD",
+        "pct_change_24h": 5.7692,
+        "last_price": 0.1375
+      },
+      {
+        "pair": "KNTQUSD",
+        "pct_change_24h": 5.6717,
+        "last_price": 0.40076
+      },
+      {
+        "pair": "SUPUSD",
+        "pct_change_24h": 5.5046,
+        "last_price": 0.000115
+      },
+      {
+        "pair": "BABYSHARKUSD",
+        "pct_change_24h": 5.4209,
+        "last_price": 0.001653
+      },
+      {
+        "pair": "TONUSD",
+        "pct_change_24h": 3.3654,
+        "last_price": 1.075
+      },
+      {
+        "pair": "FORTHUSD",
+        "pct_change_24h": 2.9703,
+        "last_price": 0.104
+      },
+      {
+        "pair": "GSTUSD",
+        "pct_change_24h": 2.5641,
+        "last_price": 0.0004
+      }
+    ]
   }
 ]
