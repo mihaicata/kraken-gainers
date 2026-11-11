@@ -23483,5 +23483,60 @@
         "last_price": 0.00395
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-11T05:22:10.403587+00:00",
+    "gainers": [
+      {
+        "pair": "FORTHUSD",
+        "pct_change_24h": 32.7434,
+        "last_price": 0.15
+      },
+      {
+        "pair": "BALUSD",
+        "pct_change_24h": 12.6437,
+        "last_price": 0.1274
+      },
+      {
+        "pair": "INITUSD",
+        "pct_change_24h": 10.3704,
+        "last_price": 0.149
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 10.0022,
+        "last_price": 1.5144
+      },
+      {
+        "pair": "DMCUSD",
+        "pct_change_24h": 7.074,
+        "last_price": 0.000333
+      },
+      {
+        "pair": "CAMPUSD",
+        "pct_change_24h": 6.9444,
+        "last_price": 7.7e-05
+      },
+      {
+        "pair": "BLUAIUSD",
+        "pct_change_24h": 6.187,
+        "last_price": 0.006848
+      },
+      {
+        "pair": "PYTHUSD",
+        "pct_change_24h": 5.8815,
+        "last_price": 0.06931
+      },
+      {
+        "pair": "SODAUSD",
+        "pct_change_24h": 5.7495,
+        "last_price": 0.00515
+      },
+      {
+        "pair": "RSCUSD",
+        "pct_change_24h": 5.7087,
+        "last_price": 0.0537
+      }
+    ]
   }
 ]
