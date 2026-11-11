@@ -23538,5 +23538,60 @@
         "last_price": 0.0537
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-11T15:56:44.138777+00:00",
+    "gainers": [
+      {
+        "pair": "PIPEUSD",
+        "pct_change_24h": 83.9489,
+        "last_price": 0.01295
+      },
+      {
+        "pair": "SUPUSD",
+        "pct_change_24h": 32.1101,
+        "last_price": 0.000144
+      },
+      {
+        "pair": "ODOSUSD",
+        "pct_change_24h": 29.5918,
+        "last_price": 0.000127
+      },
+      {
+        "pair": "WARUSD",
+        "pct_change_24h": 26.5625,
+        "last_price": 0.00081
+      },
+      {
+        "pair": "FORTHUSD",
+        "pct_change_24h": 20.354,
+        "last_price": 0.136
+      },
+      {
+        "pair": "BLUAIUSD",
+        "pct_change_24h": 15.3512,
+        "last_price": 0.007439
+      },
+      {
+        "pair": "TREADUSD",
+        "pct_change_24h": 14.804,
+        "last_price": 1.057
+      },
+      {
+        "pair": "UNITASUSD",
+        "pct_change_24h": 13.5947,
+        "last_price": 0.1362
+      },
+      {
+        "pair": "CHEEMSUSD",
+        "pct_change_24h": 12.8754,
+        "last_price": 4.322e-07
+      },
+      {
+        "pair": "PTBUSD",
+        "pct_change_24h": 12.1622,
+        "last_price": 8.3e-05
+      }
+    ]
   }
 ]
