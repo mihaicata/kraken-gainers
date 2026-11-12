@@ -23648,5 +23648,60 @@
         "last_price": 0.04772
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-12T06:25:58.686280+00:00",
+    "gainers": [
+      {
+        "pair": "MEZOUSD",
+        "pct_change_24h": 26.1538,
+        "last_price": 0.00492
+      },
+      {
+        "pair": "WARDUSD",
+        "pct_change_24h": 23.1959,
+        "last_price": 0.00239
+      },
+      {
+        "pair": "AUGURUSD",
+        "pct_change_24h": 15.5957,
+        "last_price": 0.7879
+      },
+      {
+        "pair": "UFDUSD",
+        "pct_change_24h": 13.2075,
+        "last_price": 0.0054
+      },
+      {
+        "pair": "WARUSD",
+        "pct_change_24h": 12.8571,
+        "last_price": 0.00079
+      },
+      {
+        "pair": "LSETHUSD",
+        "pct_change_24h": 9.1241,
+        "last_price": 2449.4
+      },
+      {
+        "pair": "BLENDUSD",
+        "pct_change_24h": 7.1631,
+        "last_price": 0.05296
+      },
+      {
+        "pair": "UNFIUSD",
+        "pct_change_24h": 7.109,
+        "last_price": 0.0226
+      },
+      {
+        "pair": "QIUSD",
+        "pct_change_24h": 7.0661,
+        "last_price": 0.001894
+      },
+      {
+        "pair": "UNITASUSD",
+        "pct_change_24h": 5.2134,
+        "last_price": 0.15701
+      }
+    ]
   }
 ]
