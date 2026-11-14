@@ -23978,5 +23978,60 @@
         "last_price": 8.08
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-14T11:16:16.938757+00:00",
+    "gainers": [
+      {
+        "pair": "NODEUSD",
+        "pct_change_24h": 91.5888,
+        "last_price": 0.01435
+      },
+      {
+        "pair": "PWTUSD",
+        "pct_change_24h": 17.9767,
+        "last_price": 0.08
+      },
+      {
+        "pair": "TRUUSD",
+        "pct_change_24h": 16.9014,
+        "last_price": 0.00083
+      },
+      {
+        "pair": "BANANAS31USD",
+        "pct_change_24h": 14.6278,
+        "last_price": 0.004404
+      },
+      {
+        "pair": "ESUSD",
+        "pct_change_24h": 13.6364,
+        "last_price": 0.00025
+      },
+      {
+        "pair": "AKEUSD",
+        "pct_change_24h": 10.6778,
+        "last_price": 0.01366848
+      },
+      {
+        "pair": "RVVUSD",
+        "pct_change_24h": 8.6093,
+        "last_price": 1.64e-05
+      },
+      {
+        "pair": "DOSUSD",
+        "pct_change_24h": 8.3605,
+        "last_price": 0.1659
+      },
+      {
+        "pair": "PIEVERSEUSD",
+        "pct_change_24h": 7.6914,
+        "last_price": 1.7642
+      },
+      {
+        "pair": "SCRTUSD",
+        "pct_change_24h": 7.2115,
+        "last_price": 0.00223
+      }
+    ]
   }
 ]
