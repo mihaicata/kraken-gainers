@@ -24088,5 +24088,60 @@
         "last_price": 0.0383
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-14T23:44:16.167060+00:00",
+    "gainers": [
+      {
+        "pair": "SCRTUSD",
+        "pct_change_24h": 61.5385,
+        "last_price": 0.00336
+      },
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 29.0001,
+        "last_price": 1.4101
+      },
+      {
+        "pair": "PROMPTUSD",
+        "pct_change_24h": 27.9434,
+        "last_price": 0.01717
+      },
+      {
+        "pair": "ESUSD",
+        "pct_change_24h": 27.2727,
+        "last_price": 0.00028
+      },
+      {
+        "pair": "PIPEUSD",
+        "pct_change_24h": 20.9854,
+        "last_price": 0.01326
+      },
+      {
+        "pair": "THQUSD",
+        "pct_change_24h": 20.5988,
+        "last_price": 0.01007
+      },
+      {
+        "pair": "BOBUSD",
+        "pct_change_24h": 19.6262,
+        "last_price": 0.00384
+      },
+      {
+        "pair": "FORTHUSD",
+        "pct_change_24h": 12.987,
+        "last_price": 0.174
+      },
+      {
+        "pair": "BANANAS31USD",
+        "pct_change_24h": 10.4373,
+        "last_price": 0.004243
+      },
+      {
+        "pair": "FORESTUSD",
+        "pct_change_24h": 10.0194,
+        "last_price": 0.03975
+      }
+    ]
   }
 ]
