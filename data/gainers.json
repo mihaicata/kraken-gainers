@@ -24143,5 +24143,60 @@
         "last_price": 0.03975
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-15T05:33:43.236132+00:00",
+    "gainers": [
+      {
+        "pair": "ESUSD",
+        "pct_change_24h": 82.7586,
+        "last_price": 0.00053
+      },
+      {
+        "pair": "NESUSD",
+        "pct_change_24h": 32.4414,
+        "last_price": 0.16432
+      },
+      {
+        "pair": "WARUSD",
+        "pct_change_24h": 20.0,
+        "last_price": 0.00066
+      },
+      {
+        "pair": "UNITASUSD",
+        "pct_change_24h": 19.8985,
+        "last_price": 0.17715
+      },
+      {
+        "pair": "TREADUSD",
+        "pct_change_24h": 16.4397,
+        "last_price": 0.8464
+      },
+      {
+        "pair": "BONZOUSD",
+        "pct_change_24h": 14.9194,
+        "last_price": 0.00285
+      },
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 13.6617,
+        "last_price": 1.6548
+      },
+      {
+        "pair": "VVVUSD",
+        "pct_change_24h": 13.0482,
+        "last_price": 19.615
+      },
+      {
+        "pair": "PUFFERUSD",
+        "pct_change_24h": 12.5806,
+        "last_price": 0.022175
+      },
+      {
+        "pair": "DRVUSD",
+        "pct_change_24h": 12.4463,
+        "last_price": 0.26688
+      }
+    ]
   }
 ]
