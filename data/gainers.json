@@ -24198,5 +24198,60 @@
         "last_price": 0.26688
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-15T15:28:16.195577+00:00",
+    "gainers": [
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 83.5703,
+        "last_price": 2.6726
+      },
+      {
+        "pair": "SYNDUSD",
+        "pct_change_24h": 53.288,
+        "last_price": 0.00676
+      },
+      {
+        "pair": "ESUSD",
+        "pct_change_24h": 48.2759,
+        "last_price": 0.00043
+      },
+      {
+        "pair": "GLMRUSD",
+        "pct_change_24h": 38.3538,
+        "last_price": 0.0079
+      },
+      {
+        "pair": "NESUSD",
+        "pct_change_24h": 32.3446,
+        "last_price": 0.1642
+      },
+      {
+        "pair": "UNITASUSD",
+        "pct_change_24h": 29.9492,
+        "last_price": 0.192
+      },
+      {
+        "pair": "CSPRUSD",
+        "pct_change_24h": 25.584,
+        "last_price": 0.0019998
+      },
+      {
+        "pair": "SCORUSD",
+        "pct_change_24h": 22.316,
+        "last_price": 0.01014
+      },
+      {
+        "pair": "INITUSD",
+        "pct_change_24h": 19.8925,
+        "last_price": 0.0892
+      },
+      {
+        "pair": "PUPSUSD",
+        "pct_change_24h": 19.3035,
+        "last_price": 0.002775
+      }
+    ]
   }
 ]
