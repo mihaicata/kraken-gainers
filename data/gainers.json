@@ -24363,5 +24363,60 @@
         "last_price": 0.12023
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-16T18:07:10.733089+00:00",
+    "gainers": [
+      {
+        "pair": "UMXMUSD",
+        "pct_change_24h": 279.661,
+        "last_price": 0.0224
+      },
+      {
+        "pair": "BLESSUSD",
+        "pct_change_24h": 107.3258,
+        "last_price": 0.019103
+      },
+      {
+        "pair": "SCORUSD",
+        "pct_change_24h": 23.2506,
+        "last_price": 0.01092
+      },
+      {
+        "pair": "ONEUSD",
+        "pct_change_24h": 21.4942,
+        "last_price": 0.13611
+      },
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 20.697,
+        "last_price": 3.3631
+      },
+      {
+        "pair": "PLAYUSD",
+        "pct_change_24h": 18.8363,
+        "last_price": 0.008006
+      },
+      {
+        "pair": "SPACEUSD",
+        "pct_change_24h": 18.7618,
+        "last_price": 0.00376
+      },
+      {
+        "pair": "SWEATUSD",
+        "pct_change_24h": 16.9811,
+        "last_price": 6.2e-05
+      },
+      {
+        "pair": "OMGUSD",
+        "pct_change_24h": 16.191,
+        "last_price": 0.045519
+      },
+      {
+        "pair": "PWTUSD",
+        "pct_change_24h": 15.74,
+        "last_price": 0.05787
+      }
+    ]
   }
 ]
