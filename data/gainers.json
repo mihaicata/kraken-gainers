@@ -24308,5 +24308,60 @@
         "last_price": 0.00066
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-16T05:32:42.334315+00:00",
+    "gainers": [
+      {
+        "pair": "SUPUSD",
+        "pct_change_24h": 24.8175,
+        "last_price": 0.000171
+      },
+      {
+        "pair": "SKRUSD",
+        "pct_change_24h": 22.9074,
+        "last_price": 0.0116
+      },
+      {
+        "pair": "RAREUSD",
+        "pct_change_24h": 17.4363,
+        "last_price": 0.01475
+      },
+      {
+        "pair": "POLISUSD",
+        "pct_change_24h": 15.8263,
+        "last_price": 0.00827
+      },
+      {
+        "pair": "ESUSD",
+        "pct_change_24h": 12.5,
+        "last_price": 0.00045
+      },
+      {
+        "pair": "DOVUUSD",
+        "pct_change_24h": 12.0253,
+        "last_price": 0.000885
+      },
+      {
+        "pair": "UNITASUSD",
+        "pct_change_24h": 8.9814,
+        "last_price": 0.16102
+      },
+      {
+        "pair": "NESUSD",
+        "pct_change_24h": 8.7506,
+        "last_price": 0.18766
+      },
+      {
+        "pair": "BASEDUSD",
+        "pct_change_24h": 8.6077,
+        "last_price": 0.0376
+      },
+      {
+        "pair": "ONEUSD",
+        "pct_change_24h": 7.3195,
+        "last_price": 0.12023
+      }
+    ]
   }
 ]
