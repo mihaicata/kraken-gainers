@@ -24418,5 +24418,60 @@
         "last_price": 0.05787
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-17T02:49:22.930195+00:00",
+    "gainers": [
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 21.9976,
+        "last_price": 1.5268
+      },
+      {
+        "pair": "UMXMUSD",
+        "pct_change_24h": 16.8675,
+        "last_price": 0.0194
+      },
+      {
+        "pair": "NOCKUSD",
+        "pct_change_24h": 15.8779,
+        "last_price": 0.01518
+      },
+      {
+        "pair": "PWTUSD",
+        "pct_change_24h": 15.74,
+        "last_price": 0.05787
+      },
+      {
+        "pair": "B3USD",
+        "pct_change_24h": 8.2073,
+        "last_price": 0.000501
+      },
+      {
+        "pair": "DNAUSD",
+        "pct_change_24h": 7.7632,
+        "last_price": 0.17074
+      },
+      {
+        "pair": "UPUSD",
+        "pct_change_24h": 5.7451,
+        "last_price": 0.04804
+      },
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 5.6711,
+        "last_price": 3.5068
+      },
+      {
+        "pair": "FORTHUSD",
+        "pct_change_24h": 4.7297,
+        "last_price": 0.155
+      },
+      {
+        "pair": "ZROUSD",
+        "pct_change_24h": 4.3121,
+        "last_price": 1.524
+      }
+    ]
   }
 ]
