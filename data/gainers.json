@@ -24473,5 +24473,60 @@
         "last_price": 1.524
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-17T12:52:57.109899+00:00",
+    "gainers": [
+      {
+        "pair": "PWTUSD",
+        "pct_change_24h": 52.7273,
+        "last_price": 0.084
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 26.6241,
+        "last_price": 1.5847
+      },
+      {
+        "pair": "BREVUSD",
+        "pct_change_24h": 19.4245,
+        "last_price": 0.0664
+      },
+      {
+        "pair": "DAGUSD",
+        "pct_change_24h": 19.2025,
+        "last_price": 0.003408
+      },
+      {
+        "pair": "ZEUSUSD",
+        "pct_change_24h": 15.27,
+        "last_price": 0.00619
+      },
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 12.222,
+        "last_price": 3.7242
+      },
+      {
+        "pair": "FHEUSD",
+        "pct_change_24h": 12.1212,
+        "last_price": 0.01517
+      },
+      {
+        "pair": "ELIZAOSUSD",
+        "pct_change_24h": 11.9469,
+        "last_price": 0.000253
+      },
+      {
+        "pair": "XMNUSD",
+        "pct_change_24h": 11.6505,
+        "last_price": 0.00023
+      },
+      {
+        "pair": "NOCKUSD",
+        "pct_change_24h": 10.7634,
+        "last_price": 0.01451
+      }
+    ]
   }
 ]
