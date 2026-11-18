@@ -24638,5 +24638,60 @@
         "last_price": 3.6168
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-18T17:01:41.101384+00:00",
+    "gainers": [
+      {
+        "pair": "PIEVERSEUSD",
+        "pct_change_24h": 58.6547,
+        "last_price": 3.2502
+      },
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 20.8266,
+        "last_price": 3.9671
+      },
+      {
+        "pair": "ICNTUSD",
+        "pct_change_24h": 18.0732,
+        "last_price": 0.326
+      },
+      {
+        "pair": "PEARLUSD",
+        "pct_change_24h": 17.8072,
+        "last_price": 2.1329
+      },
+      {
+        "pair": "PROSUSD",
+        "pct_change_24h": 16.1153,
+        "last_price": 0.6002
+      },
+      {
+        "pair": "BADGERUSD",
+        "pct_change_24h": 15.1022,
+        "last_price": 0.2477
+      },
+      {
+        "pair": "NESUSD",
+        "pct_change_24h": 14.1528,
+        "last_price": 0.23681
+      },
+      {
+        "pair": "BLESSUSD",
+        "pct_change_24h": 13.3748,
+        "last_price": 0.011308
+      },
+      {
+        "pair": "BODENUSD",
+        "pct_change_24h": 13.1765,
+        "last_price": 0.000962
+      },
+      {
+        "pair": "FHEUSD",
+        "pct_change_24h": 12.9766,
+        "last_price": 0.01689
+      }
+    ]
   }
 ]
