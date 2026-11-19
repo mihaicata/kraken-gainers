@@ -24693,5 +24693,60 @@
         "last_price": 0.01689
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-19T01:46:08.903778+00:00",
+    "gainers": [
+      {
+        "pair": "ODOSUSD",
+        "pct_change_24h": 31.5789,
+        "last_price": 5e-05
+      },
+      {
+        "pair": "BADGERUSD",
+        "pct_change_24h": 15.1022,
+        "last_price": 0.2477
+      },
+      {
+        "pair": "AUGURUSD",
+        "pct_change_24h": 14.3136,
+        "last_price": 0.7619
+      },
+      {
+        "pair": "BODENUSD",
+        "pct_change_24h": 14.0,
+        "last_price": 0.000969
+      },
+      {
+        "pair": "JAILSTOOLUSD",
+        "pct_change_24h": 12.1088,
+        "last_price": 0.000824
+      },
+      {
+        "pair": "NOCKUSD",
+        "pct_change_24h": 10.0242,
+        "last_price": 0.01822
+      },
+      {
+        "pair": "INFIUSD",
+        "pct_change_24h": 9.9297,
+        "last_price": 0.1251
+      },
+      {
+        "pair": "PUFFERUSD",
+        "pct_change_24h": 8.7385,
+        "last_price": 0.023257
+      },
+      {
+        "pair": "ONEUSD",
+        "pct_change_24h": 8.0303,
+        "last_price": 0.17139
+      },
+      {
+        "pair": "YBUSD",
+        "pct_change_24h": 7.2474,
+        "last_price": 0.04691
+      }
+    ]
   }
 ]
