@@ -24803,5 +24803,60 @@
         "last_price": 4.3936
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-19T22:56:46.128155+00:00",
+    "gainers": [
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 32.7854,
+        "last_price": 5.3636
+      },
+      {
+        "pair": "ICNTUSD",
+        "pct_change_24h": 28.8288,
+        "last_price": 0.429
+      },
+      {
+        "pair": "VINEUSD",
+        "pct_change_24h": 27.672,
+        "last_price": 0.00872
+      },
+      {
+        "pair": "PWTUSD",
+        "pct_change_24h": 25.8238,
+        "last_price": 0.063
+      },
+      {
+        "pair": "CTRUSD",
+        "pct_change_24h": 23.0259,
+        "last_price": 0.01854
+      },
+      {
+        "pair": "RAREUSD",
+        "pct_change_24h": 22.0641,
+        "last_price": 0.01372
+      },
+      {
+        "pair": "NESUSD",
+        "pct_change_24h": 20.6339,
+        "last_price": 0.29267
+      },
+      {
+        "pair": "FHEUSD",
+        "pct_change_24h": 17.8125,
+        "last_price": 0.01885
+      },
+      {
+        "pair": "DEGENUSD",
+        "pct_change_24h": 15.7434,
+        "last_price": 0.000794
+      },
+      {
+        "pair": "TRUSTUSD",
+        "pct_change_24h": 15.2846,
+        "last_price": 0.05672
+      }
+    ]
   }
 ]
