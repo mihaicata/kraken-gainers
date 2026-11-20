@@ -24913,5 +24913,60 @@
         "last_price": 0.000533
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-20T16:48:24.350049+00:00",
+    "gainers": [
+      {
+        "pair": "CHECKUSD",
+        "pct_change_24h": 54.2885,
+        "last_price": 0.011135
+      },
+      {
+        "pair": "DEBITUSD",
+        "pct_change_24h": 31.5331,
+        "last_price": 0.755
+      },
+      {
+        "pair": "GFIUSD",
+        "pct_change_24h": 29.8805,
+        "last_price": 0.0326
+      },
+      {
+        "pair": "KERNELUSD",
+        "pct_change_24h": 24.9006,
+        "last_price": 0.05026
+      },
+      {
+        "pair": "CYBERUSD",
+        "pct_change_24h": 15.1961,
+        "last_price": 0.235
+      },
+      {
+        "pair": "AUGURUSD",
+        "pct_change_24h": 14.5241,
+        "last_price": 0.7617
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 13.7017,
+        "last_price": 1.741
+      },
+      {
+        "pair": "FOLKSUSD",
+        "pct_change_24h": 13.3235,
+        "last_price": 2.4649
+      },
+      {
+        "pair": "EATUSD",
+        "pct_change_24h": 12.1212,
+        "last_price": 0.00259
+      },
+      {
+        "pair": "BLURUSD",
+        "pct_change_24h": 10.3139,
+        "last_price": 0.00738
+      }
+    ]
   }
 ]
