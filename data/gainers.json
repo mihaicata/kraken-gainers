@@ -24858,5 +24858,60 @@
         "last_price": 0.05672
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-20T06:24:17.130483+00:00",
+    "gainers": [
+      {
+        "pair": "ESUSD",
+        "pct_change_24h": 17.1429,
+        "last_price": 0.00041
+      },
+      {
+        "pair": "BADGERUSD",
+        "pct_change_24h": 16.768,
+        "last_price": 0.2305
+      },
+      {
+        "pair": "AUGURUSD",
+        "pct_change_24h": 14.5392,
+        "last_price": 0.7618
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 14.3809,
+        "last_price": 1.7514
+      },
+      {
+        "pair": "YBUSD",
+        "pct_change_24h": 12.9644,
+        "last_price": 0.05777
+      },
+      {
+        "pair": "BLESSUSD",
+        "pct_change_24h": 10.1313,
+        "last_price": 0.013425
+      },
+      {
+        "pair": "VINEUSD",
+        "pct_change_24h": 9.4145,
+        "last_price": 0.00953
+      },
+      {
+        "pair": "PROSUSD",
+        "pct_change_24h": 9.1888,
+        "last_price": 0.5882
+      },
+      {
+        "pair": "BMTUSD",
+        "pct_change_24h": 9.1633,
+        "last_price": 0.02192
+      },
+      {
+        "pair": "AMIUSD",
+        "pct_change_24h": 8.1136,
+        "last_price": 0.000533
+      }
+    ]
   }
 ]
