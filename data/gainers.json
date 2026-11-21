@@ -25023,5 +25023,60 @@
         "last_price": 0.06035
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-21T12:17:29.591104+00:00",
+    "gainers": [
+      {
+        "pair": "BFIUSD",
+        "pct_change_24h": 35.5833,
+        "last_price": 0.01627
+      },
+      {
+        "pair": "DRVUSD",
+        "pct_change_24h": 28.9403,
+        "last_price": 0.3166
+      },
+      {
+        "pair": "ODOSUSD",
+        "pct_change_24h": 15.0,
+        "last_price": 2.3e-05
+      },
+      {
+        "pair": "PARTIUSD",
+        "pct_change_24h": 14.8819,
+        "last_price": 0.03744
+      },
+      {
+        "pair": "RAREUSD",
+        "pct_change_24h": 14.5865,
+        "last_price": 0.01524
+      },
+      {
+        "pair": "GNOTUSD",
+        "pct_change_24h": 13.2496,
+        "last_price": 0.0559
+      },
+      {
+        "pair": "YBUSD",
+        "pct_change_24h": 11.7004,
+        "last_price": 0.05413
+      },
+      {
+        "pair": "SCORUSD",
+        "pct_change_24h": 10.3726,
+        "last_price": 0.01096
+      },
+      {
+        "pair": "ENSOUSD",
+        "pct_change_24h": 10.0467,
+        "last_price": 0.471
+      },
+      {
+        "pair": "FORTHUSD",
+        "pct_change_24h": 10.0,
+        "last_price": 0.165
+      }
+    ]
   }
 ]
