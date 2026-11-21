@@ -25078,5 +25078,60 @@
         "last_price": 0.165
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-21T21:29:47.252685+00:00",
+    "gainers": [
+      {
+        "pair": "BFIUSD",
+        "pct_change_24h": 66.5417,
+        "last_price": 0.019985
+      },
+      {
+        "pair": "DRVUSD",
+        "pct_change_24h": 41.8791,
+        "last_price": 0.34837
+      },
+      {
+        "pair": "NPCUSD",
+        "pct_change_24h": 26.3484,
+        "last_price": 0.01101
+      },
+      {
+        "pair": "VINEUSD",
+        "pct_change_24h": 22.5426,
+        "last_price": 0.00935
+      },
+      {
+        "pair": "SCORUSD",
+        "pct_change_24h": 21.3494,
+        "last_price": 0.01205
+      },
+      {
+        "pair": "KULAUSD",
+        "pct_change_24h": 19.4118,
+        "last_price": 0.0203
+      },
+      {
+        "pair": "SAMOUSD",
+        "pct_change_24h": 17.1429,
+        "last_price": 0.000287
+      },
+      {
+        "pair": "VVVUSD",
+        "pct_change_24h": 15.9169,
+        "last_price": 24.04
+      },
+      {
+        "pair": "PROMPTUSD",
+        "pct_change_24h": 14.2251,
+        "last_price": 0.01076
+      },
+      {
+        "pair": "PERPUSD",
+        "pct_change_24h": 13.9344,
+        "last_price": 0.0139
+      }
+    ]
   }
 ]
