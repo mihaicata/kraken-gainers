@@ -24968,5 +24968,60 @@
         "last_price": 0.00738
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-21T01:11:32.440929+00:00",
+    "gainers": [
+      {
+        "pair": "DEBITUSD",
+        "pct_change_24h": 120.3431,
+        "last_price": 1.798
+      },
+      {
+        "pair": "FORTHUSD",
+        "pct_change_24h": 32.6667,
+        "last_price": 0.199
+      },
+      {
+        "pair": "ESUSD",
+        "pct_change_24h": 32.2581,
+        "last_price": 0.00041
+      },
+      {
+        "pair": "PWTUSD",
+        "pct_change_24h": 14.4479,
+        "last_price": 0.08365
+      },
+      {
+        "pair": "NOCKUSD",
+        "pct_change_24h": 8.7415,
+        "last_price": 0.01443
+      },
+      {
+        "pair": "CYBERUSD",
+        "pct_change_24h": 6.9264,
+        "last_price": 0.247
+      },
+      {
+        "pair": "CPOOLUSD",
+        "pct_change_24h": 5.8013,
+        "last_price": 0.02535
+      },
+      {
+        "pair": "KERNELUSD",
+        "pct_change_24h": 5.5696,
+        "last_price": 0.05023
+      },
+      {
+        "pair": "REPPOUSD",
+        "pct_change_24h": 4.2636,
+        "last_price": 0.005869
+      },
+      {
+        "pair": "TAKEUSD",
+        "pct_change_24h": 4.1775,
+        "last_price": 0.06035
+      }
+    ]
   }
 ]
