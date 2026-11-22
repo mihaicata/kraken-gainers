@@ -25133,5 +25133,60 @@
         "last_price": 0.0139
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-22T05:47:56.254599+00:00",
+    "gainers": [
+      {
+        "pair": "AIUSD",
+        "pct_change_24h": 23.7216,
+        "last_price": 0.01742
+      },
+      {
+        "pair": "BFIUSD",
+        "pct_change_24h": 20.0901,
+        "last_price": 0.024
+      },
+      {
+        "pair": "JAILSTOOLUSD",
+        "pct_change_24h": 18.6876,
+        "last_price": 0.000832
+      },
+      {
+        "pair": "AUGURUSD",
+        "pct_change_24h": 14.3339,
+        "last_price": 0.7115
+      },
+      {
+        "pair": "WARUSD",
+        "pct_change_24h": 9.3023,
+        "last_price": 0.00047
+      },
+      {
+        "pair": "LIONUSD",
+        "pct_change_24h": 8.2411,
+        "last_price": 0.00088
+      },
+      {
+        "pair": "BLESSUSD",
+        "pct_change_24h": 7.726,
+        "last_price": 0.013288
+      },
+      {
+        "pair": "PUFFERUSD",
+        "pct_change_24h": 7.1299,
+        "last_price": 0.022974
+      },
+      {
+        "pair": "EDUUSD",
+        "pct_change_24h": 7.03,
+        "last_price": 0.04537
+      },
+      {
+        "pair": "ESPORTSUSD",
+        "pct_change_24h": 7.0078,
+        "last_price": 0.00962
+      }
+    ]
   }
 ]
