@@ -25243,5 +25243,60 @@
         "last_price": 0.36486
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-23T00:37:35.089319+00:00",
+    "gainers": [
+      {
+        "pair": "WARUSD",
+        "pct_change_24h": 20.9302,
+        "last_price": 0.00052
+      },
+      {
+        "pair": "BLUEUSD",
+        "pct_change_24h": 13.1477,
+        "last_price": 0.007031
+      },
+      {
+        "pair": "CTCUSD",
+        "pct_change_24h": 11.8443,
+        "last_price": 0.0661
+      },
+      {
+        "pair": "SCUSD",
+        "pct_change_24h": 11.2821,
+        "last_price": 0.000651
+      },
+      {
+        "pair": "BABYSHARKUSD",
+        "pct_change_24h": 11.2119,
+        "last_price": 0.001349
+      },
+      {
+        "pair": "ANONUSD",
+        "pct_change_24h": 10.8808,
+        "last_price": 0.214
+      },
+      {
+        "pair": "DENTUSD",
+        "pct_change_24h": 9.4637,
+        "last_price": 3.47e-05
+      },
+      {
+        "pair": "LIONUSD",
+        "pct_change_24h": 8.2411,
+        "last_price": 0.00088
+      },
+      {
+        "pair": "FXSUSD",
+        "pct_change_24h": 7.6923,
+        "last_price": 0.196
+      },
+      {
+        "pair": "AVLUSD",
+        "pct_change_24h": 7.4935,
+        "last_price": 0.014388
+      }
+    ]
   }
 ]
