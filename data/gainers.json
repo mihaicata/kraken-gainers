@@ -25298,5 +25298,60 @@
         "last_price": 0.014388
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-23T14:11:36.076306+00:00",
+    "gainers": [
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 29.1917,
+        "last_price": 3.0289
+      },
+      {
+        "pair": "CLOUDUSD",
+        "pct_change_24h": 28.131,
+        "last_price": 0.0665
+      },
+      {
+        "pair": "AVAAIUSD",
+        "pct_change_24h": 24.7059,
+        "last_price": 0.00742
+      },
+      {
+        "pair": "MUBARAKUSD",
+        "pct_change_24h": 23.5808,
+        "last_price": 0.02547
+      },
+      {
+        "pair": "BFIUSD",
+        "pct_change_24h": 22.018,
+        "last_price": 0.033001
+      },
+      {
+        "pair": "LSKUSD",
+        "pct_change_24h": 19.2984,
+        "last_price": 0.168336
+      },
+      {
+        "pair": "RVVUSD",
+        "pct_change_24h": 17.8082,
+        "last_price": 1.72e-05
+      },
+      {
+        "pair": "PEARLUSD",
+        "pct_change_24h": 17.7716,
+        "last_price": 2.4195
+      },
+      {
+        "pair": "BLESSUSD",
+        "pct_change_24h": 17.4548,
+        "last_price": 0.018902
+      },
+      {
+        "pair": "VELVETUSD",
+        "pct_change_24h": 15.0355,
+        "last_price": 0.0811
+      }
+    ]
   }
 ]
