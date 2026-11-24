@@ -25353,5 +25353,60 @@
         "last_price": 0.0811
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-24T02:47:22.800857+00:00",
+    "gainers": [
+      {
+        "pair": "LITUSD",
+        "pct_change_24h": 40.3509,
+        "last_price": 0.112
+      },
+      {
+        "pair": "SUNDOGUSD",
+        "pct_change_24h": 28.0,
+        "last_price": 0.00064
+      },
+      {
+        "pair": "INFIUSD",
+        "pct_change_24h": 21.0,
+        "last_price": 0.0484
+      },
+      {
+        "pair": "FIGHTUSD",
+        "pct_change_24h": 13.5762,
+        "last_price": 0.00343
+      },
+      {
+        "pair": "NESUSD",
+        "pct_change_24h": 12.7813,
+        "last_price": 0.18195
+      },
+      {
+        "pair": "BLESSUSD",
+        "pct_change_24h": 11.1433,
+        "last_price": 0.014971
+      },
+      {
+        "pair": "ODOSUSD",
+        "pct_change_24h": 10.0,
+        "last_price": 3.3e-05
+      },
+      {
+        "pair": "SAHARAUSD",
+        "pct_change_24h": 8.1871,
+        "last_price": 0.00555
+      },
+      {
+        "pair": "JAILSTOOLUSD",
+        "pct_change_24h": 7.6623,
+        "last_price": 0.000829
+      },
+      {
+        "pair": "PEPECOINUSD",
+        "pct_change_24h": 7.4617,
+        "last_price": 0.06596
+      }
+    ]
   }
 ]
