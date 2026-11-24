@@ -25408,5 +25408,60 @@
         "last_price": 0.06596
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-24T14:39:05.322632+00:00",
+    "gainers": [
+      {
+        "pair": "BLESSUSD",
+        "pct_change_24h": 31.5442,
+        "last_price": 0.017719
+      },
+      {
+        "pair": "SUNDOGUSD",
+        "pct_change_24h": 26.0,
+        "last_price": 0.00063
+      },
+      {
+        "pair": "DOVUUSD",
+        "pct_change_24h": 24.4767,
+        "last_price": 0.000773
+      },
+      {
+        "pair": "LITUSD",
+        "pct_change_24h": 23.183,
+        "last_price": 0.0983
+      },
+      {
+        "pair": "PROSUSD",
+        "pct_change_24h": 17.4737,
+        "last_price": 0.6817
+      },
+      {
+        "pair": "WFBUSD",
+        "pct_change_24h": 17.0264,
+        "last_price": 1.8324
+      },
+      {
+        "pair": "SAHARAUSD",
+        "pct_change_24h": 16.1793,
+        "last_price": 0.00596
+      },
+      {
+        "pair": "AUGURUSD",
+        "pct_change_24h": 14.4814,
+        "last_price": 0.7605
+      },
+      {
+        "pair": "PONDUSD",
+        "pct_change_24h": 14.4279,
+        "last_price": 0.00092
+      },
+      {
+        "pair": "ODOSUSD",
+        "pct_change_24h": 10.0,
+        "last_price": 3.3e-05
+      }
+    ]
   }
 ]
