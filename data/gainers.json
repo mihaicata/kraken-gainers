@@ -25463,5 +25463,60 @@
         "last_price": 3.3e-05
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-25T00:27:19.492843+00:00",
+    "gainers": [
+      {
+        "pair": "SUNDOGUSD",
+        "pct_change_24h": 42.0,
+        "last_price": 0.00071
+      },
+      {
+        "pair": "LITUSD",
+        "pct_change_24h": 16.5414,
+        "last_price": 0.093
+      },
+      {
+        "pair": "SYNDUSD",
+        "pct_change_24h": 11.2903,
+        "last_price": 0.00345
+      },
+      {
+        "pair": "DOVUUSD",
+        "pct_change_24h": 10.1449,
+        "last_price": 0.000684
+      },
+      {
+        "pair": "WINUSD",
+        "pct_change_24h": 10.0931,
+        "last_price": 5.984e-05
+      },
+      {
+        "pair": "CLOUDUSD",
+        "pct_change_24h": 9.5819,
+        "last_price": 0.0629
+      },
+      {
+        "pair": "ALKIMIUSD",
+        "pct_change_24h": 8.3333,
+        "last_price": 0.00026
+      },
+      {
+        "pair": "SODAUSD",
+        "pct_change_24h": 8.3333,
+        "last_price": 0.00195
+      },
+      {
+        "pair": "WARUSD",
+        "pct_change_24h": 7.1429,
+        "last_price": 0.00045
+      },
+      {
+        "pair": "JAILSTOOLUSD",
+        "pct_change_24h": 6.8831,
+        "last_price": 0.000823
+      }
+    ]
   }
 ]
