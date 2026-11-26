@@ -25573,5 +25573,60 @@
         "last_price": 1.6212
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-26T00:03:13.180321+00:00",
+    "gainers": [
+      {
+        "pair": "NESUSD",
+        "pct_change_24h": 35.8021,
+        "last_price": 0.23745
+      },
+      {
+        "pair": "EVAAUSD",
+        "pct_change_24h": 32.2521,
+        "last_price": 2.8417
+      },
+      {
+        "pair": "VFYUSD",
+        "pct_change_24h": 25.7235,
+        "last_price": 0.00391
+      },
+      {
+        "pair": "SOSOUSD",
+        "pct_change_24h": 18.7336,
+        "last_price": 0.3169
+      },
+      {
+        "pair": "VINEUSD",
+        "pct_change_24h": 17.5892,
+        "last_price": 0.00956
+      },
+      {
+        "pair": "RVVUSD",
+        "pct_change_24h": 12.8571,
+        "last_price": 1.58e-05
+      },
+      {
+        "pair": "PIPEUSD",
+        "pct_change_24h": 11.3684,
+        "last_price": 0.01058
+      },
+      {
+        "pair": "AIXBTUSD",
+        "pct_change_24h": 10.7018,
+        "last_price": 0.01262
+      },
+      {
+        "pair": "BERTUSD",
+        "pct_change_24h": 9.6321,
+        "last_price": 0.008343
+      },
+      {
+        "pair": "NPCUSD",
+        "pct_change_24h": 9.5366,
+        "last_price": 0.011038
+      }
+    ]
   }
 ]
