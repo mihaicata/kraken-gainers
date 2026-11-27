@@ -25683,5 +25683,60 @@
         "last_price": 3.3e-05
       }
     ]
+  },
+  {
+    "timestamp_utc": "2026-11-27T00:23:57.797131+00:00",
+    "gainers": [
+      {
+        "pair": "REPPOUSD",
+        "pct_change_24h": 61.1676,
+        "last_price": 0.009662
+      },
+      {
+        "pair": "UNFIUSD",
+        "pct_change_24h": 18.75,
+        "last_price": 0.0114
+      },
+      {
+        "pair": "PWTUSD",
+        "pct_change_24h": 14.3005,
+        "last_price": 0.3086
+      },
+      {
+        "pair": "CHILLHOUSEUSD",
+        "pct_change_24h": 12.1951,
+        "last_price": 0.00046
+      },
+      {
+        "pair": "CTCUSD",
+        "pct_change_24h": 11.2013,
+        "last_price": 0.0685
+      },
+      {
+        "pair": "B2USD",
+        "pct_change_24h": 10.1097,
+        "last_price": 0.4117
+      },
+      {
+        "pair": "DOVUUSD",
+        "pct_change_24h": 8.689,
+        "last_price": 0.000713
+      },
+      {
+        "pair": "SUNDOGUSD",
+        "pct_change_24h": 8.6207,
+        "last_price": 0.00063
+      },
+      {
+        "pair": "BONZOUSD",
+        "pct_change_24h": 7.5221,
+        "last_price": 0.00243
+      },
+      {
+        "pair": "BERTUSD",
+        "pct_change_24h": 7.4723,
+        "last_price": 0.008716
+      }
+    ]
   }
 ]
